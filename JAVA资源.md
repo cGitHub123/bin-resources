@@ -205,6 +205,10 @@
 
 * [jcabi-aspects](https://github.com/jcabi/jcabi-aspects) 面向切面编程一些封装好的例子 [![GitHub stars](https://img.shields.io/github/stars/jcabi/jcabi-aspects.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcabi/jcabi-aspects).
 
+* [gs-core](https://github.com/graphstream/gs-core) JAVA图处理 [![GitHub stars](https://img.shields.io/github/stars/graphstream/gs-core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graphstream/gs-core).
+
+* [geo](https://github.com/davidmoten/geo) GEOHASH，主要是把经纬度两个字段合并一个，并在不暴露地理位置的情况下做临近计算 [![GitHub stars](https://img.shields.io/github/stars/davidmoten/geo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/davidmoten/geo).
+
 ### 字节码/热替换/类加载
 
 * [byte-buddy](https://github.com/raphw/byte-buddy) 字节码生成 [![GitHub stars](https://img.shields.io/github/stars/raphw/byte-buddy?style=social&label=Star&maxAge=2592000)](https://github.com/raphw/byte-buddy).
@@ -384,6 +388,8 @@
 
 * [jjvm](https://github.com/caoym/jjvm) JAVA编写一个JVM，可以输出hello world [![GitHub stars](https://img.shields.io/github/stars/caoym/jjvm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/caoym/jjvm).
 
+* [hello-design-pattern](https://github.com/code4craft/hello-design-pattern) JAVA 23种设计模式 [![GitHub stars](https://img.shields.io/github/stars/code4craft/hello-design-pattern.svg?style=social&label=Star&maxAge=2592000)](https://github.com/code4craft/hello-design-pattern).
+
 ### 存储
 
 * [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
@@ -459,6 +465,8 @@
 * [NewsRecommendSystem](https://github.com/bluemapleman/NewsRecommendSystem) 个性化新闻推荐系统 [![GitHub stars](https://img.shields.io/github/stars/bluemapleman/NewsRecommendSystem.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bluemapleman/NewsRecommendSystem).
 
 * [AutoRepeater](https://github.com/nccgroup/AutoRepeater) HTTP请求重放 [![GitHub stars](https://img.shields.io/github/stars/nccgroup/AutoRepeater.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nccgroup/AutoRepeater).
+
+* [ytk-learn](https://github.com/yuantiku/ytk-learn) 一个分布式机器学习库，实现了GBDT等常用算法 [![GitHub stars](https://img.shields.io/github/stars/yuantiku/ytk-learn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yuantiku/ytk-learn).
 
 ### 区块链
 
