@@ -209,6 +209,24 @@
 
 * [geo](https://github.com/davidmoten/geo) GEOHASH，主要是把经纬度两个字段合并一个，并在不暴露地理位置的情况下做临近计算 [![GitHub stars](https://img.shields.io/github/stars/davidmoten/geo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/davidmoten/geo).
 
+* [Geohash](https://github.com/GongDexing/Geohash) GEOHASH，主要是把经纬度两个字段合并一个，并在不暴露地理位置的情况下做临近计算 [![GitHub stars](https://img.shields.io/github/stars/GongDexing/Geohash.svg?style=social&label=Star&maxAge=2592000)](https://github.com/GongDexing/Geohash).
+
+* [ipdatabase](https://github.com/wzhe06/ipdatabase) IP标准库 [![GitHub stars](https://img.shields.io/github/stars/wzhe06/ipdatabase.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wzhe06/ipdatabase).
+
+* [mug](https://github.com/google/mug) 一个guava的补充 [![GitHub stars](https://img.shields.io/github/stars/google/mug.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/mug).
+
+* [GsonFactory](https://github.com/getActivity/GsonFactory) gson容错解析 [![GitHub stars](https://img.shields.io/github/stars/getActivity/GsonFactory.svg?style=social&label=Star&maxAge=2592000)](https://github.com/getActivity/GsonFactory).
+
+* [unix4j](https://github.com/tools4j/unix4j) 一个java操作linux命令行工具 [![GitHub stars](https://img.shields.io/github/stars/tools4j/unix4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tools4j/unix4j).
+
+* [jkcp](https://github.com/beykery/jkcp) kcp for java 主要是视频加速 [![GitHub stars](https://img.shields.io/github/stars/beykery/jkcp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/beykery/jkcp).
+
+* [java-Kcp](https://github.com/l42111996/java-Kcp) 基于java的netty实现的可靠udp网络库(kcp算法)，包含fec实现，可用于游戏，视频，加速等业务 [![GitHub stars](https://img.shields.io/github/stars/l42111996/java-Kcp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/l42111996/java-Kcp).
+
+* [dynamic-proxy](https://github.com/neoremind/dynamic-proxy) java动态代理 [![GitHub stars](https://img.shields.io/github/stars/neoremind/dynamic-proxy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/neoremind/dynamic-proxy).
+
+* [java-cookie](https://github.com/js-cookie/java-cookie) java cookie处理 [![GitHub stars](https://img.shields.io/github/stars/js-cookie/java-cookie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/js-cookie/java-cookie).
+
 ### 字节码/热替换/类加载
 
 * [byte-buddy](https://github.com/raphw/byte-buddy) 字节码生成 [![GitHub stars](https://img.shields.io/github/stars/raphw/byte-buddy?style=social&label=Star&maxAge=2592000)](https://github.com/raphw/byte-buddy).
@@ -231,6 +249,8 @@
 
 * [oshi](https://github.com/oshi/oshi) 获得操作系统信息，系统运行信息，硬件信息的库  [![GitHub stars](https://img.shields.io/github/stars/oshi/oshi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oshi/oshi).
 
+* [juds](https://github.com/mcfunley/juds) UNIX SOCKET 库  [![GitHub stars](https://img.shields.io/github/stars/mcfunley/juds.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mcfunley/juds).
+
 ### 多线程
 
 * [Kilim](https://github.com/kilim/kilim) java轻量级线程.  [![GitHub stars](https://img.shields.io/github/stars/kilim/kilim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kilim/kilim).
@@ -252,6 +272,12 @@
 * [threadandjuc](https://github.com/qiurunze123/threadandjuc) 在于利用多线程进行千万级别导入,实现可扩展,高性能,高可用,高可靠三个高，本项目可以在千万级别数据实现无差别高性能数据上报 与导入,与普通导入相比性能提高10倍左右 [![GitHub stars](https://img.shields.io/github/stars/qiurunze123/threadandjuc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/qiurunze123/threadandjuc).
 
 * [jcip.github.com](https://github.com/jcip/jcip.github.com) JAVA多线程实战 [![GitHub stars](https://img.shields.io/github/stars/jcip/jcip.github.com.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcip/jcip.github.com).
+
+* [coroutines](https://github.com/offbynull/coroutines) JAVA协程 [![GitHub stars](https://img.shields.io/github/stars/offbynull/coroutines.svg?style=social&label=Star&maxAge=2592000)](https://github.com/offbynull/coroutines).
+
+* [throwing-function](https://github.com/pivovarit/throwing-function) lambda中异常处理 [![GitHub stars](https://img.shields.io/github/stars/pivovarit/throwing-function.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pivovarit/throwing-function).
+
+
 
 ### 分布式
 
@@ -324,6 +350,10 @@
 
 * [tda](https://github.com/irockel/tda) JAVA线程分析工具 [![GitHub stars](https://img.shields.io/github/stars/irockel/tda.svg?style=social&label=Star&maxAge=2592000)](https://github.com/irockel/tda).
 
+* [dumpclass](https://github.com/hengyunabc/dumpclass) JAVA DUMP线程中的class [![GitHub stars](https://img.shields.io/github/stars/irockel/tda.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hengyunabc/dumpclass).
+
+* [anylog](https://github.com/jobop/anylog) 在不重启的情况下插入日志，这玩意慎用 [![GitHub stars](https://img.shields.io/github/stars/jobop/anylog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jobop/anylog).
+
 ### 安全
 
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).
@@ -353,6 +383,8 @@
 * [asynchbase](https://github.com/OpenTSDB/asynchbase) hbase client异步高性能调用  [![GitHub stars](https://img.shields.io/github/stars/OpenTSDB/asynchbase.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OpenTSDB/asynchbase).
 
 * [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) java TLS分析  [![GitHub stars](https://img.shields.io/github/stars/tls-attacker/TLS-Attacker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tls-attacker/TLS-Attacker).
+
+* [jasypt](https://github.com/jasypt/jasypt) java加密解密框架  [![GitHub stars](https://img.shields.io/github/stars/jasypt/jasypt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jasypt/jasypt).
 
 ### 资源收集
 
@@ -390,6 +422,8 @@
 
 * [hello-design-pattern](https://github.com/code4craft/hello-design-pattern) JAVA 23种设计模式 [![GitHub stars](https://img.shields.io/github/stars/code4craft/hello-design-pattern.svg?style=social&label=Star&maxAge=2592000)](https://github.com/code4craft/hello-design-pattern).
 
+* [java8-misuses](https://github.com/xpinjection/java8-misuses) JAVA8容易犯的错误 [![GitHub stars](https://img.shields.io/github/stars/xpinjection/java8-misuses.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xpinjection/java8-misuses).
+
 ### 存储
 
 * [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
@@ -422,6 +456,8 @@
 
 * [kareldb](https://github.com/rayokota/kareldb) 一个基于kafka的关系型数据库 [![GitHub stars](https://img.shields.io/github/stars/rayokota/kareldb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rayokota/kareldb).
 
+* [haeinsa](https://github.com/VCNC/haeinsa) hbase事务 [![GitHub stars](https://img.shields.io/github/stars/VCNC/haeinsa.svg?style=social&label=Star&maxAge=2592000)](https://github.com/VCNC/haeinsa).
+
 ### 流处理
 
 * [beam](https://github.com/apache/beam) 对spark,flink的统一抽象，可以隐藏不同流处理框架，统一接口 [![GitHub stars](https://img.shields.io/github/stars/apache/beam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/beam).
@@ -431,6 +467,11 @@
 * [stream-lib](https://github.com/addthis/stream-lib) 实时计算工具库 [![GitHub stars](https://img.shields.io/github/stars/addthis/stream-lib.svg?style=social&label=Star&maxAge=2592000)](https://github.com/addthis/stream-lib).
 
 * [kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) kafka流处理，和flink spark一个性质 [![GitHub stars](https://img.shields.io/github/stars/confluentinc/kafka-streams-examples.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/kafka-streams-examples).
+
+* [streaminer](https://github.com/mayconbordin/streaminer) 基于流的数据挖掘算法库 [![GitHub stars](https://img.shields.io/github/stars/mayconbordin/streaminer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mayconbordin/streaminer).
+
+
+
 
 ### AI
 
@@ -454,6 +495,8 @@
 
 * [egads](https://github.com/yahoo/egads) yahoo异常检测框架 [![GitHub stars](https://img.shields.io/github/stars/yahoo/egads.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yahoo/egads).
 
+* [AnomalyDetection](https://github.com/JeemyJohn/AnomalyDetection) 异常检测框架 [![GitHub stars](https://img.shields.io/github/stars/JeemyJohn/AnomalyDetection.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JeemyJohn/AnomalyDetection).
+
 * [lenskit](https://github.com/lenskit/lenskit) JAVA推荐系统 [![GitHub stars](https://img.shields.io/github/stars/lenskit/lenskit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lenskit/lenskit).
 
 * [AhoCorasickDoubleArrayTrie](https://github.com/hankcs/AhoCorasickDoubleArrayTrie) 在一个长字符串里面快速检索关键词 [![GitHub stars](https://img.shields.io/github/stars/hankcs/AhoCorasickDoubleArrayTrie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hankcs/AhoCorasickDoubleArrayTrie).
@@ -467,6 +510,16 @@
 * [AutoRepeater](https://github.com/nccgroup/AutoRepeater) HTTP请求重放 [![GitHub stars](https://img.shields.io/github/stars/nccgroup/AutoRepeater.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nccgroup/AutoRepeater).
 
 * [ytk-learn](https://github.com/yuantiku/ytk-learn) 一个分布式机器学习库，实现了GBDT等常用算法 [![GitHub stars](https://img.shields.io/github/stars/yuantiku/ytk-learn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yuantiku/ytk-learn).
+
+* [jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns) java推荐与排序 [![GitHub stars](https://img.shields.io/github/stars/HongZhaoHua/jstarcraft-rns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/HongZhaoHua/jstarcraft-rns).
+
+* [image-similarity](https://github.com/nivance/image-similarity) 图片相似读比较 [![GitHub stars](https://img.shields.io/github/stars/nivance/image-similarity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nivance/image-similarity).
+
+* [xgboost-predictor-java](https://github.com/komiya-atsushi/xgboost-predictor-java) java xgboost框架 [![GitHub stars](https://img.shields.io/github/stars/komiya-atsushi/xgboost-predictor-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/komiya-atsushi/xgboost-predictor-java).
+
+* [RankSys](https://github.com/RankSys/RankSys) 一个推荐系统框架 [![GitHub stars](https://img.shields.io/github/stars/RankSys/RankSys.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RankSys/RankSys).
+
+* [fast-cosine-similarity](https://github.com/StaySense/fast-cosine-similarity) 基于ES的余弦相似度比较 [![GitHub stars](https://img.shields.io/github/stars/StaySense/fast-cosine-similarity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StaySense/fast-cosine-similarity).
 
 ### 区块链
 
