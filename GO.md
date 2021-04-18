@@ -26,6 +26,17 @@
 
 * [dnscontrol](https://github.com/StackExchange/dnscontrol) 同步DNS [![GitHub stars](https://img.shields.io/github/stars/vzex/dnscontrol.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StackExchange/dnscontrol).
 
+* [sish](https://github.com/antoniomika/sish) sish是一个SSH服务器,仅用于远程端口转发,可以快速将本地端口暴露在外网 [![GitHub stars](https://img.shields.io/github/stars/antoniomika/sish.svg?style=social&label=Star&maxAge=2592000)](https://github.com/antoniomika/sish).
+
+* [qtunnel](https://github.com/getqujing/qtunnel) qTunnel 是 getqujing.com 使用的安全套接字隧道，是 Stunnel/stud 的替代品 [![GitHub stars](https://img.shields.io/github/stars/getqujing/qtunnel.svg?style=social&label=Star&maxAge=2592000)](https://github.com/getqujing/qtunnel).
+
+* [pingtunnel](https://github.com/esrrhs/pingtunnel) 把 tcp/udp/sock5 流量伪装成 icmp 流量进行转发的工具 [![GitHub stars](https://img.shields.io/github/stars/esrrhs/pingtunnel.svg?style=social&label=Star&maxAge=2592000)](https://github.com/esrrhs/pingtunnel).
+
+* [water](https://github.com/songgao/water) GO的TUN/TAP虚拟网络设备库 [![GitHub stars](https://img.shields.io/github/stars/songgao/water.svg?style=social&label=Star&maxAge=2592000)](https://github.com/songgao/water).
+
+* [grimd](https://github.com/looterz/grimd) DNS代理 [![GitHub stars](https://img.shields.io/github/stars/looterz/grimd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/looterz/grimd).
+
+* [mr2](https://github.com/txthinking/mr2) 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. [![GitHub stars](https://img.shields.io/github/stars/txthinking/mr2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/txthinking/mr2).
 
 ### 工具
 
@@ -63,8 +74,21 @@
 
 * [tail](https://github.com/hpcloud/tail) go的tail工具 [![GitHub stars](https://img.shields.io/github/stars/hpcloud/tail.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hpcloud/tail).
 
+* [c2go](https://github.com/elliotchance/c2go) 将C代码转成GO [![GitHub stars](https://img.shields.io/github/stars/elliotchance/c2go.svg?style=social&label=Star&maxAge=2592000)](https://github.com/elliotchance/c2go).
 
+* [youtube](https://github.com/kkdai/youtube) youtube下载工具 [![GitHub stars](https://img.shields.io/github/stars/kkdai/youtube.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kkdai/youtube).
 
+* [10billionhongbaos](https://github.com/xiaojiaqi/10billionhongbaos) go单机100W并发 [![GitHub stars](https://img.shields.io/github/stars/xiaojiaqi/10billionhongbaos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xiaojiaqi/10billionhongbaos).
+
+* [BoomFilters](https://github.com/tylertreat/BoomFilters) GO实现BoomFilters [![GitHub stars](https://img.shields.io/github/stars/tylertreat/BoomFilters.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tylertreat/BoomFilters).
+
+* [dosco/graphjin](https://github.com/dosco/graphjin) G0 graphQL工具 [![GitHub stars](https://img.shields.io/github/stars/dosco/graphjin.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dosco/graphjin).
+
+* [go-sniffer](https://github.com/40t/go-sniffer) 包截取项目中的数据库请求并解析成相应的语句 [![GitHub stars](https://img.shields.io/github/stars/40t/go-sniffer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/40t/go-sniffer).
+
+* [go-getter](https://github.com/hashicorp/go-getter) 使用不同协议从同一个URL下载资源 [![GitHub stars](https://img.shields.io/github/stars/hashicorp/go-getter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hashicorp/go-getter).
+
+* [jaeles](https://github.com/jaeles-project/jaeles) wen安全审查 [![GitHub stars](https://img.shields.io/github/stars/jaeles-project/jaeles.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jaeles-project/jaeles).
 
 ### 多线程
 
@@ -98,6 +122,8 @@
 
 * [libnetwork](https://github.com/moby/libnetwork) 容器中的网络 [![GitHub stars](https://img.shields.io/github/stars/moby/libnetwork.svg?style=social&label=Star&maxAge=2592000)](https://github.com/moby/libnetwork).
 
+* [mydocker](https://github.com/xianlubird/mydocker) <<自己动手写docker>> 源码 [![GitHub stars](https://img.shields.io/github/stars/xianlubird/mydocker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xianlubird/mydocker).
+
 ### 运维监控
 
 * [loki](https://github.com/grafana/loki) 想Prometheus一样，但是是为日志而生 [![GitHub stars](https://img.shields.io/github/stars/grafana/loki.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grafana/loki).
@@ -124,6 +150,14 @@
 
 * [goatcounter](https://github.com/zgoat/goatcounter) 替代Google Analytics的轻量级分析工具  [![GitHub stars](https://img.shields.io/github/stars/zgoat/goatcounter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zgoat/goatcounter).
 
+* [grmon](https://github.com/bcicen/grmon) 基于命令行的协程监控工具  [![GitHub stars](https://img.shields.io/github/stars/bcicen/grmon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bcicen/grmon).
+
+* [jvm-mon](https://github.com/ajermakovics/jvm-mon) JVM监控工具  [![GitHub stars](https://img.shields.io/github/stars/ajermakovics/jvm-mon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ajermakovics/jvm-mon).
+
+* [ebpf](https://github.com/cilium/ebpf) GO EBPF  [![GitHub stars](https://img.shields.io/github/stars/cilium/ebpf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cilium/ebpf).
+
+* [fibratus](https://github.com/rabbitstack/fibratus) windows内核探索和追踪  [![GitHub stars](https://img.shields.io/github/stars/rabbitstack/fibratus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rabbitstack/fibratus).
+
 ### 存储
 
 * [seaweedfs](https://github.com/chrislusf/seaweedfs) SeaweedFS 是简单，高伸缩性的分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/go-kratos/kratos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chrislusf/seaweedfs).
@@ -138,6 +172,9 @@
 
 * [minikeyvalue](https://github.com/geohot/minikeyvalue) 一个1000行代码实现的KV存储系统，有生产环境在用 [![GitHub stars](https://img.shields.io/github/stars/geohot/minikeyvalue.svg?style=social&label=Star&maxAge=2592000)](https://github.com/geohot/minikeyvalue).
 
+* [TMSU](https://github.com/oniony/TMSU) TMSU 是一个让你可以使用标签来组织文件的应用程序，提供了用来管理标签的工具和一个虚拟文件系统来通过使用标签访问文件 [![GitHub stars](https://img.shields.io/github/stars/geohot/oniony/TMSU.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oniony/TMSU).
+
+* [bfs](https://github.com/Terry-Mao/bfs) 分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/Terry-Mao/bfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Terry-Mao/bfs).
 
 ### 分布式
 
@@ -167,6 +204,10 @@
 
 * [onionscan](https://github.com/s-rah/onionscan) 暗网扫描 [![GitHub stars](https://img.shields.io/github/stars/s-rah/onionscan).svg?style=social&label=Star&maxAge=2592000)](https://github.com/s-rah/onionscan).
 
+* [teler](https://github.com/kitabisa/teler) 监控HTTP攻击 [![GitHub stars](https://img.shields.io/github/stars/kitabisa/teler).svg?style=social&label=Star&maxAge=2592000)](https://github.com/kitabisa/teler).
+
+* [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) web安全工具集 [![GitHub stars](https://img.shields.io/github/stars/hahwul/WebHackersWeapons).svg?style=social&label=Star&maxAge=2592000)](https://github.com/hahwul/WebHackersWeapons).
+
 ### 资源
 
 * [learngo](https://github.com/inancgumus/learngo) 好好学习go [![GitHub stars](https://img.shields.io/github/stars/inancgumus/learngo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/inancgumus/learngo).
@@ -184,3 +225,7 @@
 * [go-libp2p](https://github.com/libp2p/go-libp2p) 一个星际文件系统的底层实现 [![GitHub stars](https://img.shields.io/github/stars/libp2p/go-libp2p.svg?style=social&label=Star&maxAge=2592000)](https://github.com/libp2p/go-libp2p).
 
 * [cointop](https://github.com/miguelmota/cointop) 上班期间，打开命令行，看看币价 [![GitHub stars](https://img.shields.io/github/stars/miguelmota/cointop.svg?style=social&label=Star&maxAge=2592000)](https://github.com/miguelmota/cointop).
+
+* [lotus](https://github.com/filecoin-project/lotus) GO实现Filecoin协议 [![GitHub stars](https://img.shields.io/github/stars/filecoin-project/lotus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/filecoin-project/lotus).
+
+* [blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) 200行代码实现区块链 [![GitHub stars](https://img.shields.io/github/stars/filecoin-project/lotus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nosequeldeebee/blockchain-tutorial).
