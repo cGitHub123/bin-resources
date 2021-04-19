@@ -90,6 +90,10 @@
 
 * [jaeles](https://github.com/jaeles-project/jaeles) wen安全审查 [![GitHub stars](https://img.shields.io/github/stars/jaeles-project/jaeles.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jaeles-project/jaeles).
 
+* [torrent-client](https://github.com/veggiedefender/torrent-client) 一个BT客户端 [![GitHub stars](https://img.shields.io/github/stars/veggiedefender/torrent-client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/veggiedefender/torrent-client).
+
+* [bed](https://github.com/itchyny/bed) 一个GO二进制编辑器 [![GitHub stars](https://img.shields.io/github/stars/itchyny/bed.svg?style=social&label=Star&maxAge=2592000)](https://github.com/itchyny/bed).
+
 ### 多线程
 
 * [ants](https://github.com/panjf2000/ants) 高性能且低损耗的 goroutine 池 [![GitHub stars](https://img.shields.io/github/stars/panjf2000/ants.svg?style=social&label=Star&maxAge=2592000)](https://github.com/panjf2000/ants).
@@ -158,6 +162,8 @@
 
 * [fibratus](https://github.com/rabbitstack/fibratus) windows内核探索和追踪  [![GitHub stars](https://img.shields.io/github/stars/rabbitstack/fibratus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rabbitstack/fibratus).
 
+* [PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等  [![GitHub stars](https://img.shields.io/github/stars/feiyu563/PrometheusAlert.svg?style=social&label=Star&maxAge=2592000)](https://github.com/feiyu563/PrometheusAlert).
+
 ### 存储
 
 * [seaweedfs](https://github.com/chrislusf/seaweedfs) SeaweedFS 是简单，高伸缩性的分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/go-kratos/kratos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chrislusf/seaweedfs).
@@ -202,11 +208,15 @@
 
 * [illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) tls学习，到每一个byte [![GitHub stars](https://img.shields.io/github/stars/syncsynchalt/illustrated-tls.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syncsynchalt/illustrated-tls).
 
-* [onionscan](https://github.com/s-rah/onionscan) 暗网扫描 [![GitHub stars](https://img.shields.io/github/stars/s-rah/onionscan).svg?style=social&label=Star&maxAge=2592000)](https://github.com/s-rah/onionscan).
+* [onionscan](https://github.com/s-rah/onionscan) 暗网扫描 [![GitHub stars](https://img.shields.io/github/stars/s-rah/onionscan.svg?style=social&label=Star&maxAge=2592000)](https://github.com/s-rah/onionscan).
 
-* [teler](https://github.com/kitabisa/teler) 监控HTTP攻击 [![GitHub stars](https://img.shields.io/github/stars/kitabisa/teler).svg?style=social&label=Star&maxAge=2592000)](https://github.com/kitabisa/teler).
+* [teler](https://github.com/kitabisa/teler) 监控HTTP攻击 [![GitHub stars](https://img.shields.io/github/stars/kitabisa/teler.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kitabisa/teler).
 
-* [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) web安全工具集 [![GitHub stars](https://img.shields.io/github/stars/hahwul/WebHackersWeapons).svg?style=social&label=Star&maxAge=2592000)](https://github.com/hahwul/WebHackersWeapons).
+* [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) web安全工具集 [![GitHub stars](https://img.shields.io/github/stars/hahwul/WebHackersWeapons.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hahwul/WebHackersWeapons).
+
+* [fscan](https://github.com/shadow1ng/fscan) 内网扫描 [![GitHub stars](https://img.shields.io/github/stars/shadow1ng/fscan.svg?style=social&label=Star&maxAge=2592000)](https://github.com/shadow1ng/fscan).
+
+* [broxy](https://github.com/rhaidiz/broxy) HTTP/HTTPS拦截 [![GitHub stars](https://img.shields.io/github/stars/rhaidiz/broxy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rhaidiz/broxy).
 
 ### 资源
 
@@ -215,6 +225,8 @@
 * [The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) GO标准库 [![GitHub stars](https://img.shields.io/github/stars/polaris1119/The-Golang-Standard-Library-by-Example.svg?style=social&label=Star&maxAge=2592000)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example).
 
 * [jvm.go](https://github.com/zxh0/jvm.go) 一个玩具级别的JVM [![GitHub stars](https://img.shields.io/github/stars/zxh0/jvm.go.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zxh0/jvm.go).
+
+* [go-daily-lib](https://github.com/darjun/go-daily-lib) GO每日一库 [![GitHub stars](https://img.shields.io/github/stars/darjun/go-daily-lib.svg?style=social&label=Star&maxAge=2592000)](https://github.com/darjun/go-daily-lib).
 
 ### 区块链
 
