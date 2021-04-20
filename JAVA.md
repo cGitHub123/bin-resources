@@ -31,8 +31,6 @@
 
 ### 开发工具
 
-* [Puniverse Quasar](https://github.com/puniverse/quasar) 一个基于JVM的协程框架.[![GitHub stars](https://img.shields.io/github/stars/puniverse/quasar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/quasar)
-
 *  [Oblac Jodd](https://github.com/oblac/jodd) 一个JAVA开源工具集， 可以看作JAVA的瑞士军刀，Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.5 Mb.  [![GitHub stars](https://img.shields.io/github/stars/oblac/jodd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oblac/jodd)
 
 * [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
@@ -253,6 +251,8 @@
 
 ### 多线程
 
+* [Puniverse Quasar](https://github.com/puniverse/quasar) 一个基于JVM的协程框架.[![GitHub stars](https://img.shields.io/github/stars/puniverse/quasar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/quasar)
+
 * [Kilim](https://github.com/kilim/kilim) java轻量级线程.  [![GitHub stars](https://img.shields.io/github/stars/kilim/kilim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kilim/kilim).
 
 * [JCTools](https://github.com/JCTools/JCTools) JVM并发工具[![GitHub stars](https://img.shields.io/github/stars/JCTools/JCTools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JCTools/JCTools).
@@ -262,8 +262,6 @@
 * [awaitility](https://github.com/awaitility/awaitility) 同步"异步"操作，比如我们测试的时候 [![GitHub stars](https://img.shields.io/github/stars/awaitility/awaitility.svg?style=social&label=Star&maxAge=2592000)](https://github.com/awaitility/awaitility).
 
 * [concurrent](https://github.com/RedSpider1/concurrent) RedSpider社区成员原创与维护的Java多线程系列文章 [![GitHub stars](https://img.shields.io/github/stars/RedSpider1/concurrent.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RedSpider1/concurrent).
-
-* [kilim](https://github.com/kilim/kilim) JAVA轻量集线程库 [![GitHub stars](https://img.shields.io/github/stars/kilim/kilim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kilim/kilim).
 
 * [java-concurrency-patterns](https://github.com/LeonardoZ/java-concurrency-patterns) JAVA多线程资源 [![GitHub stars](https://img.shields.io/github/stars/LeonardoZ/java-concurrency-patterns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LeonardoZ/java-concurrency-patterns).
 
@@ -276,8 +274,6 @@
 * [coroutines](https://github.com/offbynull/coroutines) JAVA协程 [![GitHub stars](https://img.shields.io/github/stars/offbynull/coroutines.svg?style=social&label=Star&maxAge=2592000)](https://github.com/offbynull/coroutines).
 
 * [throwing-function](https://github.com/pivovarit/throwing-function) lambda中异常处理 [![GitHub stars](https://img.shields.io/github/stars/pivovarit/throwing-function.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pivovarit/throwing-function).
-
-
 
 ### 分布式
 
@@ -305,7 +301,7 @@
 
 * [sofa-ark](https://github.com/sofastack/sofa-ark) Java 实现的轻量级类隔离容器，由蚂蚁金服公司开源贡献；主要提供类隔离和应用（模块）动态部署能力 [![GitHub stars](https://img.shields.io/github/stars/sofastack/sofa-ark.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sofastack/sofa-ark).
 
-* [brpc-java](https://github.com/baidu/brpc-java) brpc-java 是 baidu rpc 的 java 版本实现，支持 baidu rpc、nshead、sofa、hulu、http、stargate、dubbo 等协议 [![GitHub stars](https://img.shields.io/github/stars/baidu/brpc-jav.svg?style=social&label=Star&maxAge=2592000)](https://github.com/baidu/brpc-java).
+* [brpc-java](https://github.com/baidu/brpc-java) brpc-java 是 baidu rpc 的 java 版本实现，支持 baidu rpc、nshead、sofa、hulu、http、stargate、dubbo 等协议 [![GitHub stars](https://img.shields.io/github/stars/baidu/brpc-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/baidu/brpc-java).
 
 * [ratis](https://github.com/apache/ratis) java实现raft协议 [![GitHub stars](https://img.shields.io/github/stars/apache/ratis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ratis).
 
@@ -462,7 +458,7 @@
 
 * [beam](https://github.com/apache/beam) 对spark,flink的统一抽象，可以隐藏不同流处理框架，统一接口 [![GitHub stars](https://img.shields.io/github/stars/apache/beam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/beam).
 
-* [ksql](https://github.com/confluentinc/ksql) 一个基于kafka的数据库，可以根据kafka数据来构建schema [![GitHub stars](https://img.shields.io/github/stars/confluentinc/ksq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/ksql).
+* [ksql](https://github.com/confluentinc/ksql) 一个基于kafka的数据库，可以根据kafka数据来构建schema [![GitHub stars](https://img.shields.io/github/stars/confluentinc/ksql.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/ksql).
 
 * [stream-lib](https://github.com/addthis/stream-lib) 实时计算工具库 [![GitHub stars](https://img.shields.io/github/stars/addthis/stream-lib.svg?style=social&label=Star&maxAge=2592000)](https://github.com/addthis/stream-lib).
 

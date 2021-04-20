@@ -88,7 +88,7 @@
 
 * [go-getter](https://github.com/hashicorp/go-getter) 使用不同协议从同一个URL下载资源 [![GitHub stars](https://img.shields.io/github/stars/hashicorp/go-getter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hashicorp/go-getter).
 
-* [jaeles](https://github.com/jaeles-project/jaeles) wen安全审查 [![GitHub stars](https://img.shields.io/github/stars/jaeles-project/jaeles.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jaeles-project/jaeles).
+* [jaeles](https://github.com/jaeles-project/jaeles) web安全审查 [![GitHub stars](https://img.shields.io/github/stars/jaeles-project/jaeles.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jaeles-project/jaeles).
 
 * [torrent-client](https://github.com/veggiedefender/torrent-client) 一个BT客户端 [![GitHub stars](https://img.shields.io/github/stars/veggiedefender/torrent-client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/veggiedefender/torrent-client).
 
