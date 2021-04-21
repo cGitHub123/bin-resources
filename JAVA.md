@@ -237,7 +237,7 @@
 
 ### 序列化
 
-* [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/xerial/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
+* [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
 
 ### 反射
 

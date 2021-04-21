@@ -178,7 +178,7 @@
 
 * [minikeyvalue](https://github.com/geohot/minikeyvalue) 一个1000行代码实现的KV存储系统，有生产环境在用 [![GitHub stars](https://img.shields.io/github/stars/geohot/minikeyvalue.svg?style=social&label=Star&maxAge=2592000)](https://github.com/geohot/minikeyvalue).
 
-* [TMSU](https://github.com/oniony/TMSU) TMSU 是一个让你可以使用标签来组织文件的应用程序，提供了用来管理标签的工具和一个虚拟文件系统来通过使用标签访问文件 [![GitHub stars](https://img.shields.io/github/stars/geohot/oniony/TMSU.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oniony/TMSU).
+* [TMSU](https://github.com/oniony/TMSU) TMSU 是一个让你可以使用标签来组织文件的应用程序，提供了用来管理标签的工具和一个虚拟文件系统来通过使用标签访问文件 [![GitHub stars](https://img.shields.io/github/stars/oniony/TMSU.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oniony/TMSU).
 
 * [bfs](https://github.com/Terry-Mao/bfs) 分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/Terry-Mao/bfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Terry-Mao/bfs).
 
