@@ -23,11 +23,15 @@
 
 * [springfox](https://github.com/springfox/springfox) 自动生成spring文档 [![GitHub stars](https://img.shields.io/github/stars/springfox/springfox.svg?style=social&label=Star&maxAge=2592000)](https://github.com/springfox/springfox).
 
+* [moco](https://github.com/dreamhead/moco) 快速搭建一个可以返回HTTP请求的服务器 [![GitHub stars](https://img.shields.io/github/stars/dreamhead/moco.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dreamhead/moco).
+
+### 测试
+
 * [karate](https://github.com/intuit/karate) Web-API自动化测试框架,无需使用java语言，自动灵活的比较JSON和XML [![GitHub stars](https://img.shields.io/github/stars/intuit/karate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/intuit/karate).
 
 * [wiremock](https://github.com/tomakehurst/wiremock) 是一个开源的测试工具,支持HTTP响应存根、请求验证、代理/拦截、记录和回放 [![GitHub stars](https://img.shields.io/github/stars/tomakehurst/wiremock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tomakehurst/wiremock).
 
-* [moco](https://github.com/dreamhead/moco) 快速搭建一个可以返回HTTP请求的服务器 [![GitHub stars](https://img.shields.io/github/stars/dreamhead/moco.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dreamhead/moco).
+* [mockito](https://github.com/mockito/mockito) MOCK工具 [![GitHub stars](https://img.shields.io/github/stars/mockito/mockito.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mockito/mockito).
 
 ### 开发工具
 
@@ -70,12 +74,6 @@
 * [lettuce-core](https://github.com/lettuce-io/lettuce-core) 一个高级的redis客户端，支持同步，异步，反应式，订阅 [![GitHub stars](https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social&label=Star&maxAge=2592000)](https://github.com/lettuce-io/lettuce-core).
 
 * [javaparser](https://github.com/javaparser/javaparser) 可以加载java文件并执行 [![GitHub stars](https://img.shields.io/github/stars/javaparser/javaparser?style=social&label=Star&maxAge=2592000)](https://github.com/javaparser/javaparser).
-
-* [reflections](https://github.com/ronmamo/reflections) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/ronmamo/reflections.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ronmamo/reflections).
-
-* [reflectasm](https://github.com/EsotericSoftware/reflectasm) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/reflectasm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/reflectasm).
-
-* [jOOR](https://github.com/jOOQ/jOOR) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/jOOQ/jOOR.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jOOQ/jOOR).
 
 * [drools](https://github.com/kiegroup/drools) 规则引擎 [![GitHub stars](https://img.shields.io/github/stars/kiegroup/drools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kiegroup/drools).
 
@@ -229,9 +227,26 @@
 
 * [snappy-java](https://github.com/xerial/snappy-java) 压缩解压库 [![GitHub stars](https://img.shields.io/github/stars/xerial/snappy-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xerial/snappy-java).
 
+* [lz4-java](https://github.com/lz4/lz4-java) LZ4压缩的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/xerial/snappy-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lz4/lz4-java).
+
+* [jdom](https://github.com/hunterhacker/jdom) JAVA操作XML [![GitHub stars](https://img.shields.io/github/stars/hunterhacker/jdom.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hunterhacker/jdom).
+
+* [jnanoid](https://github.com/aventrix/jnanoid) 一个生成字符串类型的ID生成器 [![GitHub stars](https://img.shields.io/github/stars/aventrix/jnanoid.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aventrix/jnanoid).
+
+
 ### 序列化
 
-* [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/xerial/apache/avro.svg?style=social&label=Star&maxAge=2592000)](hhttps://github.com/apache/avro).
+* [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/xerial/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
+
+### 反射
+
+* [reflections](https://github.com/ronmamo/reflections) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/ronmamo/reflections.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ronmamo/reflections).
+
+* [reflectasm](https://github.com/EsotericSoftware/reflectasm) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/reflectasm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/reflectasm).
+
+* [jOOR](https://github.com/jOOQ/jOOR) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/jOOQ/jOOR.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jOOQ/jOOR).
+
+* [fest-reflect](https://github.com/alexruiz/fest-reflect) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/alexruiz/fest-reflect.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alexruiz/fest-reflect).
 
 ### 测试
 
@@ -307,7 +322,7 @@
 
 * [opentracing-java](https://github.com/opentracing/opentracing-java) 分布式链路追踪 [![GitHub stars](https://img.shields.io/github/stars/opentracing/opentracing-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/opentracing/opentracing-java).
 
-* [bt](https://github.com/atomashpolskiy/bt) 一个轻量级BitTorrent框架 [![GitHub stars](https://img.shields.io/github/stars/atomashpolskiy/bt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atomashpolskiy/bt).
+* [bt](https://github.com/atomashpolskiy/c) 一个轻量级BitTorrent框架 [![GitHub stars](https://img.shields.io/github/stars/atomashpolskiy/bt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atomashpolskiy/bt).
 
 * [NettyRpc](https://github.com/luxiaoxun/NettyRpc) 一个基于Netty的RPC框架 [![GitHub stars](https://img.shields.io/github/stars/luxiaoxun/NettyRpc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/luxiaoxun/NettyRpc).
 
@@ -320,6 +335,8 @@
 * [ratis](https://github.com/apache/ratis) java实现raft协议 [![GitHub stars](https://img.shields.io/github/stars/apache/ratis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ratis).
 
 * [redis-id-generator](https://github.com/hengyunabc/redis-id-generator) 分布式ID生成器 [![GitHub stars](https://img.shields.io/github/stars/hengyunabc/redis-id-generator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hengyunabc/redis-id-generator).
+
+* [mldht](https://github.com/the8472/mldht) DHT的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/the8472/mldht.svg?style=social&label=Star&maxAge=2592000)](https://github.com/the8472/mldht).
 
 ### 监控
 
@@ -454,7 +471,7 @@
 
 * [h2database](https://github.com/h2database/h2database) 基于磁盘和内存的数据库 [![GitHub stars](https://img.shields.io/github/stars/h2database/h2database.svg?style=social&label=Star&maxAge=2592000)](https://github.com/h2database/h2database).
 
-* [grakn](https://github.com/graknlabs/grakn) JVM并发工具[![GitHub stars](https://img.shields.io/github/stars/graknlabs/grakn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graknlabs/grakn).
+* [grakn](https://github.com/graknlabs/grakn) 一个知识图谱的数据库 [![GitHub stars](https://img.shields.io/github/stars/graknlabs/grakn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graknlabs/grakn).
 
 * [jimfs](https://github.com/google/jimfs) 一个基于内存的文件系统[![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
 
@@ -469,6 +486,8 @@
 * [haeinsa](https://github.com/VCNC/haeinsa) hbase事务 [![GitHub stars](https://img.shields.io/github/stars/VCNC/haeinsa.svg?style=social&label=Star&maxAge=2592000)](https://github.com/VCNC/haeinsa).
 
 * [calcite](https://github.com/apache/calcite) SQL解析器，很多知名数据库在用 [![GitHub stars](https://img.shields.io/github/stars/apache/calcite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/calcite).
+
+* [kite](https://github.com/kite-sdk/kite) 在hadoop上构建系统 [![GitHub stars](https://img.shields.io/github/stars/kite-sdk/kite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kite-sdk/kite).
 
 ### 流处理
 
