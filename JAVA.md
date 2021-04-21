@@ -225,6 +225,18 @@
 
 * [java-cookie](https://github.com/js-cookie/java-cookie) java cookie处理 [![GitHub stars](https://img.shields.io/github/stars/js-cookie/java-cookie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/js-cookie/java-cookie).
 
+* [objenesis](https://github.com/easymock/objenesis) Objenesis是一个Java的库，主要用来创建特定的对象。由于不是所有的类都有无参构造器又或者类构造器是private，在这样的情况下，如果我们还想实例化对象，class.newInstance是无法满足的 [![GitHub stars](https://img.shields.io/github/stars/easymock/objenesis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/easymock/objenesis).
+
+* [snappy-java](https://github.com/xerial/snappy-java) 压缩解压库 [![GitHub stars](https://img.shields.io/github/stars/xerial/snappy-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xerial/snappy-java).
+
+### 序列化
+
+* [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/xerial/apache/avro.svg?style=social&label=Star&maxAge=2592000)](hhttps://github.com/apache/avro).
+
+### 测试
+
+* [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) 一个单元测试用的匹配框架 [![GitHub stars](https://img.shields.io/github/stars/hamcrest/JavaHamcrest?style=social&label=Star&maxAge=2592000)](https://github.com/hamcrest/JavaHamcrest).
+
 ### 字节码/热替换/类加载
 
 * [byte-buddy](https://github.com/raphw/byte-buddy) 字节码生成 [![GitHub stars](https://img.shields.io/github/stars/raphw/byte-buddy?style=social&label=Star&maxAge=2592000)](https://github.com/raphw/byte-buddy).
