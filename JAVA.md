@@ -261,6 +261,8 @@
 
 * [juds](https://github.com/mcfunley/juds) UNIX SOCKET 库  [![GitHub stars](https://img.shields.io/github/stars/mcfunley/juds.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mcfunley/juds).
 
+* [py4j](https://github.com/bartdag/py4j) JAVA和PYTHON互相调用  [![GitHub stars](https://img.shields.io/github/stars/bartdag/py4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bartdag/py4j).
+
 ### 多线程
 
 * [Puniverse Quasar](https://github.com/puniverse/quasar) 一个基于JVM的协程框架.[![GitHub stars](https://img.shields.io/github/stars/puniverse/quasar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/quasar)
@@ -465,6 +467,8 @@
 * [kareldb](https://github.com/rayokota/kareldb) 一个基于kafka的关系型数据库 [![GitHub stars](https://img.shields.io/github/stars/rayokota/kareldb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rayokota/kareldb).
 
 * [haeinsa](https://github.com/VCNC/haeinsa) hbase事务 [![GitHub stars](https://img.shields.io/github/stars/VCNC/haeinsa.svg?style=social&label=Star&maxAge=2592000)](https://github.com/VCNC/haeinsa).
+
+* [calcite](https://github.com/apache/calcite) SQL解析器，很多知名数据库在用 [![GitHub stars](https://img.shields.io/github/stars/apache/calcite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/calcite).
 
 ### 流处理
 
