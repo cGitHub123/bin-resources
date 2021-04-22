@@ -1,8 +1,14 @@
 ### AI
 
+* [keras](https://github.com/keras-team/keras) 深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras.svg?style=social&label=Star&maxAge=2592000)](https://github.com/keras-team/keras).
+
+* [funNLP](https://github.com/fighting41love/funNLP) 几乎最全的中文NLP资源库 [![GitHub stars](https://img.shields.io/github/stars/fighting41love/funNLP.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fighting41love/funNLP).
+
+* [AiLearning](https://github.com/apachecn/AiLearning) 可汗学院学AI [![GitHub stars](https://img.shields.io/github/stars/apachecn/AiLearning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apachecn/AiLearning).
 
 ### 数据处理
 
+* [manim](https://github.com/3b1b/manim) 做出高逼格的数学动画  [![GitHub stars](https://img.shields.io/github/stars/3b1b/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/3b1b/manim).
 
 ### 爬虫
 
@@ -10,6 +16,18 @@
 
 * [speedtest-cli](https://github.com/sivel/speedtest-cli) 一站式框架，天生支持异步，Scala语言表达力强，开发速度快，但是不建议使用 . [![GitHub stars](https://img.shields.io/github/stars/sivel/speedtest-cli.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sivel/speedtest-cli).
 
+* [youtube-dl](https://github.com/ytdl-org/youtube-dl) youtube下载工具  [![GitHub stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ytdl-org/youtube-dl).
+
+* [httpie](https://github.com/httpie/httpie) 一个基于命令行的类POSTMAN工具  [![GitHub stars](https://img.shields.io/github/stars/httpie/httpie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/httpie/httpie).
+
+* [XX-Net](https://github.com/XX-net/XX-Net) 翻越长城  [![GitHub stars](https://img.shields.io/github/stars/XX-net/XX-Net.svg?style=social&label=Star&maxAge=2592000)](https://github.com/XX-net/XX-Net).
+
 ### 资源
 
 * [d2l-zh](https://github.com/d2l-ai/d2l-zh) 自己动手学深度学习 [![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/d2l-ai/d2l-zh).
+
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) 如何设计大型分布式应用 [![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/donnemartin/system-design-primer).
+
+* [public-apis](https://github.com/public-apis/public-apis) 一些开放的公共API [![GitHub stars](https://img.shields.io/github/stars/public-apis/public-apis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/public-apis/public-apis).
+
+* [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 定期分享github有趣的开源项目 [![GitHub stars](https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=social&label=Star&maxAge=2592000)](https://github.com/521xueweihan/HelloGitHub).
