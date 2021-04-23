@@ -235,7 +235,9 @@
 
 * [joda-time](https://github.com/JodaOrg/joda-time) 时间工具 [![GitHub stars](https://img.shields.io/github/stars/JodaOrg/joda-time.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JodaOrg/joda-time).
 
-* [screw](https://github.com/pingfangushi/screw) 简洁好用的数据库表结构文档生成器 [![GitHub stars](https://img.shields.io/github/stars/JodaOrg/pingfangushi/screw.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pingfangushi/screw).
+* [screw](https://github.com/pingfangushi/screw) 简洁好用的数据库表结构文档生成器 [![GitHub stars](https://img.shields.io/github/stars/pingfangushi/screw.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pingfangushi/screw).
+
+* [jbake](https://github.com/jbake-org/jbake) java静态网站生成器 [![GitHub stars](https://img.shields.io/github/stars/jbake-org/jbake.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jbake-org/jbake).
 
 ### 序列化
 
@@ -506,9 +508,6 @@
 
 * [streaminer](https://github.com/mayconbordin/streaminer) 基于流的数据挖掘算法库 [![GitHub stars](https://img.shields.io/github/stars/mayconbordin/streaminer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mayconbordin/streaminer).
 
-
-
-
 ### AI
 
 * [deeplearning4j](https://github.com/eclipse/deeplearning4j)  一个基于JVM的深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/eclipse/deeplearning4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/eclipse/deeplearning4j).
@@ -516,6 +515,8 @@
 * [ansj_seg](https://github.com/NLPchina/ansj_seg)  中文分词 [![GitHub stars](https://img.shields.io/github/stars/NLPchina/ansj_seg.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NLPchina/ansj_seg).
 
 * [smile](https://github.com/haifengl/smile) JAVA机器学习框架 [![GitHub stars](https://img.shields.io/github/stars/haifengl/smile.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haifengl/smile).
+
+* [elasticsearch-learning-to-rank](https://github.com/o19s/elasticsearch-learning-to-rank) ES做LTR排序 [![GitHub stars](https://img.shields.io/github/stars/o19s/elasticsearch-learning-to-rank.svg?style=social&label=Star&maxAge=2592000)](https://github.com/o19s/elasticsearch-learning-to-rank).
 
 * [libsvm](https://github.com/cjlin1/libsvm) 一个SVM分类和回归框架 [![GitHub stars](https://img.shields.io/github/stars/cjlin1/libsvm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cjlin1/libsvm).
 
@@ -560,3 +561,5 @@
 ### 区块链
 
 * [java-tron](https://github.com/tronprotocol/java-tron) 孙割的波场 [![GitHub stars](https://img.shields.io/github/stars/tronprotocol/java-tron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tronprotocol/java-tron).
+
+* [bitcoinj](https://github.com/bitcoinj/bitcoinj) JAVA比特币API [![GitHub stars](https://img.shields.io/github/stars/bitcoinj/bitcoinj.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bitcoinj/bitcoinj).

@@ -9,4 +9,8 @@
 
 [PYTHON](./PYTHON.md)
 
-[SHELL](./SHELL.md)
+[LINUX&SHELL](./LINUX&SHELL.md)
+
+[C++&C](./C++&C.md)
+
+[OTHER](./OTHER.md)

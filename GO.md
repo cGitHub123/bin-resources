@@ -175,6 +175,7 @@
 
 * [pyroscope](https://github.com/pyroscope-io/pyroscope) Pyroscope 是一个开源的持续性能剖析平台，可以监控python go ruby  [![GitHub stars](https://img.shields.io/github/stars/pyroscope-io/pyroscope.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pyroscope-io/pyroscope).
 
+* [gops](https://github.com/google/gops) P展示当前系统运行了哪些 Go 程序的工具，同时支持深入分析的参数  [![GitHub stars](https://img.shields.io/github/stars/google/gops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/gops).
 
 ### 存储
 
