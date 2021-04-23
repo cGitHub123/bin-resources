@@ -239,6 +239,12 @@
 
 * [jbake](https://github.com/jbake-org/jbake) java静态网站生成器 [![GitHub stars](https://img.shields.io/github/stars/jbake-org/jbake.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jbake-org/jbake).
 
+* [generator-jhipster](https://github.com/jhipster/generator-jhipster) 用于在几秒钟内创建 Spring Boot + Angular/React 项目的开源应用程序生成器（脚手架）。它可以自动化生成一个完整 Web 应用或微服务架构，加快项目的开发效率 [![GitHub stars](https://img.shields.io/github/stars/jhipster/generator-jhipster.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jhipster/generator-jhipster).
+
+* [yacy_search_server](https://github.com/yacy/yacy_search_server) P2P网络搜索 [![GitHub stars](https://img.shields.io/github/stars/yacy/yacy_search_server.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yacy/yacy_search_server).
+
+* [xLog](https://github.com/elvishew/xLog) P2P网络搜索 [![GitHub stars](https://img.shields.io/github/stars/elvishew/xLog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/elvishew/xLog).
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).

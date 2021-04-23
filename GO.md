@@ -42,6 +42,8 @@
 
 ### 工具
 
+* [gods](https://github.com/emirpasic/gods) 简单易用的 Go 语言各种数据结构和算法，并封装成了一个库，开箱即食 [![GitHub stars](https://img.shields.io/github/stars/emirpasic/gods.svg?style=social&label=Star&maxAge=2592000)](https://github.com/emirpasic/gods).
+
 * [gotty](https://github.com/yudai/gotty) 终端分享 [![GitHub stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yudai/gotty).
 
 * [croc](https://github.com/schollz/croc) 从一台电脑传输数据到另一台 [![GitHub stars](https://img.shields.io/github/stars/schollz/croc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/schollz/croc).
@@ -101,6 +103,8 @@
 * [fyne](https://github.com/fyne-io/fyne) GO UI库 [![GitHub stars](https://img.shields.io/github/stars/fyne-io/fyne.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fyne-io/fyne).
 
 * [now](https://github.com/jinzhu/now) GO UI库 [![GitHub stars](https://img.shields.io/github/stars/jinzhu/now.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jinzhu/now).
+
+* [gojsonq](https://github.com/thedevsaddam/gojsonq) go解析JSON，XML等 [![GitHub stars](https://img.shields.io/github/stars/thedevsaddam/gojsonq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thedevsaddam/gojsonq).
 
 
 ### 多线程
@@ -175,7 +179,7 @@
 
 * [pyroscope](https://github.com/pyroscope-io/pyroscope) Pyroscope 是一个开源的持续性能剖析平台，可以监控python go ruby  [![GitHub stars](https://img.shields.io/github/stars/pyroscope-io/pyroscope.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pyroscope-io/pyroscope).
 
-* [gops](https://github.com/google/gops) P展示当前系统运行了哪些 Go 程序的工具，同时支持深入分析的参数  [![GitHub stars](https://img.shields.io/github/stars/google/gops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/gops).
+* [gops](https://github.com/google/gops) 展示当前系统运行了哪些 Go 程序的工具，同时支持深入分析的参数  [![GitHub stars](https://img.shields.io/github/stars/google/gops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/gops).
 
 ### 存储
 
