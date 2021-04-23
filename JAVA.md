@@ -235,6 +235,8 @@
 
 * [joda-time](https://github.com/JodaOrg/joda-time) 时间工具 [![GitHub stars](https://img.shields.io/github/stars/JodaOrg/joda-time.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JodaOrg/joda-time).
 
+* [screw](https://github.com/pingfangushi/screw) 简洁好用的数据库表结构文档生成器 [![GitHub stars](https://img.shields.io/github/stars/JodaOrg/pingfangushi/screw.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pingfangushi/screw).
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
