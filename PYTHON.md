@@ -22,6 +22,8 @@
 
 * [XX-Net](https://github.com/XX-net/XX-Net) 翻越长城  [![GitHub stars](https://img.shields.io/github/stars/XX-net/XX-Net.svg?style=social&label=Star&maxAge=2592000)](https://github.com/XX-net/XX-Net).
 
+* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) 基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等  [![GitHub stars](https://img.shields.io/github/stars/ArchiveBox/ArchiveBox.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ArchiveBox/ArchiveBox).
+
 ### 资源
 
 * [d2l-zh](https://github.com/d2l-ai/d2l-zh) 自己动手学深度学习 [![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/d2l-ai/d2l-zh).

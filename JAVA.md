@@ -382,6 +382,8 @@
 
 * [anylog](https://github.com/jobop/anylog) 在不重启的情况下插入日志，这玩意慎用 [![GitHub stars](https://img.shields.io/github/stars/jobop/anylog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jobop/anylog).
 
+* [KafkaManager](https://github.com/didi/Logi-KafkaManager) kafka监控，滴滴开源 [![GitHub stars](https://img.shields.io/github/stars/didi/Logi-KafkaManager.svg?style=social&label=Star&maxAge=2592000)](https://github.com/didi/Logi-KafkaManager).
+
 ### 安全
 
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).

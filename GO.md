@@ -12,6 +12,8 @@
 
 * [nps](https://github.com/ehang-io/nps) 内网穿透 [![GitHub stars](https://img.shields.io/github/stars/ehang-io/nps.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ehang-io/nps).
 
+* [dns](https://github.com/miekg/dns) GO NDS库 [![GitHub stars](https://img.shields.io/github/stars/miekg/dns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/miekg/dns).
+
 * [quic-go](https://github.com/lucas-clemente/quic-go) QUIC的GO实现 [![GitHub stars](https://img.shields.io/github/stars/lucas-clemente/quic-go.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lucas-clemente/quic-go).
 
 * [gopacket](https://github.com/google/gopacket) GO网络包处理 [![GitHub stars](https://img.shields.io/github/stars/google/gopacket.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/gopacket).
@@ -94,6 +96,11 @@
 
 * [bed](https://github.com/itchyny/bed) 一个GO二进制编辑器 [![GitHub stars](https://img.shields.io/github/stars/itchyny/bed.svg?style=social&label=Star&maxAge=2592000)](https://github.com/itchyny/bed).
 
+* [macdriver](https://github.com/progrium/macdriver) MAC接口库 [![GitHub stars](https://img.shields.io/github/stars/progrium/macdriver.svg?style=social&label=Star&maxAge=2592000)](https://github.com/progrium/macdriver).
+
+* [fyne](https://github.com/fyne-io/fyne) GO UI库 [![GitHub stars](https://img.shields.io/github/stars/fyne-io/fyne.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fyne-io/fyne).
+
+
 ### 多线程
 
 * [ants](https://github.com/panjf2000/ants) 高性能且低损耗的 goroutine 池 [![GitHub stars](https://img.shields.io/github/stars/panjf2000/ants.svg?style=social&label=Star&maxAge=2592000)](https://github.com/panjf2000/ants).
@@ -164,6 +171,9 @@
 
 * [PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等  [![GitHub stars](https://img.shields.io/github/stars/feiyu563/PrometheusAlert.svg?style=social&label=Star&maxAge=2592000)](https://github.com/feiyu563/PrometheusAlert).
 
+* [pyroscope](https://github.com/pyroscope-io/pyroscope) Pyroscope 是一个开源的持续性能剖析平台，可以监控python go ruby  [![GitHub stars](https://img.shields.io/github/stars/pyroscope-io/pyroscope.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pyroscope-io/pyroscope).
+
+
 ### 存储
 
 * [seaweedfs](https://github.com/chrislusf/seaweedfs) SeaweedFS 是简单，高伸缩性的分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/go-kratos/kratos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chrislusf/seaweedfs).
@@ -181,6 +191,8 @@
 * [TMSU](https://github.com/oniony/TMSU) TMSU 是一个让你可以使用标签来组织文件的应用程序，提供了用来管理标签的工具和一个虚拟文件系统来通过使用标签访问文件 [![GitHub stars](https://img.shields.io/github/stars/oniony/TMSU.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oniony/TMSU).
 
 * [bfs](https://github.com/Terry-Mao/bfs) 分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/Terry-Mao/bfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Terry-Mao/bfs).
+
+* [rqlite](https://github.com/rqlite/rqlite) 用 Go 实现的基于 SQLite 轻量级、分布式关系数据库。如果你对分布式数据库的原理及实现感兴趣的话，这个项目真的是你入门这方面的不二之选，这个项目用 SQLite 作为存储引擎，让你可以把更多的精力放在理解分布式的知识上 [![GitHub stars](https://img.shields.io/github/stars/rqlite/rqlite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rqlite/rqlite).
 
 ### 分布式
 
