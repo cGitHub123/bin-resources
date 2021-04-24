@@ -1,7 +1,27 @@
+<!-- MDTOC maxdepth:6 firsth1:2 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
+
+   - [Web](#web)   
+   - [测试](#测试)   
+   - [开发工具](#开发工具)   
+   - [序列化](#序列化)   
+   - [反射](#反射)   
+   - [测试](#测试)   
+   - [字节码/热替换/类加载](#字节码热替换类加载)   
+   - [native](#native)   
+   - [多线程](#多线程)   
+   - [分布式](#分布式)   
+   - [监控](#监控)   
+   - [安全](#安全)   
+   - [资源收集](#资源收集)   
+   - [存储](#存储)   
+   - [流处理](#流处理)   
+   - [AI](#ai)   
+   - [区块链](#区块链)   
+
+<!-- /MDTOC -->
+
 
 ### Web
-
-#### 框架(Web框架建议还是老老实实spring)
 
 * [Play Framework](https://github.com/playframework/playframework) 一站式框架，天生支持异步，Scala语言表达力强，开发速度快，但是不建议使用 . [![GitHub stars](https://img.shields.io/github/stars/playframework/playframework.svg?style=social&label=Star&maxAge=2592000)](https://github.com/playframework/playframework).
 
@@ -10,8 +30,6 @@
 * [dropwizard](https://github.com/dropwizard/dropwizard) 也是一个web框架 [![GitHub stars](https://img.shields.io/github/stars/dropwizard/dropwizard.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dropwizard/dropwizard).
 
 * [quarkus](https://github.com/quarkusio/quarkus) 一个用于编写 Java 应用的云原生、容器优先框架 [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quarkusio/quarkus).
-
-#### web工具庫
 
 * [Kolorobot Spring MVC 4 Quickstart Maven Archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype) 快速生成springMVC4 Maven archetype web开发模板 [![GitHub stars](https://img.shields.io/github/stars/kolorobot/spring-mvc-quickstart-archetype.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kolorobot/spring-mvc-quickstart-archetype).
 
@@ -37,8 +55,6 @@
 
 *  [Oblac Jodd](https://github.com/oblac/jodd) 一个JAVA开源工具集， 可以看作JAVA的瑞士军刀，Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.5 Mb.  [![GitHub stars](https://img.shields.io/github/stars/oblac/jodd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oblac/jodd)
 
-* [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
-
 * [Spring batch](https://github.com/spring-projects/spring-batch) 一个基于spring的批处理框架. [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-batch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-projects/spring-batch).
 
 * [Greenrobot common](https://github.com/greenrobot/essentials) 一些比原生(比如hashmap)快的集合. [![GitHub stars](https://img.shields.io/github/stars/greenrobot/essentials.svg?style=social&label=Star&maxAge=2592000)](https://github.com/greenrobot/essentials).
@@ -46,8 +62,6 @@
 * [Apache Isis](http://isis.apache.org) 用于在 Java 中快速开发领域驱动应（domain-driven）用程序的框架。只需在实体、领域服务或视图模型中编写业务逻辑，该框架会将该领域模型的表示动态生成为 webapp 或丰富的超媒体 REST API
 
 * [Luban](https://github.com/Curzibn/Luban) 图片压缩.  [![GitHub stars](https://img.shields.io/github/stars/Curzibn/Luban.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Curzibn/Luban).
-
-* [tink](https://github.com/google/tink) 谷歌加密算法库.  [![GitHub stars](https://img.shields.io/github/stars/google/tink.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tink).
 
 * [resilience4j](https://github.com/resilience4j/resilience4j) 受Netflix的Hysrix项目启发,专门为Java 8 和函数式编程设计的轻量级容错框架.  [![GitHub stars](https://img.shields.io/github/stars/resilience4j/resilience4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/resilience4j/resilience4j).
 
@@ -94,8 +108,6 @@
 * [picocli](https://github.com/remkop/picocli) 构建JAVA命令行应用 [![GitHub stars](https://img.shields.io/github/stars/remkop/picocli.svg?style=social&label=Star&maxAge=2592000)](https://github.com/remkop/picocli).
 
 * [brigadier](https://github.com/Mojang/brigadier) JAVA命令行解析工具[![GitHub stars](https://img.shields.io/github/stars/Mojang/brigadier.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Mojang/brigadier).
-
-* [spock](https://github.com/spockframework/spock) JAVA测试框架[![GitHub stars](https://img.shields.io/github/stars/spockframework/spock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spockframework/spock).
 
 * [traccar](https://github.com/traccar/traccar) GPS定位软件[![GitHub stars](https://img.shields.io/github/stars/traccar/traccar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/traccar/traccar).
 
@@ -245,6 +257,9 @@
 
 * [xLog](https://github.com/elvishew/xLog) P2P网络搜索 [![GitHub stars](https://img.shields.io/github/stars/elvishew/xLog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/elvishew/xLog).
 
+* [AutoRepeater](https://github.com/nccgroup/AutoRepeater) HTTP请求重放 [![GitHub stars](https://img.shields.io/github/stars/nccgroup/AutoRepeater.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nccgroup/AutoRepeater).
+
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
@@ -262,6 +277,8 @@
 ### 测试
 
 * [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) 一个单元测试用的匹配框架 [![GitHub stars](https://img.shields.io/github/stars/hamcrest/JavaHamcrest?style=social&label=Star&maxAge=2592000)](https://github.com/hamcrest/JavaHamcrest).
+
+* [spock](https://github.com/spockframework/spock) JAVA测试框架[![GitHub stars](https://img.shields.io/github/stars/spockframework/spock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spockframework/spock).
 
 ### 字节码/热替换/类加载
 
@@ -395,6 +412,8 @@
 * [KafkaManager](https://github.com/didi/Logi-KafkaManager) kafka监控，滴滴开源 [![GitHub stars](https://img.shields.io/github/stars/didi/Logi-KafkaManager.svg?style=social&label=Star&maxAge=2592000)](https://github.com/didi/Logi-KafkaManager).
 
 ### 安全
+
+* [tink](https://github.com/google/tink) 谷歌加密算法库.  [![GitHub stars](https://img.shields.io/github/stars/google/tink.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tink).
 
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).
 
@@ -550,13 +569,11 @@
 
 * [NewsRecommendSystem](https://github.com/bluemapleman/NewsRecommendSystem) 个性化新闻推荐系统 [![GitHub stars](https://img.shields.io/github/stars/bluemapleman/NewsRecommendSystem.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bluemapleman/NewsRecommendSystem).
 
-* [AutoRepeater](https://github.com/nccgroup/AutoRepeater) HTTP请求重放 [![GitHub stars](https://img.shields.io/github/stars/nccgroup/AutoRepeater.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nccgroup/AutoRepeater).
-
 * [ytk-learn](https://github.com/yuantiku/ytk-learn) 一个分布式机器学习库，实现了GBDT等常用算法 [![GitHub stars](https://img.shields.io/github/stars/yuantiku/ytk-learn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yuantiku/ytk-learn).
 
 * [jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns) java推荐与排序 [![GitHub stars](https://img.shields.io/github/stars/HongZhaoHua/jstarcraft-rns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/HongZhaoHua/jstarcraft-rns).
 
-* [image-similarity](https://github.com/nivance/image-similarity) 图片相似读比较 [![GitHub stars](https://img.shields.io/github/stars/nivance/image-similarity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nivance/image-similarity).
+* [image-similarity](https://github.com/nivance/image-similarity) 图片相似度比较 [![GitHub stars](https://img.shields.io/github/stars/nivance/image-similarity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nivance/image-similarity).
 
 * [xgboost-predictor-java](https://github.com/komiya-atsushi/xgboost-predictor-java) java xgboost框架 [![GitHub stars](https://img.shields.io/github/stars/komiya-atsushi/xgboost-predictor-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/komiya-atsushi/xgboost-predictor-java).
 
