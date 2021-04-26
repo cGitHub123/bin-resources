@@ -6,6 +6,8 @@
 
 * [AiLearning](https://github.com/apachecn/AiLearning) 可汗学院学AI [![GitHub stars](https://img.shields.io/github/stars/apachecn/AiLearning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apachecn/AiLearning).
 
+* [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 声音克隆，名神探柯南 [![GitHub stars](https://img.shields.io/github/stars/CorentinJ/Real-Time-Voice-Cloning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
+
 ### 数据处理
 
 * [manim](https://github.com/3b1b/manim) 做出高逼格的数学动画  [![GitHub stars](https://img.shields.io/github/stars/3b1b/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/3b1b/manim).
@@ -28,6 +30,12 @@
 
 * [logrus](https://github.com/sirupsen/logrus) GO最好用的第三方日志库 [![GitHub stars](https://img.shields.io/github/stars/sirupsen/logrus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sirupsen/logrus).
 
+### 安全
+
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) :Web应用程序安全性和Pentest/CTF的有用有效负载和旁路列表LINUX [![GitHub stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings.svg?style=social&label=Star&maxAge=2592000)](https://github.com/swisskyrepo/PayloadsAllTheThings).
+
+
+
 ### 资源
 
 * [d2l-zh](https://github.com/d2l-ai/d2l-zh) 自己动手学深度学习 [![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/d2l-ai/d2l-zh).
@@ -39,3 +47,5 @@
 * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 定期分享github有趣的开源项目 [![GitHub stars](https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=social&label=Star&maxAge=2592000)](https://github.com/521xueweihan/HelloGitHub).
 
 * [geek_crawler](https://github.com/zhengxiaotian/geek_crawler) 极客时间下载到本地 [![GitHub stars](https://img.shields.io/github/stars/zhengxiaotian/geek_crawler.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zhengxiaotian/geek_crawler).
+
+* [linux-insides](https://github.com/0xAX/linux-insides)  一些LINUX内核小知识 [![GitHub stars](https://img.shields.io/github/stars/0xAX/linux-insides.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xAX/linux-insides).
