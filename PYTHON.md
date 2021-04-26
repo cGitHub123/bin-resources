@@ -12,6 +12,11 @@
 
 * [manim](https://github.com/3b1b/manim) 做出高逼格的数学动画  [![GitHub stars](https://img.shields.io/github/stars/3b1b/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/3b1b/manim).
 
+
+### 网络
+
+* [impacket](https://github.com/SecureAuthCorp/impacket) python修改网络包的工具包  [![GitHub stars](https://img.shields.io/github/stars/SecureAuthCorp/impacket.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SecureAuthCorp/impacket).
+
 ### 爬虫
 
 ### 工具

@@ -40,6 +40,8 @@
 
 * [mr2](https://github.com/txthinking/mr2) 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. [![GitHub stars](https://img.shields.io/github/stars/txthinking/mr2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/txthinking/mr2).
 
+* [stenographer](https://github.com/google/stenographer) 把网络包写到磁盘，可以在磁盘上做搜索 [![GitHub stars](https://img.shields.io/github/stars/google/stenographer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/stenographer).
+
 ### 工具
 
 * [gods](https://github.com/emirpasic/gods) 简单易用的 Go 语言各种数据结构和算法，并封装成了一个库，开箱即食 [![GitHub stars](https://img.shields.io/github/stars/emirpasic/gods.svg?style=social&label=Star&maxAge=2592000)](https://github.com/emirpasic/gods).
