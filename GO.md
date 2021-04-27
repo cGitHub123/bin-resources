@@ -141,6 +141,10 @@
 
 * [mydocker](https://github.com/xianlubird/mydocker) <<自己动手写docker>> 源码 [![GitHub stars](https://img.shields.io/github/stars/xianlubird/mydocker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xianlubird/mydocker).
 
+### 分布式链路追踪
+
+* [jaeger](https://github.com/jaegertracing/jaeger) UBER开源的分布式链路追踪，和K8S良好集合 [![GitHub stars](https://img.shields.io/github/stars/jaegertracing/jaeger.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jaegertracing/jaeger).
+
 ### 运维监控
 
 * [loki](https://github.com/grafana/loki) 想Prometheus一样，但是是为日志而生 [![GitHub stars](https://img.shields.io/github/stars/grafana/loki.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grafana/loki).
