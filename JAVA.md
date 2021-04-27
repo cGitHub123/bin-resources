@@ -245,6 +245,10 @@
 
 * [xLog](https://github.com/elvishew/xLog) 美化日志 [![GitHub stars](https://img.shields.io/github/stars/elvishew/xLog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/elvishew/xLog).
 
+* [apollo](https://github.com/ctripcorp/apollo) 分布式配置中心 [![GitHub stars](https://img.shields.io/github/stars/ctripcorp/apollo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ctripcorp/apollo).
+
+* [error-prone](https://github.com/google/error-prone) 在代码编译的时候找到运行时的错误 [![GitHub stars](https://img.shields.io/github/stars/google/error-prone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/error-prone).
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
@@ -434,6 +438,10 @@
 
 * [jasypt](https://github.com/jasypt/jasypt) java加密解密框架  [![GitHub stars](https://img.shields.io/github/stars/jasypt/jasypt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jasypt/jasypt).
 
+* [cryptomator](https://github.com/cryptomator/cryptomator)  Cryptomator 是一款客户端加密应用,它能够在本地帮你加密数据,然后上传云端服务,目前支持 iCloud Drive, Dropbox, Google Drive, OneDrive 和 WebDAV 等内容  [![GitHub stars](https://img.shields.io/github/stars/cryptomator/cryptomator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cryptomator/cryptomator).
+
+* [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)  网络安全扫描工具  [![GitHub stars](https://img.shields.io/github/stars/tsunami-security-scanner.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tsunami-security-scanner).
+
 ### 资源收集
 
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式  [![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iluwatar/java-design-patterns).
@@ -579,3 +587,7 @@
 * [java-tron](https://github.com/tronprotocol/java-tron) 孙割的波场 [![GitHub stars](https://img.shields.io/github/stars/tronprotocol/java-tron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tronprotocol/java-tron).
 
 * [bitcoinj](https://github.com/bitcoinj/bitcoinj) JAVA比特币API [![GitHub stars](https://img.shields.io/github/stars/bitcoinj/bitcoinj.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bitcoinj/bitcoinj).
+
+### IDE
+
+* [che](https://github.com/eclipse/che) 下一代IDE，适用于K8S [![GitHub stars](https://img.shields.io/github/stars/eclipse/che.svg?style=social&label=Star&maxAge=2592000)](https://github.com/eclipse/che).
