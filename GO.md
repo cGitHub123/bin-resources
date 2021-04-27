@@ -1,5 +1,7 @@
 ### web
 
+* [hugo](https://github.com/gohugoio/hugo)  静态网站生成器 [![GitHub stars](https://img.shields.io/github/stars/tsenart/vegeta.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gohugoio/hugo).
+
 * [gin](https://github.com/gin-gonic/gin) 一个web框架 [![GitHub stars](https://img.shields.io/github/stars/gin-gonic/gin.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gin-gonic/gin).
 
 * [echo](https://github.com/labstack/echo)  一个web框架 [![GitHub stars](https://img.shields.io/github/stars/labstack/echo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/labstack/echo).
@@ -107,6 +109,10 @@
 * [now](https://github.com/jinzhu/now) GO UI库 [![GitHub stars](https://img.shields.io/github/stars/jinzhu/now.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jinzhu/now).
 
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) go解析JSON，XML等 [![GitHub stars](https://img.shields.io/github/stars/thedevsaddam/gojsonq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thedevsaddam/gojsonq).
+
+### 命令行
+
+* [fzf](https://github.com/junegunn/fzf) 命令行模糊搜索工具 [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/junegunn/fzf).
 
 
 ### 多线程
@@ -255,6 +261,12 @@
 * [jvm.go](https://github.com/zxh0/jvm.go) 一个玩具级别的JVM [![GitHub stars](https://img.shields.io/github/stars/zxh0/jvm.go.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zxh0/jvm.go).
 
 * [go-daily-lib](https://github.com/darjun/go-daily-lib) GO每日一库 [![GitHub stars](https://img.shields.io/github/stars/darjun/go-daily-lib.svg?style=social&label=Star&maxAge=2592000)](https://github.com/darjun/go-daily-lib).
+
+* [ultimate-go](https://github.com/hoanhan101/ultimate-go) 学习GOLAND的终极库 [![GitHub stars](https://img.shields.io/github/stars/hoanhan101/ultimate-go.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hoanhan101/ultimate-go).
+
+* [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) 从测试用例学习GO [![GitHub stars](https://img.shields.io/github/stars/quii/learn-go-with-tests.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quii/learn-go-with-tests).
+
+* [go-datastructures](https://github.com/Workiva/go-datastructures) GO数据结构 [![GitHub stars](https://img.shields.io/github/stars/Workiva/go-datastructures.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Workiva/go-datastructures).
 
 ### 区块链
 
