@@ -9,3 +9,5 @@
 * [understand_linux_process](https://github.com/tobegit3hub/understand_linux_process) 理解LINUX进程 [![GitHub stars](https://img.shields.io/github/stars/tobegit3hub/understand_linux_process.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tobegit3hub/understand_linux_process).
 
 * [useful-scripts](https://github.com/oldratlee/useful-scripts) 一些有用的SHELL脚本 [![GitHub stars](https://img.shields.io/github/stars/oldratlee/useful-scripts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oldratlee/useful-scripts).
+
+* [tldr](https://github.com/tldr-pages/tldr) 一些有用的SHELL脚本（MD） [![GitHub stars](https://img.shields.io/github/stars/tldr-pages/tldr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tldr-pages/tldr).
