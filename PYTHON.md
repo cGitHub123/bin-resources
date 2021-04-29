@@ -17,7 +17,13 @@
 
 * [impacket](https://github.com/SecureAuthCorp/impacket) python修改网络包的工具包  [![GitHub stars](https://img.shields.io/github/stars/SecureAuthCorp/impacket.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SecureAuthCorp/impacket).
 
+* [gixy](https://github.com/yandex/gixy) nginx配置分析工具  [![GitHub stars](https://img.shields.io/github/stars/yandex/gixy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yandex/gixy).
+
 ### 爬虫
+
+* [Photon](https://github.com/s0md3v/Photon) OSINT爬虫  [![GitHub stars](https://img.shields.io/github/stars/s0md3v/Photon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/s0md3v/Photon).
+
+
 
 ### 工具
 
@@ -35,11 +41,19 @@
 
 * [logrus](https://github.com/sirupsen/logrus) GO最好用的第三方日志库 [![GitHub stars](https://img.shields.io/github/stars/sirupsen/logrus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sirupsen/logrus).
 
+### TOR
+
+* [searx](https://github.com/searx/searx) Searx是一个免费的互联网元搜索引擎，汇集了70多种搜索服务的结果。 用户既不被跟踪也不被分析。 此外，searx可以在Tor上实现在线匿名搜索[![GitHub stars](https://img.shields.io/github/stars/searx/searx.svg?style=social&label=Star&maxAge=2592000)](https://github.com/searx/searx).
+
 ### 安全
 
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) :Web应用程序安全性和Pentest/CTF的有用有效负载和旁路列表LINUX [![GitHub stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings.svg?style=social&label=Star&maxAge=2592000)](https://github.com/swisskyrepo/PayloadsAllTheThings).
 
+* [binwalk](https://github.com/ReFirmLabs/binwalk) 防火墙扫描 [![GitHub stars](https://img.shields.io/github/stars/ReFirmLabs/binwalk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ReFirmLabs/binwalk).
 
+### 可视化
+
+* [bokeh](https://github.com/bokeh/bokeh) 交互式的python可视化工具 [![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bokeh/bokeh).
 
 ### 资源
 
@@ -54,3 +68,5 @@
 * [geek_crawler](https://github.com/zhengxiaotian/geek_crawler) 极客时间下载到本地 [![GitHub stars](https://img.shields.io/github/stars/zhengxiaotian/geek_crawler.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zhengxiaotian/geek_crawler).
 
 * [linux-insides](https://github.com/0xAX/linux-insides)  一些LINUX内核小知识 [![GitHub stars](https://img.shields.io/github/stars/0xAX/linux-insides.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xAX/linux-insides).
+
+* [ddia](https://github.com/Vonng/ddia)  设计数据密集型应用 [![GitHub stars](https://img.shields.io/github/stars/Vonng/ddia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vonng/ddia).
