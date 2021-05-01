@@ -10,7 +10,12 @@
 
 * [monero](https://github.com/monero-project/monero) 门罗币，安全，私密，不可追踪交易 [![GitHub stars](https://img.shields.io/github/stars/monero-project/monero.svg?style=social&label=Star&maxAge=2592000)](https://github.com/monero-project/monero).
 
-* [lbry-sdk](https://github.com/monero-project/monero) 门罗币，安全，私密，不可追踪交易 [![GitHub stars](https://img.shields.io/github/stars/monero-project/monero.svg?style=social&label=Star&maxAge=2592000)](https://github.com/monero-project/monero).
+* [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) chia链 [![GitHub stars](https://img.shields.io/github/stars/Chia-Network/chia-blockchain.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Chia-Network/chia-blockchain).
+
+
+### 工具
+
+* [metamask-extension](https://github.com/MetaMask/metamask-extension) 以太坊浏览器ß [![GitHub stars](https://img.shields.io/github/stars/metamask-extension.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MetaMask/metamask-extension).
 
 ### 智能合约
 
