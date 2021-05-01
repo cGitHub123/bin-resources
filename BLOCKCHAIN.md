@@ -17,15 +17,19 @@
 
 * [metamask-extension](https://github.com/MetaMask/metamask-extension) 以太坊浏览器ß [![GitHub stars](https://img.shields.io/github/stars/metamask-extension.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MetaMask/metamask-extension).
 
+* [substrate](https://github.com/paritytech/substrate) Substrate是使用区块链技术的最新研究创建加密货币和其他分布式系统的框架 [![GitHub stars](https://img.shields.io/github/stars/paritytech/substrate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/paritytech/substrate).
+
 ### 智能合约
 
 * [fabric](https://github.com/hyperledger/fabric) hyperledger fabric是区块链中联盟链的优秀实现 [![GitHub stars](https://img.shields.io/github/stars/hyperledger/fabric.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hyperledger/fabric).
 
 * [truffle](https://github.com/trufflesuite/truffle) 一个开发智能合约的工具 [![GitHub stars](https://img.shields.io/github/stars/trufflesuite/truffle.svg?style=social&label=Star&maxAge=2592000)](https://github.com/trufflesuite/truffle).
 
+* [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) 智能合约实践 [![GitHub stars](https://img.shields.io/github/stars/ConsenSys/smart-contract-best-practices.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ConsenSys/smart-contract-best-practices).
+
 ### 底层
 
-* [lnd](https://github.com/lightningnetwork/lnd) 闪电网络ßß [![GitHub stars](https://img.shields.io/github/stars/lightningnetwork/lnd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lightningnetwork/lnd).
+* [lnd](https://github.com/lightningnetwork/lnd) 闪电网络 [![GitHub stars](https://img.shields.io/github/stars/lightningnetwork/lnd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lightningnetwork/lnd).
 
 ### 资源
 
