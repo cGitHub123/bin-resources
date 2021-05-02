@@ -16,6 +16,8 @@
 
 * [polkadot](https://github.com/paritytech/polkadot) polka节点的实现 [![GitHub stars](https://img.shields.io/github/stars/paritytech/polkadot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/paritytech/polkadot).
 
+* [ganache](https://github.com/trufflesuite/ganache) 以太坊私有网络 [![GitHub stars](https://img.shields.io/github/stars/trufflesuite/ganache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/trufflesuite/ganache).
+
 ### 工具
 
 * [metamask-extension](https://github.com/MetaMask/metamask-extension) 以太坊浏览器ß [![GitHub stars](https://img.shields.io/github/stars/metamask-extension.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MetaMask/metamask-extension).
@@ -26,7 +28,7 @@
 
 * [bitcoinj](https://github.com/bitcoinj/bitcoinj) bitcoin的JAVA API [![GitHub stars](https://img.shields.io/github/stars/bitcoinj/bitcoinj.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bitcoinj/bitcoinj).
 
-* [lbry-desktop](https://github.com/lbryio/lbry-desktop) LBRY浏览器和钱包 [![GitHub stars](https://img.shields.io/github/stars/lbryio/lbry-desktop.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lbryio/lbry-desktop).
+* [web3j](https://github.com/web3j/web3j) 一个JAVA的ETH客户端 [![GitHub stars](https://img.shields.io/github/stars/web3j/web3jsvg?style=social&label=Star&maxAge=2592000)](https://github.com/web3j/web3j).
 
 * [embark](https://github.com/embarklabs/embark) 构建去中心化应用 [![GitHub stars](https://img.shields.io/github/stars/embarklabs/embark.svg?style=social&label=Star&maxAge=2592000)](https://github.com/embarklabs/embark).
 
@@ -46,6 +48,11 @@
 
 * [hyperledger](https://github.com/hyperledger/hyperledger) Hyperledger (超级账本)是一组开源工具,旨在构建一个强大的、业务驱动的区块链框架 [![GitHub stars](https://img.shields.io/github/stars/hyperledger/hyperledger.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hyperledger/hyperledger).
 
+### 钱包
+
+* [wallet](https://github.com/bitpay/wallet) 比特币钱包 [![GitHub stars](https://img.shields.io/github/stars/bitpay/wallet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bitpay/wallet).
+
+* [lbry-desktop](https://github.com/lbryio/lbry-desktop) LBRY浏览器和钱包 [![GitHub stars](https://img.shields.io/github/stars/lbryio/lbry-desktop.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lbryio/lbry-desktop).
 
 ### 底层
 
@@ -71,3 +78,5 @@
 * [EthList](https://github.com/Scanate/EthList) eth学习资源 [![GitHub stars](https://img.shields.io/github/stars/Scanate/EthList.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Scanate/EthList).
 
 * [CryptoList](https://github.com/coinpride/CryptoList) 区块链和机密货币的资源目录 [![GitHub stars](https://img.shields.io/github/stars/coinpride/CryptoList.svg?style=social&label=Star&maxAge=2592000)](https://github.com/coinpride/CryptoList).
+
+* [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) 区快链相关论文 [![GitHub stars](https://img.shields.io/github/stars/decrypto-org/blockchain-papers.svg?style=social&label=Star&maxAge=2592000)](https://github.com/decrypto-org/blockchain-papers).
