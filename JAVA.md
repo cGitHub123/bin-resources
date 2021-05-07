@@ -11,6 +11,9 @@
 
 * [quarkus](https://github.com/quarkusio/quarkus) 一个用于编写 Java 应用的云原生、容器优先框架 [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quarkusio/quarkus).
 
+* [quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) quarkus例子 [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus-quickstarts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quarkusio/quarkus-quickstarts).
+
+
 #### web工具庫
 
 * [Kolorobot Spring MVC 4 Quickstart Maven Archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype) 快速生成springMVC4 Maven archetype web开发模板 [![GitHub stars](https://img.shields.io/github/stars/kolorobot/spring-mvc-quickstart-archetype.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kolorobot/spring-mvc-quickstart-archetype).
@@ -25,6 +28,16 @@
 
 * [moco](https://github.com/dreamhead/moco) 快速搭建一个可以返回HTTP请求的服务器 [![GitHub stars](https://img.shields.io/github/stars/dreamhead/moco.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dreamhead/moco).
 
+### spring
+
+* [spring-integration-samples](https://github.com/spring-projects/spring-integration-samples) spring整合样例 [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-integration-samples.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-projects/spring-integration-samples).
+
+* [Spring batch](https://github.com/spring-projects/spring-batch) 一个基于spring的批处理框架. [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-batch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-projects/spring-batch).
+
+* [SpringBoot-vue](https://github.com/boylegu/SpringBoot-vue) springboot结合vue. [![GitHub stars](https://img.shields.io/github/stars/boylegu/SpringBoot-vue.svg?style=social&label=Star&maxAge=2592000)](https://github.com/boylegu/SpringBoot-vue).
+
+* [mini-spring](https://github.com/DerekYRC/mini-spring) 学习spring [![GitHub stars](https://img.shields.io/github/stars/DerekYRC/mini-spring.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DerekYRC/mini-spring).
+
 ### 测试
 
 * [karate](https://github.com/intuit/karate) Web-API自动化测试框架,无需使用java语言，自动灵活的比较JSON和XML [![GitHub stars](https://img.shields.io/github/stars/intuit/karate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/intuit/karate).
@@ -38,8 +51,6 @@
 *  [Oblac Jodd](https://github.com/oblac/jodd) 一个JAVA开源工具集， 可以看作JAVA的瑞士军刀，Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.5 Mb.  [![GitHub stars](https://img.shields.io/github/stars/oblac/jodd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oblac/jodd)
 
 * [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
-
-* [Spring batch](https://github.com/spring-projects/spring-batch) 一个基于spring的批处理框架. [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-batch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-projects/spring-batch).
 
 * [Greenrobot common](https://github.com/greenrobot/essentials) 一些比原生(比如hashmap)快的集合. [![GitHub stars](https://img.shields.io/github/stars/greenrobot/essentials.svg?style=social&label=Star&maxAge=2592000)](https://github.com/greenrobot/essentials).
 
@@ -249,6 +260,30 @@
 
 * [error-prone](https://github.com/google/error-prone) 在代码编译的时候找到运行时的错误 [![GitHub stars](https://img.shields.io/github/stars/google/error-prone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/error-prone).
 
+* [docx4j](https://github.com/plutext/docx4j) JAVA操作word,ppt,excel [![GitHub stars](https://img.shields.io/github/stars/plutext/docx4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/plutext/docx4j).
+
+* [geotools](https://github.com/geotools/geotools) geo工具包 [![GitHub stars](https://img.shields.io/github/stars/geotools/geotools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/geotools/geotools).
+
+* [tika](https://github.com/apache/tika) Apache Tika是一个内容分析工具包,可以检测上千种文件类型,并提取它们的元数据和文本。 [![GitHub stars](https://img.shields.io/github/stars/apache/tika.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/tika).
+
+* [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) 抽取视频和图片元数据 [![GitHub stars](https://img.shields.io/github/stars/drewnoakes/metadata-extractor.svg?style=social&label=Star&maxAge=2592000)](https://github.com/drewnoakes/metadata-extractor).
+
+* [java](https://github.com/json-iterator/java) JSON解析 [![GitHub stars](https://img.shields.io/github/stars/json-iterator/java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/json-iterator/java).
+
+* [pdf2json](https://github.com/modesty/pdf2json) pdf转json [![GitHub stars](https://img.shields.io/github/stars/modesty/pdf2json.svg?style=social&label=Star&maxAge=2592000)](https://github.com/modesty/pdf2json).
+
+* [openhtmltopdf](https://github.com/danfickle/openhtmltopdf) html转pdf [![GitHub stars](https://img.shields.io/github/stars/danfickle/openhtmltopdf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/danfickle/openhtmltopdf).
+
+* [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) 图片处理 [![GitHub stars](https://img.shields.io/github/stars/haraldk/TwelveMonkeys.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haraldk/TwelveMonkeys).
+
+* [commonmark-java](https://github.com/commonmark/commonmark-java) MD处理 [![GitHub stars](https://img.shields.io/github/stars/ommonmark/commonmark-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/commonmark/commonmark-java).
+
+* [flexmark-java](https://github.com/vsch/flexmark-java) MD处理 [![GitHub stars](https://img.shields.io/github/stars/vsch/flexmark-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vsch/flexmark-java).
+
+* [streamex](https://github.com/amaembo/streamex) stream增强 [![GitHub stars](https://img.shields.io/github/stars/amaembo/streamex.svg?style=social&label=Star&maxAge=2592000)](https://github.com/amaembo/streamex).
+
+* [fastutil](https://github.com/vigna/fastutil) JAVA集合的增强 [![GitHub stars](https://img.shields.io/github/stars/vigna/fastutil.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vigna/fastutil).
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
@@ -320,6 +355,9 @@
 * [throwing-function](https://github.com/pivovarit/throwing-function) lambda中异常处理 [![GitHub stars](https://img.shields.io/github/stars/pivovarit/throwing-function.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pivovarit/throwing-function).
 
 * [ShedLock](https://github.com/lukas-krecan/ShedLock) 用于解决在分布式环境中的多个实例的相同定时任务在同一时间点重复执行的问题 [![GitHub stars](https://img.shields.io/github/stars/lukas-krecan/ShedLock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lukas-krecan/ShedLock).
+
+* [Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) 线程固定CPU [![GitHub stars](https://img.shields.io/github/stars/OpenHFT/Java-Thread-Affinity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OpenHFT/Java-Thread-Affinity).
+
 
 ### 分布式
 
@@ -408,6 +446,15 @@
 
 * [KafkaManager](https://github.com/didi/Logi-KafkaManager) kafka监控，滴滴开源 [![GitHub stars](https://img.shields.io/github/stars/didi/Logi-KafkaManager.svg?style=social&label=Star&maxAge=2592000)](https://github.com/didi/Logi-KafkaManager).
 
+* [ambari](https://github.com/apache/ambari) 监控hadoop集群 [![GitHub stars](https://img.shields.io/github/stars/apache/ambari.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ambari).
+
+* [dr-elephant](https://github.com/linkedin/dr-elephant) 监控hadoop和spark性能 [![GitHub stars](https://img.shields.io/github/stars/linkedin/dr-elephant.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/dr-elephant).
+
+* [dtaokeeper](https://github.com/alibaba/taokeeper) 监控zk [![GitHub stars](https://img.shields.io/github/stars/alibaba/taokeeper.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/taokeeper).
+
+* [p6spy](https://github.com/p6spy/p6spy) 监控JDBC [![GitHub stars](https://img.shields.io/github/stars/p6spy/p6spy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/p6spy/p6spy).
+
+
 
 ### 消息队列
 
@@ -489,6 +536,9 @@
 
 * [java8-misuses](https://github.com/xpinjection/java8-misuses) JAVA8容易犯的错误 [![GitHub stars](https://img.shields.io/github/stars/xpinjection/java8-misuses.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xpinjection/java8-misuses).
 
+* [codelibrary](https://github.com/indy256/codelibrary) 一些算法和数据结构 [![GitHub stars](https://img.shields.io/github/stars/indy256/codelibrary.svg?style=social&label=Star&maxAge=2592000)](https://github.com/indy256/codelibrary).
+
+
 ### 存储
 
 * [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
@@ -526,6 +576,10 @@
 * [calcite](https://github.com/apache/calcite) SQL解析器，很多知名数据库在用 [![GitHub stars](https://img.shields.io/github/stars/apache/calcite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/calcite).
 
 * [kite](https://github.com/kite-sdk/kite) 在hadoop上构建系统 [![GitHub stars](https://img.shields.io/github/stars/kite-sdk/kite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kite-sdk/kite).
+
+* [trino](https://github.com/trinodb/trino) 大数据的分布式SQL引擎 [![GitHub stars](https://img.shields.io/github/stars/trinodb/trino.svg?style=social&label=Star&maxAge=2592000)](https://github.com/trinodb/trino).
+
+* [FastDFS_Client](https://github.com/tobato/FastDFS_Client) FastDFS(分布式文件系统)的客户端 [![GitHub stars](https://img.shields.io/github/stars/tobato/FastDFS_Client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tobato/FastDFS_Client).
 
 ### 流处理
 
@@ -590,6 +644,9 @@
 * [fast-cosine-similarity](https://github.com/StaySense/fast-cosine-similarity) 基于ES的余弦相似度比较 [![GitHub stars](https://img.shields.io/github/stars/StaySense/fast-cosine-similarity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StaySense/fast-cosine-similarity).
 
 * [djl](https://github.com/deepjavalibrary/djl) 基于ES的余弦相似度比较 [![GitHub stars](https://img.shields.io/github/stars/deepjavalibrary/djl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/deepjavalibrary/djl).
+
+* [seldon-server](https://github.com/SeldonIO/seldon-server) 基于K8S的机器学习和推荐引擎 [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/seldon-server.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SeldonIO/seldon-server).
+
 
 ### 区块链
 
