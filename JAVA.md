@@ -319,6 +319,8 @@
 
 * [throwing-function](https://github.com/pivovarit/throwing-function) lambda中异常处理 [![GitHub stars](https://img.shields.io/github/stars/pivovarit/throwing-function.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pivovarit/throwing-function).
 
+* [ShedLock](https://github.com/lukas-krecan/ShedLock) 用于解决在分布式环境中的多个实例的相同定时任务在同一时间点重复执行的问题 [![GitHub stars](https://img.shields.io/github/stars/lukas-krecan/ShedLock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lukas-krecan/ShedLock).
+
 ### 分布式
 
 * [ByteTCC](https://github.com/liuyangming/ByteTCC) TCC事务的实现[![GitHub stars](https://img.shields.io/github/stars/liuyangming/ByteTCC.svg?style=social&label=Star&maxAge=2592000)](https://github.com/liuyangming/ByteTCC).
@@ -406,6 +408,11 @@
 
 * [KafkaManager](https://github.com/didi/Logi-KafkaManager) kafka监控，滴滴开源 [![GitHub stars](https://img.shields.io/github/stars/didi/Logi-KafkaManager.svg?style=social&label=Star&maxAge=2592000)](https://github.com/didi/Logi-KafkaManager).
 
+
+### 消息队列
+
+* [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/strimzi/strimzi-kafka-operator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strimzi/strimzi-kafka-operator).
+
 ### 安全
 
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).
@@ -441,6 +448,8 @@
 * [cryptomator](https://github.com/cryptomator/cryptomator)  Cryptomator 是一款客户端加密应用,它能够在本地帮你加密数据,然后上传云端服务,目前支持 iCloud Drive, Dropbox, Google Drive, OneDrive 和 WebDAV 等内容  [![GitHub stars](https://img.shields.io/github/stars/cryptomator/cryptomator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cryptomator/cryptomator).
 
 * [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)  网络安全扫描工具  [![GitHub stars](https://img.shields.io/github/stars/tsunami-security-scanner.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tsunami-security-scanner).
+
+* [DependencyCheck](https://github.com/jeremylong/DependencyCheck)  网络安全扫描工具  [![GitHub stars](https://img.shields.io/github/stars/jeremylong/DependencyCheck.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jeremylong/DependencyCheck).
 
 ### 资源收集
 
