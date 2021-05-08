@@ -110,6 +110,8 @@
 
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) go解析JSON，XML等 [![GitHub stars](https://img.shields.io/github/stars/thedevsaddam/gojsonq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thedevsaddam/gojsonq).
 
+* [gop](https://github.com/goplus/gop) go科学计算包 [![GitHub stars](https://img.shields.io/github/stars/goplus/gop.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goplus/gop).
+
 ### 命令行
 
 * [fzf](https://github.com/junegunn/fzf) 命令行模糊搜索工具 [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/junegunn/fzf).
