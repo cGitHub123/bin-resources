@@ -23,15 +23,17 @@
 
 * [Photon](https://github.com/s0md3v/Photon) OSINT爬虫  [![GitHub stars](https://img.shields.io/github/stars/s0md3v/Photon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/s0md3v/Photon).
 
+### HTTP
 
+* [httpie](https://github.com/httpie/httpie) 一个基于命令行的类POSTMAN工具  [![GitHub stars](https://img.shields.io/github/stars/httpie/httpie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/httpie/httpie).
+
+* [requests](https://github.com/psf/requests) PYTHON最好的HTTP工具  [![GitHub stars](https://img.shields.io/github/stars/psf/requests.svg?style=social&label=Star&maxAge=2592000)](https://github.com/psf/requests).
 
 ### 工具
 
 * [speedtest-cli](https://github.com/sivel/speedtest-cli) 一站式框架，天生支持异步，Scala语言表达力强，开发速度快，但是不建议使用 . [![GitHub stars](https://img.shields.io/github/stars/sivel/speedtest-cli.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sivel/speedtest-cli).
 
 * [youtube-dl](https://github.com/ytdl-org/youtube-dl) youtube下载工具  [![GitHub stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ytdl-org/youtube-dl).
-
-* [httpie](https://github.com/httpie/httpie) 一个基于命令行的类POSTMAN工具  [![GitHub stars](https://img.shields.io/github/stars/httpie/httpie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/httpie/httpie).
 
 * [XX-Net](https://github.com/XX-net/XX-Net) 翻越长城  [![GitHub stars](https://img.shields.io/github/stars/XX-net/XX-Net.svg?style=social&label=Star&maxAge=2592000)](https://github.com/XX-net/XX-Net).
 
