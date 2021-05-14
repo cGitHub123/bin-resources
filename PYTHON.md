@@ -53,6 +53,8 @@
 
 * [binwalk](https://github.com/ReFirmLabs/binwalk) 防火墙扫描 [![GitHub stars](https://img.shields.io/github/stars/ReFirmLabs/binwalk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ReFirmLabs/binwalk).
 
+* [dirsearch](https://github.com/maurosoria/dirsearch) 一个python开发的目录扫描工具,目的是扫描网站的敏感文件和目录从而找到突破口 [![GitHub stars](https://img.shields.io/github/stars/maurosoria/dirsearch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maurosoria/dirsearch).
+
 ### 可视化
 
 * [bokeh](https://github.com/bokeh/bokeh) 交互式的python可视化工具 [![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bokeh/bokeh).
