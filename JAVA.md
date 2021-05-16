@@ -287,6 +287,8 @@
 
 * [fastutil](https://github.com/vigna/fastutil) JAVA集合的增强 [![GitHub stars](https://img.shields.io/github/stars/vigna/fastutil.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vigna/fastutil).
 
+* [ysoserial](https://github.com/frohoff/ysoserial)  ysoserial集合了各种java反序列化payload  [![GitHub stars](https://img.shields.io/github/stars/frohoff/ysoserial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/frohoff/ysoserial).
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
@@ -457,6 +459,7 @@
 
 * [p6spy](https://github.com/p6spy/p6spy) 监控JDBC [![GitHub stars](https://img.shields.io/github/stars/p6spy/p6spy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/p6spy/p6spy).
 
+* [pinpoint](https://github.com/pinpoint-apm/pinpoint) 大型分布式监控系统 [![GitHub stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pinpoint-apm/pinpoint).
 
 
 ### 消息队列
@@ -500,6 +503,9 @@
 * [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)  网络安全扫描工具  [![GitHub stars](https://img.shields.io/github/stars/tsunami-security-scanner.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tsunami-security-scanner).
 
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck)  网络安全扫描工具  [![GitHub stars](https://img.shields.io/github/stars/jeremylong/DependencyCheck.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jeremylong/DependencyCheck).
+
+
+
 
 ### 资源收集
 
