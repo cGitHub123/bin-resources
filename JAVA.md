@@ -4,6 +4,7 @@
       - [spring](#spring)   
       - [测试](#测试)   
       - [开发工具](#开发工具)   
+      - [文本/json/图片处理](#文本json图片处理)   
       - [序列化](#序列化)   
       - [反射](#反射)   
       - [测试](#测试)   
@@ -85,8 +86,6 @@
 * [Greenrobot common](https://github.com/greenrobot/essentials) 一些比原生(比如hashmap)快的集合. [![GitHub stars](https://img.shields.io/github/stars/greenrobot/essentials.svg?style=social&label=Star&maxAge=2592000)](https://github.com/greenrobot/essentials).
 
 * [Apache Isis](http://isis.apache.org) 用于在 Java 中快速开发领域驱动应（domain-driven）用程序的框架。只需在实体、领域服务或视图模型中编写业务逻辑，该框架会将该领域模型的表示动态生成为 webapp 或丰富的超媒体 REST API
-
-* [Luban](https://github.com/Curzibn/Luban) 图片压缩.  [![GitHub stars](https://img.shields.io/github/stars/Curzibn/Luban.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Curzibn/Luban).
 
 * [tink](https://github.com/google/tink) 谷歌加密算法库.  [![GitHub stars](https://img.shields.io/github/stars/google/tink.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tink).
 
@@ -208,8 +207,6 @@
 
 * [guava-retrying](https://github.com/rholder/guava-retrying) guava重试框架  [![GitHub stars](https://img.shields.io/github/stars/rholder/guava-retrying.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rholder/guava-retrying).
 
-* [jolt](https://github.com/bazaarvoice/jolt) 对JSON格式进行转换，生成新的JSON，在当今大数据场景主流的ETL pipeline 工具如NIFI和 StreamSets都支持jolt作为json转换插件，在读取ElasticSearch, MongoDb, Cassandra等数据时可以用jolt做数据格式转换  [![GitHub stars](https://img.shields.io/github/stars/bazaarvoice/jolt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bazaarvoice/jolt).
-
 * [onos](https://github.com/opennetworkinglab/onos) onos是一个开源的网络操作系统 [![GitHub stars](https://img.shields.io/github/stars/opennetworkinglab/onos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/opennetworkinglab/onos).
 
 * [pcap4j](https://github.com/kaitoy/pcap4j) JAVA流量包截取，捕获，发送 [![GitHub stars](https://img.shields.io/github/stars/kaitoy/pcap4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kaitoy/pcap4j).
@@ -290,33 +287,15 @@
 
 * [error-prone](https://github.com/google/error-prone) 在代码编译的时候找到运行时的错误 [![GitHub stars](https://img.shields.io/github/stars/google/error-prone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/error-prone).
 
-* [docx4j](https://github.com/plutext/docx4j) JAVA操作word,ppt,excel [![GitHub stars](https://img.shields.io/github/stars/plutext/docx4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/plutext/docx4j).
-
 * [geotools](https://github.com/geotools/geotools) geo工具包 [![GitHub stars](https://img.shields.io/github/stars/geotools/geotools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/geotools/geotools).
 
 * [tika](https://github.com/apache/tika) Apache Tika是一个内容分析工具包,可以检测上千种文件类型,并提取它们的元数据和文本。 [![GitHub stars](https://img.shields.io/github/stars/apache/tika.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/tika).
-
-* [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) 抽取视频和图片元数据 [![GitHub stars](https://img.shields.io/github/stars/drewnoakes/metadata-extractor.svg?style=social&label=Star&maxAge=2592000)](https://github.com/drewnoakes/metadata-extractor).
-
-* [java](https://github.com/json-iterator/java) JSON解析 [![GitHub stars](https://img.shields.io/github/stars/json-iterator/java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/json-iterator/java).
-
-* [pdf2json](https://github.com/modesty/pdf2json) pdf转json [![GitHub stars](https://img.shields.io/github/stars/modesty/pdf2json.svg?style=social&label=Star&maxAge=2592000)](https://github.com/modesty/pdf2json).
-
-* [openhtmltopdf](https://github.com/danfickle/openhtmltopdf) html转pdf [![GitHub stars](https://img.shields.io/github/stars/danfickle/openhtmltopdf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/danfickle/openhtmltopdf).
-
-* [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) 图片处理 [![GitHub stars](https://img.shields.io/github/stars/haraldk/TwelveMonkeys.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haraldk/TwelveMonkeys).
-
-* [commonmark-java](https://github.com/commonmark/commonmark-java) MD处理 [![GitHub stars](https://img.shields.io/github/stars/ommonmark/commonmark-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/commonmark/commonmark-java).
-
-* [flexmark-java](https://github.com/vsch/flexmark-java) MD处理 [![GitHub stars](https://img.shields.io/github/stars/vsch/flexmark-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vsch/flexmark-java).
 
 * [streamex](https://github.com/amaembo/streamex) stream增强 [![GitHub stars](https://img.shields.io/github/stars/amaembo/streamex.svg?style=social&label=Star&maxAge=2592000)](https://github.com/amaembo/streamex).
 
 * [fastutil](https://github.com/vigna/fastutil) JAVA集合的增强 [![GitHub stars](https://img.shields.io/github/stars/vigna/fastutil.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vigna/fastutil).
 
 * [ysoserial](https://github.com/frohoff/ysoserial)  ysoserial集合了各种java反序列化payload  [![GitHub stars](https://img.shields.io/github/stars/frohoff/ysoserial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/frohoff/ysoserial).
-
-* [tabula-java](https://github.com/tabulapdf/tabula-java)  提取PDF表格数据  [![GitHub stars](https://img.shields.io/github/stars/tabulapdf/tabula-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tabulapdf/tabula-java).
 
 * [jts](https://github.com/locationtech/jts) 用于处理几何要素拓扑关系的函数库 [![GitHub stars](https://img.shields.io/github/stars/locationtech/jts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locationtech/jts).
 
@@ -336,9 +315,6 @@
 
 * [logbook](https://github.com/zalando/logbook) 记录HTTP请求和返回的工具
  [![GitHub stars](https://img.shields.io/github/stars/zalando/logbook.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zalando/logbook).
-
-* [excel-streaming-reader](https://github.com/monitorjbl/excel-streaming-reader) 流式读取EXCEL，减少内存占用
- [![GitHub stars](https://img.shields.io/github/stars/monitorjbl/excel-streaming-reader.svg?style=social&label=Star&maxAge=2592000)](https://github.com/monitorjbl/excel-streaming-reader).
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
  [![GitHub stars](https://img.shields.io/github/stars/javers/javers.svg?style=social&label=Star&maxAge=2592000)](https://github.com/javers/javers).
@@ -360,6 +336,33 @@
 
 * [BlockHound](https://github.com/reactor/BlockHound) 通过字节码编程检测线程阻塞
  [![GitHub stars](https://img.shields.io/github/stars/wenhao/jpa-spec.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reactor/BlockHound).
+
+### 文本/json/图片处理
+
+* [excel-streaming-reader](https://github.com/monitorjbl/excel-streaming-reader) 流式读取EXCEL，减少内存占用
+ [![GitHub stars](https://img.shields.io/github/stars/monitorjbl/excel-streaming-reader.svg?style=social&label=Star&maxAge=2592000)](https://github.com/monitorjbl/excel-streaming-reader).
+
+* [pdf2json](https://github.com/modesty/pdf2json) pdf转json [![GitHub stars](https://img.shields.io/github/stars/modesty/pdf2json.svg?style=social&label=Star&maxAge=2592000)](https://github.com/modesty/pdf2json).
+
+* [openhtmltopdf](https://github.com/danfickle/openhtmltopdf) html转pdf [![GitHub stars](https://img.shields.io/github/stars/danfickle/openhtmltopdf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/danfickle/openhtmltopdf).
+
+* [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) 图片处理 [![GitHub stars](https://img.shields.io/github/stars/haraldk/TwelveMonkeys.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haraldk/TwelveMonkeys).
+
+* [commonmark-java](https://github.com/commonmark/commonmark-java) MD处理 [![GitHub stars](https://img.shields.io/github/stars/ommonmark/commonmark-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/commonmark/commonmark-java).
+
+* [flexmark-java](https://github.com/vsch/flexmark-java) MD处理 [![GitHub stars](https://img.shields.io/github/stars/vsch/flexmark-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vsch/flexmark-java).
+
+* [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) 抽取视频和图片元数据 [![GitHub stars](https://img.shields.io/github/stars/drewnoakes/metadata-extractor.svg?style=social&label=Star&maxAge=2592000)](https://github.com/drewnoakes/metadata-extractor).
+
+* [java](https://github.com/json-iterator/java) JSON解析 [![GitHub stars](https://img.shields.io/github/stars/json-iterator/java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/json-iterator/java).
+
+* [docx4j](https://github.com/plutext/docx4j) JAVA操作word,ppt,excel [![GitHub stars](https://img.shields.io/github/stars/plutext/docx4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/plutext/docx4j).
+
+* [jolt](https://github.com/bazaarvoice/jolt) 对JSON格式进行转换，生成新的JSON，在当今大数据场景主流的ETL pipeline 工具如NIFI和 StreamSets都支持jolt作为json转换插件，在读取ElasticSearch, MongoDb, Cassandra等数据时可以用jolt做数据格式转换  [![GitHub stars](https://img.shields.io/github/stars/bazaarvoice/jolt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bazaarvoice/jolt).
+
+* [Luban](https://github.com/Curzibn/Luban) 图片压缩.  [![GitHub stars](https://img.shields.io/github/stars/Curzibn/Luban.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Curzibn/Luban).
+
+* [tabula-java](https://github.com/tabulapdf/tabula-java)  提取PDF表格数据  [![GitHub stars](https://img.shields.io/github/stars/tabulapdf/tabula-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tabulapdf/tabula-java).
 
 ### 序列化
 
