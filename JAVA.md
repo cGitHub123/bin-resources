@@ -337,6 +337,12 @@
 * [BlockHound](https://github.com/reactor/BlockHound) 通过字节码编程检测线程阻塞
  [![GitHub stars](https://img.shields.io/github/stars/wenhao/jpa-spec.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reactor/BlockHound).
 
+ * [Duke](https://github.com/larsga/Duke) 发现数据库或者json,csv的重复数据
+ [![GitHub stars](https://img.shields.io/github/stars/larsga/Duke.svg?style=social&label=Star&maxAge=2592000)](https://github.com/larsga/Duke).
+
+* [JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) 一个容错框架，解决数据传输中出错的情况(ReedSolomon实现)
+ [![GitHub stars](https://img.shields.io/github/stars/Backblaze/JavaReedSolomon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Backblaze/JavaReedSolomon).
+
 ### 文本/json/图片处理
 
 * [excel-streaming-reader](https://github.com/monitorjbl/excel-streaming-reader) 流式读取EXCEL，减少内存占用
@@ -546,6 +552,8 @@
 
 * [glowroot](https://github.com/glowroot/glowroot) JAVA监控 [![GitHub stars](https://img.shields.io/github/stars/glowroot/glowroot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/glowroot/glowroot).
 
+* [jamm](https://github.com/jbellis/jamm) JAVA做内存控制的agent [![GitHub stars](https://img.shields.io/github/stars/jbellis/jamm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jbellis/jamm).
+
 ### 消息队列
 
 * [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/strimzi/strimzi-kafka-operator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strimzi/strimzi-kafka-operator).
@@ -676,6 +684,8 @@
 * [PalDB](https://github.com/linkedin/PalDB) 嵌入式数据库 [![GitHub stars](https://img.shields.io/github/stars/linkedin/PalDB.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/PalDB).
 
 * [Hive-JSON-Serde](https://github.com/rcongiu/Hive-JSON-Serde) HIVE读取hadoop的JSON数据 [![GitHub stars](https://img.shields.io/github/stars/rcongiu/Hive-JSON-Serde.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rcongiu/Hive-JSON-Serde).
+
+* [ohc](https://github.com/snazy/ohc) 使用非堆内存做缓存 [![GitHub stars](https://img.shields.io/github/stars/snazy/ohc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/snazy/ohc).
 
 
 ### 流处理
