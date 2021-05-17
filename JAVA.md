@@ -289,9 +289,20 @@
 
 * [ysoserial](https://github.com/frohoff/ysoserial)  ysoserial集合了各种java反序列化payload  [![GitHub stars](https://img.shields.io/github/stars/frohoff/ysoserial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/frohoff/ysoserial).
 
+* [tabula-java](https://github.com/tabulapdf/tabula-java)  提取PDF表格数据  [![GitHub stars](https://img.shields.io/github/stars/tabulapdf/tabula-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tabulapdf/tabula-java).
+
+* [jts](https://github.com/locationtech/jts) 用于处理几何要素拓扑关系的函数库 [![GitHub stars](https://img.shields.io/github/stars/locationtech/jts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locationtech/jts).
+
+* [i2p.i2p](https://github.com/i2p/i2p.i2p) 匿名网络下安全数据传输 [![GitHub stars](https://img.shields.io/github/stars/i2p/i2p.i2p.svg?style=social&label=Star&maxAge=2592000)](https://github.com/i2p/i2p.i2p).
+
+* [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) 匿名网络下安全数据传输 [![GitHub stars](https://img.shields.io/github/stars/schemacrawler/SchemaCrawler.svg?style=social&label=Star&maxAge=2592000)](https://github.com/schemacrawler/SchemaCrawler).
+
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
+
+* [fast-serialization](https://github.com/RuedigerMoeller/fast-serialization) 高性能序列化库 [![GitHub stars](https://img.shields.io/github/stars/RuedigerMoeller/fast-serialization.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RuedigerMoeller/fast-serialization).
 
 ### 反射
 
@@ -655,6 +666,8 @@
 * [djl](https://github.com/deepjavalibrary/djl) 基于ES的余弦相似度比较 [![GitHub stars](https://img.shields.io/github/stars/deepjavalibrary/djl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/deepjavalibrary/djl).
 
 * [seldon-server](https://github.com/SeldonIO/seldon-server) 基于K8S的机器学习和推荐引擎 [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/seldon-server.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SeldonIO/seldon-server).
+
+* [jsprit](https://github.com/graphhopper/jsprit) 路径规划问题 [![GitHub stars](https://img.shields.io/github/stars/graphhopper/jsprit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graphhopper/jsprit).
 
 
 ### 区块链
