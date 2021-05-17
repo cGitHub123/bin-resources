@@ -1,7 +1,31 @@
+<!-- MDTOC maxdepth:6 firsth1:1 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
+
+      - [Web](#web)   
+      - [spring](#spring)   
+      - [测试](#测试)   
+      - [开发工具](#开发工具)   
+      - [序列化](#序列化)   
+      - [反射](#反射)   
+      - [测试](#测试)   
+      - [字节码/热替换/类加载](#字节码热替换类加载)   
+      - [native](#native)   
+      - [多线程](#多线程)   
+      - [分布式](#分布式)   
+      - [分布式链路追踪](#分布式链路追踪)   
+      - [监控](#监控)   
+      - [消息队列](#消息队列)   
+      - [安全](#安全)   
+      - [资源收集](#资源收集)   
+      - [存储](#存储)   
+      - [流处理](#流处理)   
+      - [AI](#ai)   
+      - [区块链](#区块链)   
+      - [IDE](#ide)   
+
+<!-- /MDTOC -->
+
 
 ### Web
-
-#### 框架(Web框架建议还是老老实实spring)
 
 * [Play Framework](https://github.com/playframework/playframework) 一站式框架，天生支持异步，Scala语言表达力强，开发速度快，但是不建议使用 . [![GitHub stars](https://img.shields.io/github/stars/playframework/playframework.svg?style=social&label=Star&maxAge=2592000)](https://github.com/playframework/playframework).
 
@@ -12,9 +36,6 @@
 * [quarkus](https://github.com/quarkusio/quarkus) 一个用于编写 Java 应用的云原生、容器优先框架 [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quarkusio/quarkus).
 
 * [quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) quarkus例子 [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus-quickstarts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quarkusio/quarkus-quickstarts).
-
-
-#### web工具庫
 
 * [Kolorobot Spring MVC 4 Quickstart Maven Archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype) 快速生成springMVC4 Maven archetype web开发模板 [![GitHub stars](https://img.shields.io/github/stars/kolorobot/spring-mvc-quickstart-archetype.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kolorobot/spring-mvc-quickstart-archetype).
 
@@ -38,6 +59,10 @@
 
 * [mini-spring](https://github.com/DerekYRC/mini-spring) 学习spring [![GitHub stars](https://img.shields.io/github/stars/DerekYRC/mini-spring.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DerekYRC/mini-spring).
 
+* [spring-in-action-5-samples](https://github.com/habuma/spring-in-action-5-samples) spring in action5 的例子 [![GitHub stars](https://img.shields.io/github/stars/habuma/spring-in-action-5-samples.svg?style=social&label=Star&maxAge=2592000)](https://github.com/habuma/spring-in-action-5-samples).
+
+* [gs-spring-boot](https://github.com/spring-guides/gs-spring-boot) 最小化搭建springboot [![GitHub stars](https://img.shields.io/github/stars/spring-guides/gs-spring-boot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-guides/gs-spring-boot).
+
 ### 测试
 
 * [karate](https://github.com/intuit/karate) Web-API自动化测试框架,无需使用java语言，自动灵活的比较JSON和XML [![GitHub stars](https://img.shields.io/github/stars/intuit/karate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/intuit/karate).
@@ -52,6 +77,8 @@
 ### 开发工具
 
 *  [Oblac Jodd](https://github.com/oblac/jodd) 一个JAVA开源工具集， 可以看作JAVA的瑞士军刀，Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.5 Mb.  [![GitHub stars](https://img.shields.io/github/stars/oblac/jodd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oblac/jodd)
+
+*  [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) 将图片转成PDF [![GitHub stars](https://img.shields.io/github/stars/Swati4star/Images-to-PDF.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Swati4star/Images-to-PDF)
 
 * [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
 
@@ -297,12 +324,50 @@
 
 * [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) 匿名网络下安全数据传输 [![GitHub stars](https://img.shields.io/github/stars/schemacrawler/SchemaCrawler.svg?style=social&label=Star&maxAge=2592000)](https://github.com/schemacrawler/SchemaCrawler).
 
+* [Turbine](https://github.com/Netflix/Turbine) SSE聚合 [![GitHub stars](https://img.shields.io/github/stars/Netflix/Turbine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Netflix/Turbine).
+
+* [rtree](https://github.com/davidmoten/rtree) 基于内存的rtree实现 [![GitHub stars](https://img.shields.io/github/stars/davidmoten/rtree.svg?style=social&label=Star&maxAge=2592000)](https://github.com/davidmoten/rtree).
+
+* [hollow](https://github.com/Netflix/hollow) 为中小规模的内存中数据集提供了一套全面的工具，适合从单一生成方到多个消耗方等不同场景下的数据只读访问
+ [![GitHub stars](https://img.shields.io/github/stars/Netflix/hollow.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Netflix/hollow).
+
+* [jline3](https://github.com/jline/jline3) 命令行工具
+ [![GitHub stars](https://img.shields.io/github/stars/jline/jline3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jline/jline3).
+
+* [logbook](https://github.com/zalando/logbook) 记录HTTP请求和返回的工具
+ [![GitHub stars](https://img.shields.io/github/stars/zalando/logbook.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zalando/logbook).
+
+* [excel-streaming-reader](https://github.com/monitorjbl/excel-streaming-reader) 流式读取EXCEL，减少内存占用
+ [![GitHub stars](https://img.shields.io/github/stars/monitorjbl/excel-streaming-reader.svg?style=social&label=Star&maxAge=2592000)](https://github.com/monitorjbl/excel-streaming-reader).
+
+* [javers](https://github.com/javers/javers) 两个对象做数据对比
+ [![GitHub stars](https://img.shields.io/github/stars/javers/javers.svg?style=social&label=Star&maxAge=2592000)](https://github.com/javers/javers).
+
+ * [java-object-diff](https://github.com/SQiShER/java-object-diff) 两个对象做数据对比
+ [![GitHub stars](https://img.shields.io/github/stars/SQiShER/java-object-diff.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SQiShER/java-object-diff).
+
+ * [Orestes-Bloomfilter](https://github.com/Baqend/Orestes-Bloomfilter) 不同的布隆过滤器实现
+ [![GitHub stars](https://img.shields.io/github/stars/Baqend/Orestes-Bloomfilter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Baqend/Orestes-Bloomfilter).
+
+ * [cron-utils](https://github.com/jmrozanec/cron-utils) 生成cron表达式的工具
+ [![GitHub stars](https://img.shields.io/github/stars/jmrozanec/cron-utils.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jmrozanec/cron-utils).
+
+ * [jpa-spec](https://github.com/wenhao/jpa-spec) jpa工具
+ [![GitHub stars](https://img.shields.io/github/stars/wenhao/jpa-spec.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wenhao/jpa-spec).
+
+* [expiringmap](https://github.com/jhalterman/expiringmap) 一个concurrenthashmap的封装，带过期时间
+ [![GitHub stars](https://img.shields.io/github/stars/jhalterman/expiringmap.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jhalterman/expiringmap).
+
+* [BlockHound](https://github.com/reactor/BlockHound) 通过字节码编程检测线程阻塞
+ [![GitHub stars](https://img.shields.io/github/stars/wenhao/jpa-spec.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reactor/BlockHound).
 
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
 
 * [fast-serialization](https://github.com/RuedigerMoeller/fast-serialization) 高性能序列化库 [![GitHub stars](https://img.shields.io/github/stars/RuedigerMoeller/fast-serialization.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RuedigerMoeller/fast-serialization).
+
+* [jprotobuf](https://github.com/jhunters/jprotobuf) protobuf工具包 [![GitHub stars](https://img.shields.io/github/stars/jhunters/jprotobuf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jhunters/jprotobuf).
 
 ### 反射
 
@@ -374,6 +439,8 @@
 
 * [Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) 线程固定CPU [![GitHub stars](https://img.shields.io/github/stars/OpenHFT/Java-Thread-Affinity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OpenHFT/Java-Thread-Affinity).
 
+* [fucking-java-concurrency](https://github.com/oldratlee/fucking-java-concurrency) JAVA多线程示例 [![GitHub stars](https://img.shields.io/github/stars/oldratlee/fucking-java-concurrency.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oldratlee/fucking-java-concurrency).
+
 
 ### 分布式
 
@@ -408,6 +475,8 @@
 * [redis-id-generator](https://github.com/hengyunabc/redis-id-generator) 分布式ID生成器 [![GitHub stars](https://img.shields.io/github/stars/hengyunabc/redis-id-generator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hengyunabc/redis-id-generator).
 
 * [mldht](https://github.com/the8472/mldht) DHT的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/the8472/mldht.svg?style=social&label=Star&maxAge=2592000)](https://github.com/the8472/mldht).
+
+* [raft-java](https://github.com/wenweihu86/raft-java) RAFT的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/wenweihu86/raft-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wenweihu86/raft-java).
 
 ### 分布式链路追踪
 
@@ -472,6 +541,7 @@
 
 * [pinpoint](https://github.com/pinpoint-apm/pinpoint) 大型分布式监控系统 [![GitHub stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pinpoint-apm/pinpoint).
 
+* [glowroot](https://github.com/glowroot/glowroot) JAVA监控 [![GitHub stars](https://img.shields.io/github/stars/glowroot/glowroot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/glowroot/glowroot).
 
 ### 消息队列
 
@@ -515,8 +585,7 @@
 
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck)  网络安全扫描工具  [![GitHub stars](https://img.shields.io/github/stars/jeremylong/DependencyCheck.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jeremylong/DependencyCheck).
 
-
-
+* [pcap4j](https://github.com/kaitoy/pcap4j)  截取，发送包 [![GitHub stars](https://img.shields.io/github/stars/kaitoy/pcap4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kaitoy/pcap4j).
 
 ### 资源收集
 
@@ -601,6 +670,11 @@
 
 * [FastDFS_Client](https://github.com/tobato/FastDFS_Client) FastDFS(分布式文件系统)的客户端 [![GitHub stars](https://img.shields.io/github/stars/tobato/FastDFS_Client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tobato/FastDFS_Client).
 
+* [PalDB](https://github.com/linkedin/PalDB) 嵌入式数据库 [![GitHub stars](https://img.shields.io/github/stars/linkedin/PalDB.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/PalDB).
+
+* [Hive-JSON-Serde](https://github.com/rcongiu/Hive-JSON-Serde) HIVE读取hadoop的JSON数据 [![GitHub stars](https://img.shields.io/github/stars/rcongiu/Hive-JSON-Serde.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rcongiu/Hive-JSON-Serde).
+
+
 ### 流处理
 
 * [beam](https://github.com/apache/beam) 对spark,flink的统一抽象，可以隐藏不同流处理框架，统一接口 [![GitHub stars](https://img.shields.io/github/stars/apache/beam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/beam).
@@ -668,6 +742,15 @@
 * [seldon-server](https://github.com/SeldonIO/seldon-server) 基于K8S的机器学习和推荐引擎 [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/seldon-server.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SeldonIO/seldon-server).
 
 * [jsprit](https://github.com/graphhopper/jsprit) 路径规划问题 [![GitHub stars](https://img.shields.io/github/stars/graphhopper/jsprit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graphhopper/jsprit).
+
+* [AhoCorasickDoubleArrayTrie](https://github.com/hankcs/AhoCorasickDoubleArrayTrie) AC算法，主要用于敏感词审核
+ [![GitHub stars](https://img.shields.io/github/stars/hankcs/AhoCorasickDoubleArrayTrie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hankcs/AhoCorasickDoubleArrayTrie).
+
+* [similarity](https://github.com/shibing624/similarity) 用于词语、短语、句子、词法分析、情感分析、语义分析等相关的相似度计算
+ [![GitHub stars](https://img.shields.io/github/stars/hankcs/AhoCorasickDoubleArrayTrie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/shibing624/similarity).
+
+* [openrouteservice](https://github.com/GIScience/openrouteservice) 路径规划
+ [![GitHub stars](https://img.shields.io/github/stars/GIScience/openrouteservice.svg?style=social&label=Star&maxAge=2592000)](https://github.com/GIScience/openrouteservice).
 
 
 ### 区块链
