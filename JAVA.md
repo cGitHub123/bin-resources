@@ -64,6 +64,9 @@
 
 * [gs-spring-boot](https://github.com/spring-guides/gs-spring-boot) 最小化搭建springboot [![GitHub stars](https://img.shields.io/github/stars/spring-guides/gs-spring-boot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-guides/gs-spring-boot).
 
+* [Neo4j-KGBuilder](https://github.com/MiracleTanC/Neo4j-KGBuilder) 知识图谱构建和可视化 [![GitHub stars](https://img.shields.io/github/stars/MiracleTanC/Neo4j-KGBuilder.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MiracleTanC/Neo4j-KGBuilder).
+
+
 ### 测试
 
 * [karate](https://github.com/intuit/karate) Web-API自动化测试框架,无需使用java语言，自动灵活的比较JSON和XML [![GitHub stars](https://img.shields.io/github/stars/intuit/karate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/intuit/karate).
@@ -370,6 +373,8 @@
 
 * [tabula-java](https://github.com/tabulapdf/tabula-java)  提取PDF表格数据  [![GitHub stars](https://img.shields.io/github/stars/tabulapdf/tabula-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tabulapdf/tabula-java).
 
+* [yamlbeans](https://github.com/EsotericSoftware/yamlbeans)  JAVA解析YAML  [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/yamlbeans.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/yamlbeans).
+
 ### 序列化
 
 * [avro](https://github.com/apache/avro) 大数据量序列化 [![GitHub stars](https://img.shields.io/github/stars/apache/avro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/avro).
@@ -387,6 +392,8 @@
 * [jOOR](https://github.com/jOOQ/jOOR) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/jOOQ/jOOR.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jOOQ/jOOR).
 
 * [fest-reflect](https://github.com/alexruiz/fest-reflect) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/alexruiz/fest-reflect.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alexruiz/fest-reflect).
+
+* [roaster](https://github.com/forge/roaster) 生成JAVA类工具 [![GitHub stars](https://img.shields.io/github/stars/forge/roaster.svg?style=social&label=Star&maxAge=2592000)](https://github.com/forge/roaster).
 
 ### 测试
 
@@ -765,6 +772,8 @@
 * [openrouteservice](https://github.com/GIScience/openrouteservice) 路径规划
  [![GitHub stars](https://img.shields.io/github/stars/GIScience/openrouteservice.svg?style=social&label=Star&maxAge=2592000)](https://github.com/GIScience/openrouteservice).
 
+ * [cognitivej](https://github.com/CognitiveJ/cognitivej) 人脸识别，可以识别人脸是否是一个人，以及年龄等
+  [![GitHub stars](https://img.shields.io/github/stars/CognitiveJ/cognitivej.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CognitiveJ/cognitivej).
 
 ### 区块链
 
