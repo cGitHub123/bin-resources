@@ -346,6 +346,9 @@
 * [JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) 一个容错框架，解决数据传输中出错的情况(ReedSolomon实现)
  [![GitHub stars](https://img.shields.io/github/stars/Backblaze/JavaReedSolomon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Backblaze/JavaReedSolomon).
 
+ * [slice](https://github.com/airlift/slice) JAVA处理堆内存和非堆内存
+  [![GitHub stars](https://img.shields.io/github/stars/airlift/slice.svg?style=social&label=Star&maxAge=2592000)](https://github.com/airlift/slice).
+
 ### 文本/json/图片处理
 
 * [excel-streaming-reader](https://github.com/monitorjbl/excel-streaming-reader) 流式读取EXCEL，减少内存占用
@@ -374,6 +377,8 @@
 * [tabula-java](https://github.com/tabulapdf/tabula-java)  提取PDF表格数据  [![GitHub stars](https://img.shields.io/github/stars/tabulapdf/tabula-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tabulapdf/tabula-java).
 
 * [yamlbeans](https://github.com/EsotericSoftware/yamlbeans)  JAVA解析YAML  [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/yamlbeans.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/yamlbeans).
+
+* [docs-to-pdf-converter](https://github.com/yeokm1/docs-to-pdf-converter)  转换DOC PPT等到PDF  [![GitHub stars](https://img.shields.io/github/stars/yeokm1/docs-to-pdf-converter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yeokm1/docs-to-pdf-converter).
 
 ### 序列化
 
