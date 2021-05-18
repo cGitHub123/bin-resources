@@ -340,14 +340,20 @@
 * [BlockHound](https://github.com/reactor/BlockHound) 通过字节码编程检测线程阻塞
  [![GitHub stars](https://img.shields.io/github/stars/wenhao/jpa-spec.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reactor/BlockHound).
 
- * [Duke](https://github.com/larsga/Duke) 发现数据库或者json,csv的重复数据
+* [Duke](https://github.com/larsga/Duke) 发现数据库或者json,csv的重复数据
  [![GitHub stars](https://img.shields.io/github/stars/larsga/Duke.svg?style=social&label=Star&maxAge=2592000)](https://github.com/larsga/Duke).
 
 * [JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) 一个容错框架，解决数据传输中出错的情况(ReedSolomon实现)
  [![GitHub stars](https://img.shields.io/github/stars/Backblaze/JavaReedSolomon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Backblaze/JavaReedSolomon).
 
- * [slice](https://github.com/airlift/slice) JAVA处理堆内存和非堆内存
+* [slice](https://github.com/airlift/slice) JAVA处理堆内存和非堆内存
   [![GitHub stars](https://img.shields.io/github/stars/airlift/slice.svg?style=social&label=Star&maxAge=2592000)](https://github.com/airlift/slice).
+
+* [concurrent-trees](https://github.com/npgall/concurrent-trees) Radix Trees和Suffix Trees 的JAVA实现
+  [![GitHub stars](https://img.shields.io/github/stars/npgall/concurrent-trees.svg?style=social&label=Star&maxAge=2592000)](https://github.com/npgall/concurrent-trees).
+
+* [java-ipfs-http-client](https://github.com/ipfs-shipyard/java-ipfs-http-client) IPFS的HTTP客户端
+  [![GitHub stars](https://img.shields.io/github/stars/ipfs-shipyard/java-ipfs-http-client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ipfs-shipyard/java-ipfs-http-client).  
 
 ### 文本/json/图片处理
 
@@ -462,6 +468,7 @@
 
 * [fucking-java-concurrency](https://github.com/oldratlee/fucking-java-concurrency) JAVA多线程示例 [![GitHub stars](https://img.shields.io/github/stars/oldratlee/fucking-java-concurrency.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oldratlee/fucking-java-concurrency).
 
+* [jcip.github.com](https://github.com/jcip/jcip.github.com) JAVA多线程联系 [![GitHub stars](https://img.shields.io/github/stars/jcip/jcip.github.com.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcip/jcip.github.com)
 
 ### 分布式
 
@@ -565,6 +572,8 @@
 * [glowroot](https://github.com/glowroot/glowroot) JAVA监控 [![GitHub stars](https://img.shields.io/github/stars/glowroot/glowroot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/glowroot/glowroot).
 
 * [jamm](https://github.com/jbellis/jamm) JAVA做内存控制的agent [![GitHub stars](https://img.shields.io/github/stars/jbellis/jamm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jbellis/jamm).
+
+* [apm-agent-java](https://github.com/elastic/apm-agent-java) APM监控, 基于javaagent [![GitHub stars](https://img.shields.io/github/stars/elastic/apm-agent-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/elastic/apm-agent-java).
 
 ### 消息队列
 
