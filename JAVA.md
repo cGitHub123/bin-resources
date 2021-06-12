@@ -2,11 +2,17 @@
 
    - [Web](#web)   
    - [spring](#spring)   
-   - [测试](#测试)   
    - [开发工具](#开发工具)   
+   - [对比](#对比)   
+   - [命令行](#命令行)   
+   - [HTTP](#http)   
+   - [地理位置](#地理位置)   
+   - [时间](#时间)   
+   - [性能](#性能)   
+   - [数据结构集](#数据结构集)   
    - [文本/json/图片处理](#文本json图片处理)   
    - [序列化](#序列化)   
-   - [反射](#反射)   
+   - [反射/对象构建/泛型](#反射对象构建泛型)   
    - [测试](#测试)   
    - [字节码/热替换/类加载](#字节码热替换类加载)   
    - [native](#native)   
@@ -24,7 +30,6 @@
    - [IDE](#ide)   
 
 <!-- /MDTOC -->
-
 
 ### Web
 
@@ -75,8 +80,6 @@
 *  [Oblac Jodd](https://github.com/oblac/jodd) 一个JAVA开源工具集， 可以看作JAVA的瑞士军刀，Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.5 Mb.  [![GitHub stars](https://img.shields.io/github/stars/oblac/jodd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oblac/jodd)
 
 *  [Iokio](https://github.com/square/okio) JAVA IO库的封装 [![GitHub stars](https://img.shields.io/github/stars/square/okio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/square/okio)
-
-* [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
 
 * [Apache Isis](http://isis.apache.org) 用于在 Java 中快速开发领域驱动应（domain-driven）用程序的框架。只需在实体、领域服务或视图模型中编写业务逻辑，该框架会将该领域模型的表示动态生成为 webapp 或丰富的超媒体 REST API
 
@@ -152,8 +155,6 @@
 
 * [kryonet](https://github.com/EsotericSoftware/kryonet) 提供了一套简洁的API来实现高效的,基于TCP和UDP协议的客户端/服务器NIO网络通信  [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/kryonet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/kryonet).
 
-* [json-schema-validator](https://github.com/java-json-tools/json-schema-validator) JSON校验框架  [![GitHub stars](https://img.shields.io/github/stars/java-json-tools/json-schema-validator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-json-tools/json-schema-validator).
-
 * [cqengine](https://github.com/npgall/cqengine) 对JAVA集合采用SQL查询  [![GitHub stars](https://img.shields.io/github/stars/npgall/cqengine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/npgall/cqengine).
 
 * [capsule](https://github.com/puniverse/capsule) 开源 JVM 应用部署和打包工具  [![GitHub stars](https://img.shields.io/github/stars/puniverse/capsule.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/capsule).
@@ -172,15 +173,9 @@
 
 * [artemis-disruptor-miaosha](https://github.com/chanjarster/artemis-disruptor-miaosha) 秒杀解决方案 [![GitHub stars](https://img.shields.io/github/stars/chanjarster/artemis-disruptor-miaosha.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chanjarster/artemis-disruptor-miaosha).
 
-* [typetools](https://github.com/jhalterman/typetools) 泛型处理包 [![GitHub stars](https://img.shields.io/github/stars/jhalterman/typetools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jhalterman/typetools).
-
 * [alibaba-rsocket-broker](https://github.com/alibaba/alibaba-rsocket-broker) 一款基于RSocket协议的反应式对等通讯系统，为通讯多方构建分布式的RPC, Pub/Sub, Streaming等通讯支持 [![GitHub stars](https://img.shields.io/github/stars/alibaba/alibaba-rsocket-broker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/alibaba-rsocket-broker).
 
 * [dnsjava](https://github.com/dnsjava/dnsjava) JAVA实现DNS协议 [![GitHub stars](https://img.shields.io/github/stars/dnsjava/dnsjava.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dnsjava/dnsjava).
-
-* [yamlbeans](https://github.com/EsotericSoftware/yamlbeans) 从YAML序列化成对象 [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/yamlbeans.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/yamlbeans).
-
-* [cloning](hhttps://github.com/kostaskougios/cloning) 深克隆 [![GitHub stars](https://img.shields.io/github/stars/kostaskougios/cloning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kostaskougios/cloning).
 
 * [graphviz-java](https://github.com/nidi3/graphviz-java) 纯JAVA实现流程图 [![GitHub stars](https://img.shields.io/github/stars/nidi3/graphviz-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nidi3/graphviz-java).
 
@@ -194,15 +189,9 @@
 
 * [mug](https://github.com/google/mug) 一个guava的补充 [![GitHub stars](https://img.shields.io/github/stars/google/mug.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/mug).
 
-* [GsonFactory](https://github.com/getActivity/GsonFactory) gson容错解析 [![GitHub stars](https://img.shields.io/github/stars/getActivity/GsonFactory.svg?style=social&label=Star&maxAge=2592000)](https://github.com/getActivity/GsonFactory).
-
 * [unix4j](https://github.com/tools4j/unix4j) 一个java操作linux命令行工具 [![GitHub stars](https://img.shields.io/github/stars/tools4j/unix4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tools4j/unix4j).
 
-* [dynamic-proxy](https://github.com/neoremind/dynamic-proxy) java动态代理 [![GitHub stars](https://img.shields.io/github/stars/neoremind/dynamic-proxy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/neoremind/dynamic-proxy).
-
 * [java-cookie](https://github.com/js-cookie/java-cookie) java cookie处理 [![GitHub stars](https://img.shields.io/github/stars/js-cookie/java-cookie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/js-cookie/java-cookie).
-
-* [objenesis](https://github.com/easymock/objenesis) Objenesis是一个Java的库，主要用来创建特定的对象。由于不是所有的类都有无参构造器又或者类构造器是private，在这样的情况下，如果我们还想实例化对象，class.newInstance是无法满足的 [![GitHub stars](https://img.shields.io/github/stars/easymock/objenesis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/easymock/objenesis).
 
 * [snappy-java](https://github.com/xerial/snappy-java) 压缩解压库 [![GitHub stars](https://img.shields.io/github/stars/xerial/snappy-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xerial/snappy-java).
 
@@ -301,7 +290,6 @@
 * [java-ipfs-http-client](https://github.com/ipfs-shipyard/java-ipfs-http-client) IPFS的HTTP客户端
   [![GitHub stars](https://img.shields.io/github/stars/ipfs-shipyard/java-ipfs-http-client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ipfs-shipyard/java-ipfs-http-client).  
 
-
 ### 地理位置
 
 * [geotools](https://github.com/geotools/geotools) geo工具包 [![GitHub stars](https://img.shields.io/github/stars/geotools/geotools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/geotools/geotools).
@@ -365,6 +353,10 @@
 
 ### 文本/json/图片处理
 
+* [json-schema-validator](https://github.com/java-json-tools/json-schema-validator) JSON校验框架  [![GitHub stars](https://img.shields.io/github/stars/java-json-tools/json-schema-validator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-json-tools/json-schema-validator).
+
+* [GsonFactory](https://github.com/getActivity/GsonFactory) gson容错解析 [![GitHub stars](https://img.shields.io/github/stars/getActivity/GsonFactory.svg?style=social&label=Star&maxAge=2592000)](https://github.com/getActivity/GsonFactory).
+
 * [thumbnailator](https://github.com/coobird/thumbnailator) 图片处理 [![GitHub stars](https://img.shields.io/github/stars/coobird/thumbnailator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/coobird/thumbnailator).
 
 *  [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) 将图片转成PDF [![GitHub stars](https://img.shields.io/github/stars/Swati4star/Images-to-PDF.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Swati4star/Images-to-PDF)
@@ -410,7 +402,7 @@
 
 * [simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding) 超快的二进制转换，用于传输 [![GitHub stars](https://img.shields.io/github/stars/real-logic/simple-binary-encoding.svg?style=social&label=Star&maxAge=2592000)](https://github.com/real-logic/simple-binary-encoding).
 
-### 反射
+### 反射/对象构建/泛型
 
 * [reflections](https://github.com/ronmamo/reflections) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/ronmamo/reflections.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ronmamo/reflections).
 
@@ -421,6 +413,16 @@
 * [fest-reflect](https://github.com/alexruiz/fest-reflect) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/alexruiz/fest-reflect.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alexruiz/fest-reflect).
 
 * [roaster](https://github.com/forge/roaster) 生成JAVA类工具 [![GitHub stars](https://img.shields.io/github/stars/forge/roaster.svg?style=social&label=Star&maxAge=2592000)](https://github.com/forge/roaster).
+
+* [yamlbeans](https://github.com/EsotericSoftware/yamlbeans) 从YAML序列化成对象 [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/yamlbeans.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/yamlbeans).
+
+* [typetools](https://github.com/jhalterman/typetools) 泛型处理包 [![GitHub stars](https://img.shields.io/github/stars/jhalterman/typetools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jhalterman/typetools).
+
+* [cloning](hhttps://github.com/kostaskougios/cloning) 深克隆 [![GitHub stars](https://img.shields.io/github/stars/kostaskougios/cloning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kostaskougios/cloning).
+
+* [dynamic-proxy](https://github.com/neoremind/dynamic-proxy) java动态代理 [![GitHub stars](https://img.shields.io/github/stars/neoremind/dynamic-proxy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/neoremind/dynamic-proxy).
+
+* [objenesis](https://github.com/easymock/objenesis) Objenesis是一个Java的库，主要用来创建特定的对象。由于不是所有的类都有无参构造器又或者类构造器是private，在这样的情况下，如果我们还想实例化对象，class.newInstance是无法满足的 [![GitHub stars](https://img.shields.io/github/stars/easymock/objenesis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/easymock/objenesis).
 
 ### 测试
 
@@ -605,7 +607,7 @@
 
 ### 消息队列
 
-* [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/strimzi/strimzi-kafka-operator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strimzi/strimzi-kafka-operator).
+* [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) 运行在K8S上的KAFKA  [![GitHub stars](https://img.shields.io/github/stars/strimzi/strimzi-kafka-operator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strimzi/strimzi-kafka-operator).
 
 ### 安全
 
@@ -737,6 +739,7 @@
 
 * [ohc](https://github.com/snazy/ohc) 使用非堆内存做缓存 [![GitHub stars](https://img.shields.io/github/stars/snazy/ohc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/snazy/ohc).
 
+* [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
 
 ### 流处理
 
