@@ -689,7 +689,7 @@
 
 * [java8-misuses](https://github.com/xpinjection/java8-misuses) JAVA8容易犯的错误 [![GitHub stars](https://img.shields.io/github/stars/xpinjection/java8-misuses.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xpinjection/java8-misuses).
 
-
+* [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) 数字逻辑电路模拟 [![GitHub stars](https://img.shields.io/github/stars/logisim-evolution/logisim-evolution.svg?style=social&label=Star&maxAge=2592000)](https://github.com/logisim-evolution/logisim-evolution).
 
 ### 存储
 
@@ -826,6 +826,8 @@
 * [java-tron](https://github.com/tronprotocol/java-tron) 孙割的波场 [![GitHub stars](https://img.shields.io/github/stars/tronprotocol/java-tron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tronprotocol/java-tron).
 
 * [bitcoinj](https://github.com/bitcoinj/bitcoinj) JAVA比特币API [![GitHub stars](https://img.shields.io/github/stars/bitcoinj/bitcoinj.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bitcoinj/bitcoinj).
+
+* [bisq](https://github.com/bisq-network/bisq) 去中心化比特币交易网络 [![GitHub stars](https://img.shields.io/github/stars/bisq-network/bisq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bisq-network/bisq).
 
 ### IDE
 
