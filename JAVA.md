@@ -268,7 +268,7 @@
 
 * [jkes](https://github.com/chaokunyang/jkes) 基于Java、Kafka、ElasticSearch的搜索框架 [![GitHub stars](https://img.shields.io/github/stars/chaokunyang/jkes.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chaokunyang/jkes).
 
-* [jkes](https://github.com/grahamar/cron-parser) 基于Java、Kafka、ElasticSearch的搜索框架 [![GitHub stars](https://img.shields.io/github/stars/grahamar/cron-parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grahamar/cron-parser).
+* [cron-parser](https://github.com/grahamar/cron-parser) CRON表达式解析 [![GitHub stars](https://img.shields.io/github/stars/grahamar/cron-parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grahamar/cron-parser).
 
 
 ### 对比
