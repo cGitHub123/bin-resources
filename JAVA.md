@@ -249,6 +249,28 @@
 * [slice](https://github.com/airlift/slice) JAVA处理堆内存和非堆内存
   [![GitHub stars](https://img.shields.io/github/stars/airlift/slice.svg?style=social&label=Star&maxAge=2592000)](https://github.com/airlift/slice).
 
+* [sqlautoreview](https://github.com/taobao/sqlautoreview) SQL 审计
+    [![GitHub stars](https://img.shields.io/github/stars/taobao/sqlautoreview.svg?style=social&label=Star&maxAge=2592000)](https://github.com/taobao/sqlautoreview).
+
+* [bitchat](https://github.com/all4you/bitchat) 一个基于Netty的网络框架，同一端口支持HTTP/自定义TCP协议/WebSocket协议，支持多种序列化方式  [![GitHub stars](https://img.shields.io/github/stars/all4you/bitchat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/all4you/bitchat).
+
+* [websocket-tail-demo](https://github.com/wucao/websocket-tail-demo) 把主机日志推送到web  [![GitHub stars](https://img.shields.io/github/stars/wucao/websocket-tail-demo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wucao/websocket-tail-demo).
+
+* [jcgroup](https://github.com/haosdent/jcgroup) 基于JVM的CGROUP，隔离资源  [![GitHub stars](https://img.shields.io/github/stars/haosdent/jcgroup.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haosdent/jcgroup).
+
+* [tcp-long-connection-based-on-apache-mina](https://github.com/sddyljsx/tcp-long-connection-based-on-apache-mina) 基于apache-mina实现TCP长连接 [![GitHub stars](https://img.shields.io/github/stars/sddyljsx/tcp-long-connection-based-on-apache-mina.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sddyljsx/tcp-long-connection-based-on-apache-mina).
+
+* [slab](https://github.com/RichardWarburton/slab) 限制对象非堆内存大小 [![GitHub stars](https://img.shields.io/github/stars/RichardWarburton/slab.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RichardWarburton/slab).
+
+* [streaminer](https://github.com/mayconbordin/streaminer) 对象流的数据操作算法库 [![GitHub stars](https://img.shields.io/github/stars/mayconbordin/streaminer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mayconbordin/streaminer).
+
+* [big-math](https://github.com/eobermuhlner/big-math) JAVA科学计算 [![GitHub stars](https://img.shields.io/github/stars/eobermuhlner/big-math.svg?style=social&label=Star&maxAge=2592000)](https://github.com/eobermuhlner/big-math).
+
+* [jkes](https://github.com/chaokunyang/jkes) 基于Java、Kafka、ElasticSearch的搜索框架 [![GitHub stars](https://img.shields.io/github/stars/chaokunyang/jkes.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chaokunyang/jkes).
+
+* [jkes](https://github.com/grahamar/cron-parser) 基于Java、Kafka、ElasticSearch的搜索框架 [![GitHub stars](https://img.shields.io/github/stars/grahamar/cron-parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grahamar/cron-parser).
+
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
@@ -605,6 +627,8 @@
 
 * [apm-agent-java](https://github.com/elastic/apm-agent-java) APM监控, 基于javaagent [![GitHub stars](https://img.shields.io/github/stars/elastic/apm-agent-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/elastic/apm-agent-java).
 
+* [frostmourne](https://github.com/AutohomeCorp/frostmourne) frostmourne是基于Elasticsearch, InfluxDB，Mysql，ClickHouse的监控，报警，分析系统. Monitor & alert & alarm & analyze for Elasticsearch && InfluxDB Log Data。主要使用springboot2 + vue-element-admin。 [![GitHub stars](https://img.shields.io/github/stars/AutohomeCorp/frostmourne.svg?style=social&label=Star&maxAge=2592000)](https://github.com/AutohomeCorp/frostmourne).
+
 ### 消息队列
 
 * [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) 运行在K8S上的KAFKA  [![GitHub stars](https://img.shields.io/github/stars/strimzi/strimzi-kafka-operator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strimzi/strimzi-kafka-operator).
@@ -691,6 +715,8 @@
 
 * [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) 数字逻辑电路模拟 [![GitHub stars](https://img.shields.io/github/stars/logisim-evolution/logisim-evolution.svg?style=social&label=Star&maxAge=2592000)](https://github.com/logisim-evolution/logisim-evolution).
 
+* [hadoop-book](https://github.com/alexholmes/hadoop-book) hadoop book配套 [![GitHub stars](https://img.shields.io/github/stars/alexholmes/hadoop-book.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alexholmes/hadoop-book).
+
 ### 存储
 
 * [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
@@ -740,6 +766,8 @@
 * [ohc](https://github.com/snazy/ohc) 使用非堆内存做缓存 [![GitHub stars](https://img.shields.io/github/stars/snazy/ohc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/snazy/ohc).
 
 * [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
+
+* [memoryfilesystem](https://github.com/marschall/memoryfilesystem) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/marschall/memoryfilesystem.svg?style=social&label=Star&maxAge=2592000)](https://github.com/marschall/memoryfilesystem).
 
 ### 流处理
 
@@ -828,6 +856,8 @@
 * [bitcoinj](https://github.com/bitcoinj/bitcoinj) JAVA比特币API [![GitHub stars](https://img.shields.io/github/stars/bitcoinj/bitcoinj.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bitcoinj/bitcoinj).
 
 * [bisq](https://github.com/bisq-network/bisq) 去中心化比特币交易网络 [![GitHub stars](https://img.shields.io/github/stars/bisq-network/bisq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bisq-network/bisq).
+
+* [Ethereum](https://github.com/zhangbincheng1997/Ethereum) 以太坊的HELLOWORLD [![GitHub stars](https://img.shields.io/github/stars/zhangbincheng1997/Ethereum.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zhangbincheng1997/Ethereum).
 
 ### IDE
 
