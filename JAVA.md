@@ -270,6 +270,7 @@
 
 * [cron-parser](https://github.com/grahamar/cron-parser) CRON表达式解析 [![GitHub stars](https://img.shields.io/github/stars/grahamar/cron-parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grahamar/cron-parser).
 
+* [java-large-file-uploader-demo](https://github.com/freewebsys/java-large-file-uploader-demo) 上传大文件 [![GitHub stars](https://img.shields.io/github/stars/freewebsys/java-large-file-uploader-demo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/freewebsys/java-large-file-uploader-demo).
 
 ### 对比
 
