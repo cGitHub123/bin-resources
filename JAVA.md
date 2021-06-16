@@ -523,6 +523,8 @@
 
 * [jcip.github.com](https://github.com/jcip/jcip.github.com) JAVA多线程联系 [![GitHub stars](https://img.shields.io/github/stars/jcip/jcip.github.com.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcip/jcip.github.com)
 
+* [tascalate-concurrent](https://github.com/vsilaev/tascalate-concurrent) CompletableFuture增强版 [![GitHub stars](https://img.shields.io/github/stars/vsilaev/tascalate-concurrent.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vsilaev/tascalate-concurrent)
+
 ### 分布式
 
 * [ByteTCC](https://github.com/liuyangming/ByteTCC) TCC事务的实现[![GitHub stars](https://img.shields.io/github/stars/liuyangming/ByteTCC.svg?style=social&label=Star&maxAge=2592000)](https://github.com/liuyangming/ByteTCC).
@@ -558,6 +560,8 @@
 * [mldht](https://github.com/the8472/mldht) DHT的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/the8472/mldht.svg?style=social&label=Star&maxAge=2592000)](https://github.com/the8472/mldht).
 
 * [raft-java](https://github.com/wenweihu86/raft-java) RAFT的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/wenweihu86/raft-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wenweihu86/raft-java).
+
+* [dizk](https://github.com/scipr-lab/dizk) 零知识证明 [![GitHub stars](https://img.shields.io/github/stars/scipr-lab/dizk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipr-lab/dizk).
 
 ### 分布式链路追踪
 
@@ -717,6 +721,8 @@
 * [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) 数字逻辑电路模拟 [![GitHub stars](https://img.shields.io/github/stars/logisim-evolution/logisim-evolution.svg?style=social&label=Star&maxAge=2592000)](https://github.com/logisim-evolution/logisim-evolution).
 
 * [hadoop-book](https://github.com/alexholmes/hadoop-book) hadoop book配套 [![GitHub stars](https://img.shields.io/github/stars/alexholmes/hadoop-book.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alexholmes/hadoop-book).
+
+* [a-kafka-story](https://github.com/framiere/a-kafka-story) 学习kafka [![GitHub stars](https://img.shields.io/github/stars/framiere/a-kafka-story.svg?style=social&label=Star&maxAge=2592000)](https://github.com/framiere/a-kafka-story).
 
 ### 存储
 
