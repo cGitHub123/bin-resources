@@ -272,6 +272,8 @@
 
 * [java-large-file-uploader-demo](https://github.com/freewebsys/java-large-file-uploader-demo) 上传大文件 [![GitHub stars](https://img.shields.io/github/stars/freewebsys/java-large-file-uploader-demo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/freewebsys/java-large-file-uploader-demo).
 
+* [catch-exception](https://github.com/Codearte/catch-exception) 异常流处理 [![GitHub stars](https://img.shields.io/github/stars/Codearte/catch-exception.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Codearte/catch-exception).
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
@@ -324,6 +326,8 @@
 * [traccar](https://github.com/traccar/traccar) GPS定位软件[![GitHub stars](https://img.shields.io/github/stars/traccar/traccar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/traccar/traccar).
 
 * [GeoIP2-java](https://github.com/maxmind/GeoIP2-java) 通过IP获得城市，经纬度等 [![GitHub stars](https://img.shields.io/github/stars/maxmind/GeoIP2-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maxmind/GeoIP2-java).
+
+* [httpkids](https://github.com/pyloque/httpkids) HTTP服务器 [![GitHub stars](https://img.shields.io/github/stars/pyloque/httpkids.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pyloque/httpkids).
 
 ### 时间
 
