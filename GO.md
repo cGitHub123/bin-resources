@@ -256,6 +256,8 @@
 
 * [broxy](https://github.com/rhaidiz/broxy) HTTP/HTTPS拦截 [![GitHub stars](https://img.shields.io/github/stars/rhaidiz/broxy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rhaidiz/broxy).
 
+* [vault](https://github.com/hashicorp/vault) 秘钥管理 [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hashicorp/vault).
+
 ### 资源
 
 * [learngo](https://github.com/inancgumus/learngo) 好好学习go [![GitHub stars](https://img.shields.io/github/stars/inancgumus/learngo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/inancgumus/learngo).
