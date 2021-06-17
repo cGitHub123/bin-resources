@@ -11,3 +11,5 @@
 * [useful-scripts](https://github.com/oldratlee/useful-scripts) 一些有用的SHELL脚本 [![GitHub stars](https://img.shields.io/github/stars/oldratlee/useful-scripts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oldratlee/useful-scripts).
 
 * [tldr](https://github.com/tldr-pages/tldr) 一些有用的SHELL脚本（MD） [![GitHub stars](https://img.shields.io/github/stars/tldr-pages/tldr.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tldr-pages/tldr).
+
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) 学习命令行 [![GitHub stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jlevy/the-art-of-command-line).

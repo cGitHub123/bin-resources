@@ -46,6 +46,8 @@
 
 ### 工具
 
+* [syncthing](https://github.com/syncthing/syncthing) 多端文件同步 [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syncthing/syncthing).
+
 * [gods](https://github.com/emirpasic/gods) 简单易用的 Go 语言各种数据结构和算法，并封装成了一个库，开箱即食 [![GitHub stars](https://img.shields.io/github/stars/emirpasic/gods.svg?style=social&label=Star&maxAge=2592000)](https://github.com/emirpasic/gods).
 
 * [gotty](https://github.com/yudai/gotty) 终端分享 [![GitHub stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yudai/gotty).

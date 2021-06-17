@@ -63,6 +63,9 @@
 
 ### 资源
 
+* [python-cheatsheet](https://github.com/gto76/python-cheatsheet) python cheatsheet [![GitHub stars](https://img.shields.io/github/stars/gto76/python-cheatsheet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gto76/python-cheatsheet).
+
+
 * [d2l-zh](https://github.com/d2l-ai/d2l-zh) 自己动手学深度学习 [![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/d2l-ai/d2l-zh).
 
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) 如何设计大型分布式应用 [![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/donnemartin/system-design-primer).
