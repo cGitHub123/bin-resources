@@ -8,6 +8,7 @@
 
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) nginx嵌入lua [![GitHub stars](https://img.shields.io/github/stars/openresty/lua-nginx-module.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openresty/lua-nginx-module).
 
+* [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) 输入SQL，输出索引优化建议[![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/SQLAdvisor.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Meituan-Dianping/SQLAdvisor).
 
 ### 安全
 

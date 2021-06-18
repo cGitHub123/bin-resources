@@ -75,6 +75,8 @@
 
 * [seaborn](https://github.com/mwaskom/seaborn) 可视化 [![GitHub stars](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mwaskom/seaborn).
 
+* [onionshare](https://github.com/micahflee/onionshare) 从洋葱网络交换资源 [![GitHub stars](https://img.shields.io/github/stars/micahflee/onionshare.svg?style=social&label=Star&maxAge=2592000)](https://github.com/micahflee/onionshare).
+
 ### 资源
 
 * [python-cheatsheet](https://github.com/gto76/python-cheatsheet) python cheatsheet [![GitHub stars](https://img.shields.io/github/stars/gto76/python-cheatsheet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gto76/python-cheatsheet).

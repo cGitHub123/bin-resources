@@ -42,6 +42,8 @@
 
 * [git-tips](https://github.com/521xueweihan/git-tips) git的cheatsheet [![GitHub stars](https://img.shields.io/github/stars/521xueweihan/git-tips.svg?style=social&label=Star&maxAge=2592000)](https://github.com/521xueweihan/git-tips).
 
+* [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) 定投改变命运 [![GitHub stars](https://img.shields.io/github/stars/xiaolai/regular-investing-in-box.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xiaolai/regular-investing-in-box).
+
 * [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) nginx配置一键生成 [![GitHub stars](https://img.shields.io/github/stars/digitalocean/nginxconfig.io.svg?style=social&label=Star&maxAge=2592000)](https://github.com/digitalocean/nginxconfig.io).
 
 * [kubespray](https://github.com/kubernetes-sigs/kubespray) 快速搭建K8S [![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/kubespray.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kubernetes-sigs/kubespray).
