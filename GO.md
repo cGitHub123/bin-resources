@@ -267,6 +267,8 @@
 
 * [vault](https://github.com/hashicorp/vault) 秘钥管理 [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hashicorp/vault).
 
+* [sops](https://github.com/mozilla/sops) 文件加密 [![GitHub stars](https://img.shields.io/github/stars/mozilla/sops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mozilla/sops).
+
 ### 资源
 
 * [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) 根据测试用例学习GO [![GitHub stars](https://img.shields.io/github/stars/quii/learn-go-with-tests.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quii/learn-go-with-tests).
