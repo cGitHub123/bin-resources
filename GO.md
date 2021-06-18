@@ -114,10 +114,15 @@
 
 * [gop](https://github.com/goplus/gop) go科学计算包 [![GitHub stars](https://img.shields.io/github/stars/goplus/gop.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goplus/gop).
 
+* [ui](https://github.com/andlabs/ui) GO的GUI工具 [![GitHub stars](https://img.shields.io/github/stars/andlabs/ui.svg?style=social&label=Star&maxAge=2592000)](https://github.com/andlabs/ui).
+
 ### 命令行
 
 * [fzf](https://github.com/junegunn/fzf) 命令行模糊搜索工具 [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/junegunn/fzf).
 
+### 测试
+
+* [goreplay](https://github.com/buger/goreplay) GO将HTTP请求重放到测试环境 [![GitHub stars](https://img.shields.io/github/stars/buger/goreplay.svg?style=social&label=Star&maxAge=2592000)](https://github.com/buger/goreplay).
 
 ### 多线程
 
@@ -197,6 +202,7 @@
 
 * [gops](https://github.com/google/gops) 展示当前系统运行了哪些 Go 程序的工具，同时支持深入分析的参数  [![GitHub stars](https://img.shields.io/github/stars/google/gops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/gops).
 
+* [go-perfbook](https://github.com/dgryski/go-perfbook) GO性能  [![GitHub stars](https://img.shields.io/github/stars/dgryski/go-perfbook.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dgryski/go-perfbook).
 
 
 
@@ -220,12 +226,15 @@
 
 * [rqlite](https://github.com/rqlite/rqlite) 用 Go 实现的基于 SQLite 轻量级、分布式关系数据库。如果你对分布式数据库的原理及实现感兴趣的话，这个项目真的是你入门这方面的不二之选，这个项目用 SQLite 作为存储引擎，让你可以把更多的精力放在理解分布式的知识上 [![GitHub stars](https://img.shields.io/github/stars/rqlite/rqlite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rqlite/rqlite).
 
+* [dolt](https://github.com/dolthub/dolt) 像github一样的数据库 [![GitHub stars](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dolthub/dolt).
+
 ### 分布式
 
 * [kratos](https://github.com/go-kratos/kratos) GO微服务框架 [![GitHub stars](https://img.shields.io/github/stars/go-kratos/kratos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/go-kratos/kratos).
 
 * [grpcurl](https://github.com/fullstorydev/grpcurl) GRPC的命令行调用 [![GitHub stars](https://img.shields.io/github/stars/fullstorydev/grpcurl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fullstorydev/grpcurl).
 
+* [go-ipfs](https://github.com/ipfs/go-ipfs) ipfs的GO实现 [![GitHub stars](https://img.shields.io/github/stars/ipfs/go-ipfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ipfs/go-ipfs).
 
 
 ### 安全
@@ -259,6 +268,8 @@
 * [vault](https://github.com/hashicorp/vault) 秘钥管理 [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hashicorp/vault).
 
 ### 资源
+
+* [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) 根据测试用例学习GO [![GitHub stars](https://img.shields.io/github/stars/quii/learn-go-with-tests.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quii/learn-go-with-tests).
 
 * [learngo](https://github.com/inancgumus/learngo) 好好学习go [![GitHub stars](https://img.shields.io/github/stars/inancgumus/learngo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/inancgumus/learngo).
 

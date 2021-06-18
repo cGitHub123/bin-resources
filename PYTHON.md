@@ -8,6 +8,8 @@
 
 * [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 声音克隆，名神探柯南 [![GitHub stars](https://img.shields.io/github/stars/CorentinJ/Real-Time-Voice-Cloning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
 
+* [prophet](https://github.com/facebook/prophet) 预测时序数据 [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/facebook/prophet).
+
 ### 数据处理
 
 * [manim](https://github.com/3b1b/manim) 做出高逼格的数学动画  [![GitHub stars](https://img.shields.io/github/stars/3b1b/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/3b1b/manim).
@@ -22,6 +24,8 @@
 ### 爬虫
 
 * [Photon](https://github.com/s0md3v/Photon) OSINT爬虫  [![GitHub stars](https://img.shields.io/github/stars/s0md3v/Photon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/s0md3v/Photon).
+
+* [tushare](https://github.com/waditu/tushare) 爬取中国股票历史数据  [![GitHub stars](https://img.shields.io/github/stars/waditu/tushare.svg?style=social&label=Star&maxAge=2592000)](https://github.com/waditu/tushare).
 
 ### HTTP
 
@@ -43,6 +47,8 @@
 
 * [logrus](https://github.com/sirupsen/logrus) GO最好用的第三方日志库 [![GitHub stars](https://img.shields.io/github/stars/sirupsen/logrus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sirupsen/logrus).
 
+* [faker](https://github.com/joke2k/faker) 自动创建假数据 [![GitHub stars](https://img.shields.io/github/stars/joke2k/faker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/joke2k/faker).
+
 ### TOR
 
 * [searx](https://github.com/searx/searx) Searx是一个免费的互联网元搜索引擎，汇集了70多种搜索服务的结果。 用户既不被跟踪也不被分析。 此外，searx可以在Tor上实现在线匿名搜索[![GitHub stars](https://img.shields.io/github/stars/searx/searx.svg?style=social&label=Star&maxAge=2592000)](https://github.com/searx/searx).
@@ -60,6 +66,8 @@
 ### 可视化
 
 * [bokeh](https://github.com/bokeh/bokeh) 交互式的python可视化工具 [![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bokeh/bokeh).
+
+* [seaborn](https://github.com/mwaskom/seaborn) 可视化 [![GitHub stars](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mwaskom/seaborn).
 
 ### 资源
 
@@ -79,3 +87,5 @@
 * [linux-insides](https://github.com/0xAX/linux-insides)  一些LINUX内核小知识 [![GitHub stars](https://img.shields.io/github/stars/0xAX/linux-insides.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xAX/linux-insides).
 
 * [ddia](https://github.com/Vonng/ddia)  设计数据密集型应用 [![GitHub stars](https://img.shields.io/github/stars/Vonng/ddia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vonng/ddia).
+
+* [mkdocs](https://github.com/mkdocs/mkdocs)  静态网站生成器 [![GitHub stars](https://img.shields.io/github/stars/mkdocs/mkdocs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mkdocs/mkdocs).

@@ -563,6 +563,8 @@
 
 * [raft-java](https://github.com/wenweihu86/raft-java) RAFT的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/wenweihu86/raft-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wenweihu86/raft-java).
 
+* [gossip](https://github.com/edwardcapriolo/gossip) JAVA实现gossip [![GitHub stars](https://img.shields.io/github/stars/edwardcapriolo/gossip.svg?style=social&label=Star&maxAge=2592000)](https://github.com/edwardcapriolo/gossip).
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).
