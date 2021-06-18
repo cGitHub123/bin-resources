@@ -8,7 +8,13 @@
 
 ### 资源
 
-* [ddia](https://github.com/Vonng/ddia) 个人开发者 [![GitHub stars](https://img.shields.io/github/stars/Vonng/ddia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vonng/ddia).
+* [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) 一些MAC命令行技巧 [![GitHub stars](https://img.shields.io/github/stars/0nn0/terminal-mac-cheatsheet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0nn0/terminal-mac-cheatsheet).
+
+* [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) 一些不错的思路 [![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NirantK/awesome-project-ideas).
+
+* [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) 漏洞收集 [![GitHub stars](https://img.shields.io/github/stars/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters).
+
+* [ddia](https://github.com/Vonng/ddia) ddia [![GitHub stars](https://img.shields.io/github/stars/Vonng/ddia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vonng/ddia).
 
 * [awesome-indie](https://github.com/mezod/awesome-indie) 个人开发者 [![GitHub stars](https://img.shields.io/github/stars/mezod/awesome-indie.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mezod/awesome-indie).
 

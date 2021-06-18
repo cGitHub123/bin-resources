@@ -565,6 +565,8 @@
 
 * [gossip](https://github.com/edwardcapriolo/gossip) JAVA实现gossip [![GitHub stars](https://img.shields.io/github/stars/edwardcapriolo/gossip.svg?style=social&label=Star&maxAge=2592000)](https://github.com/edwardcapriolo/gossip).
 
+* [motan](https://github.com/weibocom/motan) 跨语言的RPC框架 [![GitHub stars](https://img.shields.io/github/stars/weibocom/motan.svg?style=social&label=Star&maxAge=2592000)](https://github.com/weibocom/motan).
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).
@@ -686,6 +688,8 @@
 
 ### 资源收集
 
+* [better-java](https://github.com/cxxr/better-java) java技巧  [![GitHub stars](https://img.shields.io/github/stars/cxxr/better-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cxxr/better-java).
+
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式  [![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iluwatar/java-design-patterns).
 
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路  [![GitHub stars](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MisterBooo/LeetCodeAnimation).
@@ -725,6 +729,8 @@
 * [hadoop-book](https://github.com/alexholmes/hadoop-book) hadoop book配套 [![GitHub stars](https://img.shields.io/github/stars/alexholmes/hadoop-book.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alexholmes/hadoop-book).
 
 * [100-Java-Concurrency-questions](https://github.com/arteam/100-Java-Concurrency-questions) 100个JAVA并发问题 [![GitHub stars](https://img.shields.io/github/stars/arteam/100-Java-Concurrency-questions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/arteam/100-Java-Concurrency-questions).
+
+* [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) st上java问题整理  [![GitHub stars](https://img.shields.io/github/stars/giantray/stackoverflow-java-top-qa.svg?style=social&label=Star&maxAge=2592000)](https://github.com/giantray/stackoverflow-java-top-qa).
 
 ### 存储
 

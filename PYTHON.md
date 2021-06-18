@@ -10,6 +10,8 @@
 
 * [prophet](https://github.com/facebook/prophet) 预测时序数据 [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/facebook/prophet).
 
+* [auto-sklearn](https://github.com/automl/auto-sklearn) 自动进行机器学习 [![GitHub stars](https://img.shields.io/github/stars/automl/auto-sklearn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/automl/auto-sklearn).
+
 ### 数据处理
 
 * [manim](https://github.com/3b1b/manim) 做出高逼格的数学动画  [![GitHub stars](https://img.shields.io/github/stars/3b1b/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/3b1b/manim).
@@ -48,6 +50,10 @@
 * [logrus](https://github.com/sirupsen/logrus) GO最好用的第三方日志库 [![GitHub stars](https://img.shields.io/github/stars/sirupsen/logrus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sirupsen/logrus).
 
 * [faker](https://github.com/joke2k/faker) 自动创建假数据 [![GitHub stars](https://img.shields.io/github/stars/joke2k/faker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/joke2k/faker).
+
+* [gixy](https://github.com/yandex/gixy) 分析nginx配置，防止误配置 [![GitHub stars](https://img.shields.io/github/stars/yandex/gixy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yandex/gixy).
+
+* [wait-for-it](https://github.com/vishnubob/wait-for-it) 监听指定的端口 [![GitHub stars](https://img.shields.io/github/stars/vishnubob/wait-for-it.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vishnubob/wait-for-it).
 
 ### TOR
 

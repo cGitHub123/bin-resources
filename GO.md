@@ -204,6 +204,7 @@
 
 * [go-perfbook](https://github.com/dgryski/go-perfbook) GO性能  [![GitHub stars](https://img.shields.io/github/stars/dgryski/go-perfbook.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dgryski/go-perfbook).
 
+* [falcon-plus](https://github.com/open-falcon/falcon-plus) OpenFalcon是一款企业级、高可用、可扩展的开源监控解决方案。 [![GitHub stars](https://img.shields.io/github/stars/open-falcon/falcon-plus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/open-falcon/falcon-plus).
 
 
 ### 存储
@@ -269,7 +270,11 @@
 
 * [sops](https://github.com/mozilla/sops) 文件加密 [![GitHub stars](https://img.shields.io/github/stars/mozilla/sops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mozilla/sops).
 
+* [blackbox](https://github.com/StackExchange/blackbox) 在github上保存机密信息 [![GitHub stars](https://img.shields.io/github/stars/StackExchange/blackbox.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StackExchange/blackbox).
+
 ### 资源
+
+* [gitql](https://github.com/filhodanuvem/gitql) 在git仓库中做sql查询 [![GitHub stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=social&label=Star&maxAge=2592000)](https://github.com/filhodanuvem/gitql).
 
 * [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) 根据测试用例学习GO [![GitHub stars](https://img.shields.io/github/stars/quii/learn-go-with-tests.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quii/learn-go-with-tests).
 
