@@ -567,6 +567,9 @@
 
 * [motan](https://github.com/weibocom/motan) 跨语言的RPC框架 [![GitHub stars](https://img.shields.io/github/stars/weibocom/motan.svg?style=social&label=Star&maxAge=2592000)](https://github.com/weibocom/motan).
 
+* [merkle-tree](https://github.com/quux00/merkle-tree) merkle-tree [![GitHub stars](https://img.shields.io/github/stars/quux00/merkle-tree.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quux00/merkle-tree).
+
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).
