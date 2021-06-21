@@ -1,10 +1,14 @@
+### 工具
+
+* [lsyncd](https://github.com/axkibe/lsyncd) Lsyncd使用文件系统事件接口（inotify或fsevents）来监视对本地文件和目录的更改。Lsyncd将这些事件整理几秒钟，然后生成一个或多个进程以将更改同步到远程文件系统。
+默认同步方法是rsync Lsyncd是一种轻量级的实时镜像解决方案 [![GitHub stars](https://img.shields.io/github/stars/axkibe/lsyncd.svg?style=social&label=Star&maxAge=2592000)](https://github.com/axkibe/lsyncd).
 
 
 ### 分布式
 
 * [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) 多种微服务示例展示，包括K8S等 [![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/microservices-demo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/GoogleCloudPlatform/microservices-demo).
 
-
+* [raft-zh_cn](https://github.com/maemual/raft-zh_cn) RAFT中文翻译 [![GitHub stars](https://img.shields.io/github/stars/maemual/raft-zh_cn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maemual/raft-zh_cn).
 
 ### 资源
 
@@ -49,6 +53,10 @@
 * [kubespray](https://github.com/kubernetes-sigs/kubespray) 快速搭建K8S [![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/kubespray.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kubernetes-sigs/kubespray).
 
 * [cheatsheets](https://github.com/rstacruz/cheatsheets) 一些cheatsheet [![GitHub stars](https://img.shields.io/github/stars/rstacruz/cheatsheets.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rstacruz/cheatsheets).
+
+* [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) 漏洞收集 [![GitHub stars](https://img.shields.io/github/stars/hslatman/awesome-threat-intelligence.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hslatman/awesome-threat-intelligence).
+
+* [any-rule](https://github.com/any86/any-rule) 常用正则下载 [![GitHub stars](https://img.shields.io/github/stars/any86/any-rule.svg?style=social&label=Star&maxAge=2592000)](https://github.com/any86/any-rule).
 
 * [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) LINUX相关 [![GitHub stars](https://img.shields.io/github/stars/trimstray/the-practical-linux-hardening-guide.svg?style=social&label=Star&maxAge=2592000)](https://github.com/trimstray/the-practical-linux-hardening-guide).
 
