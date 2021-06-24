@@ -799,6 +799,8 @@
 
 * [streaminer](https://github.com/mayconbordin/streaminer) 基于流的数据挖掘算法库 [![GitHub stars](https://img.shields.io/github/stars/mayconbordin/streaminer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mayconbordin/streaminer).
 
+* [flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) FLINK CDC机制 [![GitHub stars](https://img.shields.io/github/stars/ververica/flink-cdc-connectors.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ververica/flink-cdc-connectors).
+
 ### AI
 
 * [deeplearning4j](https://github.com/eclipse/deeplearning4j)  一个基于JVM的深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/eclipse/deeplearning4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/eclipse/deeplearning4j).
