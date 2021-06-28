@@ -569,6 +569,7 @@
 
 * [merkle-tree](https://github.com/quux00/merkle-tree) merkle-tree [![GitHub stars](https://img.shields.io/github/stars/quux00/merkle-tree.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quux00/merkle-tree).
 
+* [shardingsphere](https://github.com/apache/shardingsphere) 分布式数据库生态圈 [![GitHub stars](https://img.shields.io/github/stars/apache/shardingsphere.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/shardingsphere).
 
 ### 分布式链路追踪
 
