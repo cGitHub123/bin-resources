@@ -571,6 +571,8 @@
 
 * [shardingsphere](https://github.com/apache/shardingsphere) 分布式数据库生态圈 [![GitHub stars](https://img.shields.io/github/stars/apache/shardingsphere.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/shardingsphere).
 
+* [dizk](https://github.com/scipr-lab/dizk) 零知识证明 [![GitHub stars](https://img.shields.io/github/starsscipr-lab/dizk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipr-lab/dizk).
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).
@@ -690,6 +692,8 @@
 
 * [tink](https://github.com/google/tink) 谷歌加密算法库.  [![GitHub stars](https://img.shields.io/github/stars/google/tink.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tink).
 
+* [keywhiz](https://github.com/square/keywhiz) 一些秘密设施的管理.  [![GitHub stars](https://img.shields.io/github/stars/square/keywhiz.svg?style=social&label=Star&maxAge=2592000)](https://github.com/square/keywhiz).
+
 ### 资源收集
 
 * [better-java](https://github.com/cxxr/better-java) java技巧  [![GitHub stars](https://img.shields.io/github/stars/cxxr/better-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cxxr/better-java).
@@ -787,6 +791,10 @@
 * [Google Jimfs](https://github.com/google/jimfs) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
 
 * [memoryfilesystem](https://github.com/marschall/memoryfilesystem) 一个内存文件系统. [![GitHub stars](https://img.shields.io/github/stars/marschall/memoryfilesystem.svg?style=social&label=Star&maxAge=2592000)](https://github.com/marschall/memoryfilesystem).
+
+* [crate](https://github.com/crate/crate) 一个开源的大规模的可伸缩的数据存储系统,可以通过SQL检索. [![GitHub stars](https://img.shields.io/github/stars/crate/crate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/crate/crate).
+
+* [drill](https://github.com/apache/drill) Apache Drill是一个低延迟的分布式海量数据（涵盖结构化、半结构化以及嵌套数据）交互式查询引擎，使用ANSI SQL兼容语法，支持本地文件、HDFS、HBase、MongoDB等后端存储，支持Parquet、JSON、CSV、TSV、PSV等数据格式 [![GitHub stars](https://img.shields.io/github/stars/apache/drill.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/drill).
 
 ### 流处理
 
