@@ -274,6 +274,8 @@
 
 * [catch-exception](https://github.com/Codearte/catch-exception) 异常流处理 [![GitHub stars](https://img.shields.io/github/stars/Codearte/catch-exception.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Codearte/catch-exception).
 
+* [SpinalTap](https://github.com/airbnb/SpinalTap) airbnb的CDC机制 [![GitHub stars](https://img.shields.io/github/stars/airbnb/SpinalTap.svg?style=social&label=Star&maxAge=2592000)](https://github.com/airbnb/SpinalTap).
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
