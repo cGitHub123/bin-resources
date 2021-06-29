@@ -557,6 +557,8 @@
 
 * [ratis](https://github.com/apache/ratis) java实现raft协议 [![GitHub stars](https://img.shields.io/github/stars/apache/ratis.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ratis).
 
+* [grpc-java](https://github.com/grpc/grpc-java) GRPC的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/grpc/grpc-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grpc/grpc-java).
+
 * [redis-id-generator](https://github.com/hengyunabc/redis-id-generator) 分布式ID生成器 [![GitHub stars](https://img.shields.io/github/stars/hengyunabc/redis-id-generator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hengyunabc/redis-id-generator).
 
 * [mldht](https://github.com/the8472/mldht) DHT的JAVA实现 [![GitHub stars](https://img.shields.io/github/stars/the8472/mldht.svg?style=social&label=Star&maxAge=2592000)](https://github.com/the8472/mldht).
