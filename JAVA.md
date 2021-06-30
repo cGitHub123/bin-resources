@@ -573,6 +573,14 @@
 
 * [dizk](https://github.com/scipr-lab/dizk) 零知识证明 [![GitHub stars](https://img.shields.io/github/starsscipr-lab/dizk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipr-lab/dizk).
 
+* [atomix](https://github.com/atomix/atomix) 一个构建分布式系统的框架，可以重点研究 [![GitHub stars](https://img.shields.io/github/atomix/atomi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atomix/atomix).
+
+* [Chord](https://github.com/ChuanXia/Chord) 一个chord，分布式哈系表的实现 [![GitHub stars](https://img.shields.io/github/ChuanXia/Chord.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ChuanXia/Chord).
+
+* [ardverk-dht](https://github.com/rkapsi/ardverk-dht) DHT的实现 [![GitHub stars](https://img.shields.io/github/rkapsi/ardverk-dht.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rkapsi/ardverk-dht).
+
+* [Distributed-file-system-server-with-RAFT](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT) 使用RAFT构建分布式文件系统 [![GitHub stars](https://img.shields.io/github/Distributed-file-system-server-with-RAFT.svg?style=social&label=Star&maxAge=2592000)](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT).
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).
@@ -647,6 +655,9 @@
 ### 消息队列
 
 * [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) 运行在K8S上的KAFKA  [![GitHub stars](https://img.shields.io/github/stars/strimzi/strimzi-kafka-operator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strimzi/strimzi-kafka-operator).
+
+* [hazelcast-jet](https://github.com/hazelcast/hazelcast-jet) hazelcast流批一体工具 [![GitHub stars](https://img.shields.io/github/stars/hazelcast/hazelcast-jet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hazelcast/hazelcast-jet).
+
 
 ### 安全
 
@@ -795,6 +806,9 @@
 * [crate](https://github.com/crate/crate) 一个开源的大规模的可伸缩的数据存储系统,可以通过SQL检索. [![GitHub stars](https://img.shields.io/github/stars/crate/crate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/crate/crate).
 
 * [drill](https://github.com/apache/drill) Apache Drill是一个低延迟的分布式海量数据（涵盖结构化、半结构化以及嵌套数据）交互式查询引擎，使用ANSI SQL兼容语法，支持本地文件、HDFS、HBase、MongoDB等后端存储，支持Parquet、JSON、CSV、TSV、PSV等数据格式 [![GitHub stars](https://img.shields.io/github/stars/apache/drill.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/drill).
+
+* [ambry](https://github.com/linkedin/ambry) 主要用于大量媒体文件存储，比如图片啥的 [![GitHub stars](https://img.shields.io/github/stars/linkedin/ambry.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/ambry).
+
 
 ### 流处理
 
