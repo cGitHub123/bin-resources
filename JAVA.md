@@ -575,15 +575,15 @@
 
 * [shardingsphere](https://github.com/apache/shardingsphere) 分布式数据库生态圈 [![GitHub stars](https://img.shields.io/github/stars/apache/shardingsphere.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/shardingsphere).
 
-* [dizk](https://github.com/scipr-lab/dizk) 零知识证明 [![GitHub stars](https://img.shields.io/github/starsscipr-lab/dizk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipr-lab/dizk).
+* [dizk](https://github.com/scipr-lab/dizk) 零知识证明 [![GitHub stars](https://img.shields.io/github/stars/starsscipr-lab/dizk.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipr-lab/dizk).
 
-* [atomix](https://github.com/atomix/atomix) 一个构建分布式系统的框架，可以重点研究 [![GitHub stars](https://img.shields.io/github/atomix/atomi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atomix/atomix).
+* [atomix](https://github.com/atomix/atomix) 一个构建分布式系统的框架，可以重点研究 [![GitHub stars](https://img.shields.io/github/stars/atomix/atomi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atomix/atomix).
 
-* [Chord](https://github.com/ChuanXia/Chord) 一个chord，分布式哈系表的实现 [![GitHub stars](https://img.shields.io/github/ChuanXia/Chord.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ChuanXia/Chord).
+* [Chord](https://github.com/ChuanXia/Chord) 一个chord，分布式哈系表的实现 [![GitHub stars](https://img.shields.io/github/stars/huanXia/Chord.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ChuanXia/Chord).
 
-* [ardverk-dht](https://github.com/rkapsi/ardverk-dht) DHT的实现 [![GitHub stars](https://img.shields.io/github/rkapsi/ardverk-dht.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rkapsi/ardverk-dht).
+* [ardverk-dht](https://github.com/rkapsi/ardverk-dht) DHT的实现 [![GitHub stars](https://img.shields.io/github/stars/rkapsi/ardverk-dht.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rkapsi/ardverk-dht).
 
-* [Distributed-file-system-server-with-RAFT](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT) 使用RAFT构建分布式文件系统 [![GitHub stars](https://img.shields.io/github/Distributed-file-system-server-with-RAFT.svg?style=social&label=Star&maxAge=2592000)](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT).
+* [Distributed-file-system-server-with-RAFT](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT) 使用RAFT构建分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/Distributed-file-system-server-with-RAFT.svg?style=social&label=Star&maxAge=2592000)](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT).
 
 ### 分布式链路追踪
 
