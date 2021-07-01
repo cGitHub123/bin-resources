@@ -585,6 +585,10 @@
 
 * [Distributed-file-system-server-with-RAFT](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT) 使用RAFT构建分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/Distributed-file-system-server-with-RAFT.svg?style=social&label=Star&maxAge=2592000)](https://github.com/deepmehtait/Distributed-file-system-server-with-RAFT).
 
+* [ourea](https://github.com/ketao1989/ourea) ZK做thrift的服务发现 [![GitHub stars](https://img.shields.io/github/stars/ketao1989/ourea.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ketao1989/ourea).
+
+* [disco-java](https://github.com/librato/disco-java) ZK做服务发现 [![GitHub stars](https://img.shields.io/github/stars/librato/disco-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/librato/disco-java).
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).
