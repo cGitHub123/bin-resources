@@ -162,6 +162,9 @@
 
 * [logspout](https://github.com/gliderlabs/logspout) DOCKER容器路由 [![GitHub stars](https://img.shields.io/github/stars/gliderlabs/logspout.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gliderlabs/logspout).
 
+* [dashboard](https://github.com/kubernetes/dashboard) K8S的WEB界面 [![GitHub stars](https://img.shields.io/github/stars/kubernetes/dashboard.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kubernetes/dashboard).
+
+* [kops](https://github.com/kubernetes/kops) 生产级别K8S安装，升级，管理 [![GitHub stars](https://img.shields.io/github/stars/kubernetes/kops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kubernetes/kops).
 
 ### 分布式链路追踪
 
@@ -235,6 +238,10 @@
 * [dolt](https://github.com/dolthub/dolt) 像github一样的数据库 [![GitHub stars](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dolthub/dolt).
 
 * [goleveldb](https://github.com/syndtr/goleveldb) go实现leveldb的KV存储系统 [![GitHub stars](https://img.shields.io/github/stars/syndtr/goleveldb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syndtr/goleveldb).
+
+* [milvus](https://github.com/milvus-io/milvus) 向量数据库 [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/milvus-io/milvus).
+
+* [Yearning](https://github.com/cookieY/Yearning) SQL审计平台 [![GitHub stars](https://img.shields.io/github/stars/cookieY/Yearning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cookieY/Yearning).
 
 ### 分布式
 
