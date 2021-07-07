@@ -274,7 +274,9 @@
 
 * [SpinalTap](https://github.com/airbnb/SpinalTap) airbnb的CDC机制 [![GitHub stars](https://img.shields.io/github/stars/airbnb/SpinalTap.svg?style=social&label=Star&maxAge=2592000)](https://github.com/airbnb/SpinalTap).
 
-* [bk-job](https://github.com/Tencent/bk-job) 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力 [![GitHub stars](https://img.shields.io/github/stars/Tencent/bk-job.svg?style=social&label=Star&maxAge=2592000)]https://github.com/Tencent/bk-job).
+* [bk-job](https://github.com/Tencent/bk-job) 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力 [![GitHub stars](https://img.shields.io/github/stars/Tencent/bk-job.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Tencent/bk-job).
+
+* [canal](https://github.com/alibaba/canal) 阿里巴巴 MySQL binlog 增量订阅&消费组件 [![GitHub stars](https://img.shields.io/github/stars/alibaba/canal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/canal).
 
 ### 对比
 
@@ -476,6 +478,8 @@
 * [testable-mock](hhttps://github.com/alibaba/testable-mock) 换种思路写Mock，让单元测试更简单 [![GitHub stars](https://img.shields.io/github/stars/alibaba/testable-mock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/testable-mock).
 
 * [spock](https://github.com/spockframework/spock) JAVA测试框架[![GitHub stars](https://img.shields.io/github/stars/spockframework/spock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spockframework/spock).
+
+* [Takin](https://github.com/shulieTech/Takin) Takin是一款基于Java的开源系统，可嵌入到各个服务节点，实现生产环境的全链路性能测试，尤其适合面向微服务架构系统。通过Takin，系统中的中间件和应用可以在生产环境识别真实流量和测试流量，保证它们进入不同的数据库，实现真实和测试流量的现网隔离 [![GitHub stars](https://img.shields.io/github/stars/shulieTech/Takin.svg?style=social&label=Star&maxAge=2592000)](https://github.com/shulieTech/Takin).
 
 ### 字节码/热替换/类加载
 
