@@ -278,6 +278,8 @@
 
 * [canal](https://github.com/alibaba/canal) 阿里巴巴 MySQL binlog 增量订阅&消费组件 [![GitHub stars](https://img.shields.io/github/stars/alibaba/canal.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/canal).
 
+* [geowave](https://github.com/locationtech/geowave) 建立在 Accumulo, HBase, BigTable, Cassandra, Kudu, Redis, RocksDB, and DynamoDB的GEO索引层 [![GitHub stars](https://img.shields.io/github/stars/locationtech/geowave.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locationtech/geowave).
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
