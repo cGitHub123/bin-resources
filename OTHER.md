@@ -64,3 +64,7 @@
 * [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) LINUX相关 [![GitHub stars](https://img.shields.io/github/stars/trimstray/the-practical-linux-hardening-guide.svg?style=social&label=Star&maxAge=2592000)](https://github.com/trimstray/the-practical-linux-hardening-guide).
 
 * [awesome-bigdata](https://github.com/0xnr/awesome-bigdata) 大数据 [![GitHub stars](https://img.shields.io/github/stars/0xnr/awesome-bigdata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xnr/awesome-bigdata).
+
+* [linux-insides](https://github.com/0xAX/linux-insides) LINUX内核相关 [![GitHub stars](https://img.shields.io/github/stars/0xAX/linux-insides.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xAX/linux-insides).
+
+* [os-tutorial](https://github.com/cfenollosa/os-tutorial) 实现一个OS [![GitHub stars](https://img.shields.io/github/stars/cfenollosa/os-tutorial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cfenollosa/os-tutorial).
