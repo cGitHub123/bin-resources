@@ -280,6 +280,8 @@
 
 * [geowave](https://github.com/locationtech/geowave) 建立在 Accumulo, HBase, BigTable, Cassandra, Kudu, Redis, RocksDB, and DynamoDB的GEO索引层 [![GitHub stars](https://img.shields.io/github/stars/locationtech/geowave.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locationtech/geowave).
 
+* [nutch](https://github.com/apache/nutch) 分布式爬虫 [![GitHub stars](https://img.shields.io/github/stars/apache/nutch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/nutch).
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
