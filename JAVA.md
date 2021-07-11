@@ -603,6 +603,8 @@
 
 * [disco-java](https://github.com/librato/disco-java) ZK做服务发现 [![GitHub stars](https://img.shields.io/github/stars/librato/disco-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/librato/disco-java).
 
+* [generic-thrift-client](https://github.com/waj89757/generic-thrift-client) thrift泛化调用 [![GitHub stars](https://img.shields.io/github/stars/waj89757/generic-thrift-client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/waj89757/generic-thrift-client).
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).

@@ -65,6 +65,10 @@
 
 * [awesome-bigdata](https://github.com/0xnr/awesome-bigdata) 大数据 [![GitHub stars](https://img.shields.io/github/stars/0xnr/awesome-bigdata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xnr/awesome-bigdata).
 
+* [linux-insides](https://github.com/0xAX/linux-insides) LINUX内核相关 [![GitHub stars](https://img.shields.io/github/stars/0xAX/linux-insides.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xAX/linux-insides).
+
+* [os-tutorial](https://github.com/cfenollosa/os-tutorial) 实现一个OS [![GitHub stars](https://img.shields.io/github/stars/cfenollosa/os-tutorial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cfenollosa/os-tutorial).
+
 ### 课程
 
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 编程学习 [![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/freeCodeCamp/freeCodeCamp).

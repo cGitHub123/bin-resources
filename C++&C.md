@@ -18,3 +18,7 @@
 ### 安全
 
 * [hashcat](https://github.com/hashcat/hashcat) 最快的密码破解工具 [![GitHub stars](https://img.shields.io/github/stars/hashcat/hashcat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hashcat/hashcat).
+
+### OS
+
+* [os-tutorial](https://github.com/cfenollosa/os-tutorial) 实现一个OS [![GitHub stars](https://img.shields.io/github/stars/cfenollosa/os-tutorial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cfenollosa/os-tutorial).
