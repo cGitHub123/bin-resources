@@ -64,3 +64,9 @@
 * [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) LINUX相关 [![GitHub stars](https://img.shields.io/github/stars/trimstray/the-practical-linux-hardening-guide.svg?style=social&label=Star&maxAge=2592000)](https://github.com/trimstray/the-practical-linux-hardening-guide).
 
 * [awesome-bigdata](https://github.com/0xnr/awesome-bigdata) 大数据 [![GitHub stars](https://img.shields.io/github/stars/0xnr/awesome-bigdata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0xnr/awesome-bigdata).
+
+### 课程
+
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 编程学习 [![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/freeCodeCamp/freeCodeCamp).
+
+* [free-programming-books](https://gitstar-ranking.com/EbookFoundation/free-programming-books) 免费的电子书 [![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books.svg?style=social&label=Star&maxAge=2592000)](https://gitstar-ranking.com/EbookFoundation/free-programming-books).
