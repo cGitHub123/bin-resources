@@ -282,6 +282,8 @@
 
 * [nutch](https://github.com/apache/nutch) 分布式爬虫 [![GitHub stars](https://img.shields.io/github/stars/apache/nutch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/nutch).
 
+* [sql2o](https://github.com/aaberg/sql2o) 从数据库查询数据自动转换成对象 [![GitHub stars](https://img.shields.io/github/stars/aaberg/sql2o.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aaberg/sql2o).
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
@@ -606,6 +608,8 @@
 * [disco-java](https://github.com/librato/disco-java) ZK做服务发现 [![GitHub stars](https://img.shields.io/github/stars/librato/disco-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/librato/disco-java).
 
 * [generic-thrift-client](https://github.com/waj89757/generic-thrift-client) thrift泛化调用 [![GitHub stars](https://img.shields.io/github/stars/waj89757/generic-thrift-client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/waj89757/generic-thrift-client).
+
+* [dubbox](https://github.com/dangdangdotcom/dubbox) dubbo增强 [![GitHub stars](https://img.shields.io/github/stars/dangdangdotcom/dubbox.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dangdangdotcom/dubbox).
 
 ### 分布式链路追踪
 
