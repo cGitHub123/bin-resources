@@ -284,6 +284,8 @@
 
 * [sql2o](https://github.com/aaberg/sql2o) 从数据库查询数据自动转换成对象 [![GitHub stars](https://img.shields.io/github/stars/aaberg/sql2o.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aaberg/sql2o).
 
+* [speedment](https://github.com/speedment/speedment) 以lambda的形式写SQL语句 [![GitHub stars](https://img.shields.io/github/stars/speedment/speedment.svg?style=social&label=Star&maxAge=2592000)](https://github.com/speedment/speedment).
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
