@@ -835,6 +835,7 @@
 
 * [ambry](https://github.com/linkedin/ambry) 主要用于大量媒体文件存储，比如图片啥的 [![GitHub stars](https://img.shields.io/github/stars/linkedin/ambry.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/ambry).
 
+* [ambry](https://github.com/alibaba/jetcache) jetcache缓存 [![GitHub stars](https://img.shields.io/github/stars/alibaba/jetcache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/jetcache).
 
 ### 流处理
 
