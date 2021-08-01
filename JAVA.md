@@ -282,6 +282,10 @@
 
 * [nutch](https://github.com/apache/nutch) 分布式爬虫 [![GitHub stars](https://img.shields.io/github/stars/apache/nutch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/nutch).
 
+* [sql2o](https://github.com/aaberg/sql2o) 从数据库查询数据自动转换成对象 [![GitHub stars](https://img.shields.io/github/stars/aaberg/sql2o.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aaberg/sql2o).
+
+* [speedment](https://github.com/speedment/speedment) 以lambda的形式写SQL语句 [![GitHub stars](https://img.shields.io/github/stars/speedment/speedment.svg?style=social&label=Star&maxAge=2592000)](https://github.com/speedment/speedment).
+
 ### 对比
 
 * [javers](https://github.com/javers/javers) 两个对象做数据对比
@@ -607,6 +611,8 @@
 
 * [generic-thrift-client](https://github.com/waj89757/generic-thrift-client) thrift泛化调用 [![GitHub stars](https://img.shields.io/github/stars/waj89757/generic-thrift-client.svg?style=social&label=Star&maxAge=2592000)](https://github.com/waj89757/generic-thrift-client).
 
+* [dubbox](https://github.com/dangdangdotcom/dubbox) dubbo增强 [![GitHub stars](https://img.shields.io/github/stars/dangdangdotcom/dubbox.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dangdangdotcom/dubbox).
+
 ### 分布式链路追踪
 
 * [skywalking](https://github.com/apache/skywalking) 无侵入，可以监控JVM，具有APM功能的追踪工具 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/skywalking).
@@ -835,7 +841,9 @@
 
 * [ambry](https://github.com/linkedin/ambry) 主要用于大量媒体文件存储，比如图片啥的 [![GitHub stars](https://img.shields.io/github/stars/linkedin/ambry.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/ambry).
 
-* [ambry](https://github.com/alibaba/jetcache) jetcache缓存 [![GitHub stars](https://img.shields.io/github/stars/alibaba/jetcache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/jetcache).
+* [jetcache](https://github.com/alibaba/jetcache) jetcache缓存 [![GitHub stars](https://img.shields.io/github/stars/alibaba/jetcache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/jetcache).
+
+* [Lealone](https://github.com/lealone/Lealone) 极具创新的面向单机与分布式 OLTP 场景的异步化 NewSQL 关系数据库 [![GitHub stars](https://img.shields.io/github/stars/lealone/Lealone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lealone/Lealone).
 
 ### 流处理
 
