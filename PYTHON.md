@@ -12,6 +12,8 @@
 
 * [auto-sklearn](https://github.com/automl/auto-sklearn) 自动进行机器学习 [![GitHub stars](https://img.shields.io/github/stars/automl/auto-sklearn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/automl/auto-sklearn).
 
+* [Kats](https://github.com/facebookresearch/Kats) 分析时序数据，可以预测，异常检测等 [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/Kats.svg?style=social&label=Star&maxAge=2592000)](https://github.com/facebookresearch/Kats).
+
 ### 数据处理
 
 * [manim](https://github.com/3b1b/manim) 做出高逼格的数学动画  [![GitHub stars](https://img.shields.io/github/stars/3b1b/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/3b1b/manim).
@@ -76,6 +78,12 @@
 * [seaborn](https://github.com/mwaskom/seaborn) 可视化 [![GitHub stars](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mwaskom/seaborn).
 
 * [onionshare](https://github.com/micahflee/onionshare) 从洋葱网络交换资源 [![GitHub stars](https://img.shields.io/github/stars/micahflee/onionshare.svg?style=social&label=Star&maxAge=2592000)](https://github.com/micahflee/onionshare).
+
+### 监控
+
+* [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) ES监控平台 [![GitHub stars](https://img.shields.io/github/stars/ElasticHQ/elasticsearch-HQ.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ElasticHQ/elasticsearch-HQ).
+
+* [healthchecks](https://github.com/healthchecks/healthchecks) 定时任务监控工具 [![GitHub stars](https://img.shields.io/github/stars/healthchecks/healthchecks.svg?style=social&label=Star&maxAge=2592000)](https://github.com/healthchecks/healthchecks).
 
 ### 资源
 
