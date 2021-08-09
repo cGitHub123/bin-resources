@@ -4,6 +4,8 @@
 
 * [watchman](https://github.com/facebook/watchman) 检测文件变动 [![GitHub stars](https://img.shields.io/github/stars/facebook/watchman.svg?style=social&label=Star&maxAge=2592000)](https://github.com/facebook/watchman).
 
+* [CoreFreq](https://github.com/cyring/CoreFreq) CPU监控 [![GitHub stars](https://img.shields.io/github/stars/cyring/CoreFreq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cyring/CoreFreq).
+
 ### 工具
 
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) nginx嵌入lua [![GitHub stars](https://img.shields.io/github/stars/openresty/lua-nginx-module.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openresty/lua-nginx-module).
