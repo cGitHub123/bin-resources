@@ -841,7 +841,9 @@
 
 * [ambry](https://github.com/linkedin/ambry) 主要用于大量媒体文件存储，比如图片啥的 [![GitHub stars](https://img.shields.io/github/stars/linkedin/ambry.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/ambry).
 
-* [ambry](https://github.com/lealone/Lealone) 极具创新的面向单机与分布式 OLTP 场景的异步化 NewSQL 关系数据库 [![GitHub stars](https://img.shields.io/github/stars/lealone/Lealone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lealone/Lealone).
+* [jetcache](https://github.com/alibaba/jetcache) jetcache缓存 [![GitHub stars](https://img.shields.io/github/stars/alibaba/jetcache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/jetcache).
+
+* [Lealone](https://github.com/lealone/Lealone) 极具创新的面向单机与分布式 OLTP 场景的异步化 NewSQL 关系数据库 [![GitHub stars](https://img.shields.io/github/stars/lealone/Lealone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lealone/Lealone).
 
 ### 流处理
 
