@@ -1,5 +1,7 @@
 ### AI
 
+* [models](https://github.com/tensorflow/models) tf构建的model [![GitHub stars](https://img.shields.io/github/stars/tensorflow/models.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tensorflow/models).
+
 * [keras](https://github.com/keras-team/keras) 深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras.svg?style=social&label=Star&maxAge=2592000)](https://github.com/keras-team/keras).
 
 * [funNLP](https://github.com/fighting41love/funNLP) 几乎最全的中文NLP资源库 [![GitHub stars](https://img.shields.io/github/stars/fighting41love/funNLP.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fighting41love/funNLP).
@@ -13,6 +15,18 @@
 * [auto-sklearn](https://github.com/automl/auto-sklearn) 自动进行机器学习 [![GitHub stars](https://img.shields.io/github/stars/automl/auto-sklearn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/automl/auto-sklearn).
 
 * [Kats](https://github.com/facebookresearch/Kats) 分析时序数据，可以预测，异常检测等 [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/Kats.svg?style=social&label=Star&maxAge=2592000)](https://github.com/facebookresearch/Kats).
+
+* [recommenders](https://github.com/microsoft/recommenders) 推荐系统 [![GitHub stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social&label=Star&maxAge=2592000)](https://github.com/microsoft/recommenders).
+
+* [ludwig](https://github.com/ludwig-ai/ludwig) 不需要写代码就可以训练model [![GitHub stars](https://img.shields.io/github/stars/ludwig-ai/ludwig.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ludwig-ai/ludwig).
+
+* [deepo](https://github.com/ufoym/deepo) 一条命令构建深度学习环境 [![GitHub stars](https://img.shields.io/github/stars/ufoym/deepo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ufoym/deepo).
+
+* [auto-sklearn](https://github.com/automl/auto-sklearn) 自动进行机器学习 [![GitHub stars](https://img.shields.io/github/stars/automl/auto-sklearn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/automl/auto-sklearn).
+
+* [Surprise](https://github.com/NicolasHug/Surprise) 构建和分析推荐系统 [![GitHub stars](https://img.shields.io/github/stars/NicolasHug/Surprise.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NicolasHug/Surprise).
+
+* [optuna](https://github.com/optuna/optuna) 超参数调试 [![GitHub stars](https://img.shields.io/github/stars/optuna/optunasvg?style=social&label=Star&maxAge=2592000)](https://github.com/optuna/optuna).
 
 ### 数据处理
 
@@ -57,6 +71,14 @@
 
 * [wait-for-it](https://github.com/vishnubob/wait-for-it) 监听指定的端口 [![GitHub stars](https://img.shields.io/github/stars/vishnubob/wait-for-it.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vishnubob/wait-for-it).
 
+* [cheat.sh](https://github.com/chubin/cheat.sh) cheatsheet [![GitHub stars](https://img.shields.io/github/stars/chubin/cheat.sh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chubin/cheat.sh).
+
+* [q](https://github.com/harelba/q) 在excel上执行SQL [![GitHub stars](https://img.shields.io/github/stars/harelba/q.svg?style=social&label=Star&maxAge=2592000)](https://github.com/harelba/q).
+
+* [jrnl](https://github.com/jrnl-org/jrnl) 通过命令行记录日记 [![GitHub stars](https://img.shields.io/github/stars/jrnl-org/jrnl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jrnl-org/jrnl).
+
+* [ntfy](https://github.com/dschep/ntfy) 命令行完成的时候发送邮件 [![GitHub stars](https://img.shields.io/github/stars/dschep/ntfy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dschep/ntfy).
+
 ### TOR
 
 * [searx](https://github.com/searx/searx) Searx是一个免费的互联网元搜索引擎，汇集了70多种搜索服务的结果。 用户既不被跟踪也不被分析。 此外，searx可以在Tor上实现在线匿名搜索[![GitHub stars](https://img.shields.io/github/stars/searx/searx.svg?style=social&label=Star&maxAge=2592000)](https://github.com/searx/searx).
@@ -71,6 +93,10 @@
 
 * [Arjun](https://github.com/s0md3v/Arjun) 给定一个URL，爆破GET/POST参数 [![GitHub stars](https://img.shields.io/github/stars/s0md3v/Arjun.svg?style=social&label=Star&maxAge=2592000)](https://github.com/s0md3v/Arjun).
 
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) SQL注入 [![GitHub stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sqlmapproject/sqlmap).
+
+* [onionshare](https://github.com/micahflee/onionshare) 通过洋葱网络交换资源 [![GitHub stars](https://img.shields.io/github/stars/micahflee/onionshare.svg?style=social&label=Star&maxAge=2592000)](https://github.com/micahflee/onionshare).
+
 ### 可视化
 
 * [bokeh](https://github.com/bokeh/bokeh) 交互式的python可视化工具 [![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bokeh/bokeh).
@@ -79,9 +105,21 @@
 
 * [onionshare](https://github.com/micahflee/onionshare) 从洋葱网络交换资源 [![GitHub stars](https://img.shields.io/github/stars/micahflee/onionshare.svg?style=social&label=Star&maxAge=2592000)](https://github.com/micahflee/onionshare).
 
+### 存储
+
+* [edgedb](https://github.com/edgedb/edgedb) 下一代关系型数据库 [![GitHub stars](https://img.shields.io/github/stars/edgedb/edgedb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/edgedb/edgedb).
+
 ### 监控
 
+* [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) 异常检测 [![GitHub stars](https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yzhao062/anomaly-detection-resources).
+
 * [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) ES监控平台 [![GitHub stars](https://img.shields.io/github/stars/ElasticHQ/elasticsearch-HQ.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ElasticHQ/elasticsearch-HQ).
+
+* [elastalert](https://github.com/Yelp/elastalert) 基于ES做监控 [![GitHub stars](https://img.shields.io/github/stars/Yelp/elastalert.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Yelp/elastalert).
+
+* [gixy](https://github.com/yandex/gixy) 分析nginx配置 [![GitHub stars](https://img.shields.io/github/stars/yandex/gixy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yandex/gixy).
+
+* [ngxtop](https://github.com/lebinh/ngxtop) 监控nginx [![GitHub stars](https://img.shields.io/github/stars/lebinh/ngxtop.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lebinh/ngxtop).
 
 * [healthchecks](https://github.com/healthchecks/healthchecks) 定时任务监控工具 [![GitHub stars](https://img.shields.io/github/stars/healthchecks/healthchecks.svg?style=social&label=Star&maxAge=2592000)](https://github.com/healthchecks/healthchecks).
 
@@ -89,6 +127,9 @@
 
 * [python-cheatsheet](https://github.com/gto76/python-cheatsheet) python cheatsheet [![GitHub stars](https://img.shields.io/github/stars/gto76/python-cheatsheet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gto76/python-cheatsheet).
 
+* [awesome-aws](https://github.com/donnemartin/awesome-aws) aws [![GitHub stars](https://img.shields.io/github/stars/donnemartin/awesome-aws.svg?style=social&label=Star&maxAge=2592000)](https://github.com/donnemartin/awesome-aws).
+
+* [gitfiti](hhttps://github.com/gelstudios/gitfiti) github刷墙 [![GitHub stars](https://img.shields.io/github/stars/gelstudios/gitfiti.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gelstudios/gitfiti).
 
 * [d2l-zh](https://github.com/d2l-ai/d2l-zh) 自己动手学深度学习 [![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/d2l-ai/d2l-zh).
 
