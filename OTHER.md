@@ -12,6 +12,10 @@
 
 * [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) GRPC相关资源 [![GitHub stars](https://img.shields.io/github/stars/grpc-ecosystem/awesome-grpc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grpc-ecosystem/awesome-grpc).
 
+* [awesome-consensus](https://github.com/dgryski/awesome-consensus) 共识协议 [![GitHub stars](https://img.shields.io/github/stars/dgryski/awesome-consensus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dgryski/awesome-consensus).
+
+* [awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) 分布式系统 [![GitHub stars](https://img.shields.io/github/stars/rShetty/awesome-distributed-systems.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rShetty/awesome-distributed-systems).
+
 
 ### 资源
 
