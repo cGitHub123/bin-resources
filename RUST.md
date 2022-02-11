@@ -129,6 +129,8 @@
 
 * [anyhow](https://github.com/dtolnay/anyhow) 错误处理 [![GitHub stars](https://img.shields.io/github/stars/dtolnay/anyhow.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dtolnay/anyhow).
 
+* [fehler](https://github.com/withoutboats/fehler) 异常简化处理 [![GitHub stars](https://img.shields.io/github/stars/withoutboats/fehler.svg?style=social&label=Star&maxAge=2592000)](https://github.com/withoutboats/fehler).
+
 ### 数据结构和算法
 
 * [rust-algorithms](https://github.com/EbTech/rust-algorithms) 数据结构和算法 [![GitHub stars](https://img.shields.io/github/stars/EbTech/rust-algorithms.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EbTech/rust-algorithms).
@@ -181,13 +183,19 @@
 
 * [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) SQL解析 [![GitHub stars](https://img.shields.io/github/stars/sqlparser-rs/sqlparser-rs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sqlparser-rs/sqlparser-rs).
 
+* [sled](https://github.com/spacejam/sled) 一个嵌入式数据库 [![GitHub stars](https://img.shields.io/github/stars/spacejam/sled.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spacejam/sled).
+
 ### 区块链
 
 * [substrate](https://github.com/paritytech/substrate) 波卡的变种 [![GitHub stars](https://img.shields.io/github/stars/paritytech/substrate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/paritytech/substrate).
 
 * [stacks-blockchain](https://github.com/blockstack/stacks-blockchain) Stacks 2.0 [![GitHub stars](https://img.shields.io/github/stars/blockstack/stacks-blockchain.svg?style=social&label=Star&maxAge=2592000)](https://github.com/blockstack/stacks-blockchain).
 
-* [cita](hhttps://github.com/citahub/cita) 区块链内核 [![GitHub stars](https://img.shields.io/github/stars/citahub/cita.svg?style=social&label=Star&maxAge=2592000)](https://github.com/citahub/cita).
+* [cita](https://github.com/citahub/cita) 区块链内核 [![GitHub stars](https://img.shields.io/github/stars/citahub/cita.svg?style=social&label=Star&maxAge=2592000)](https://github.com/citahub/cita).
+
+* [akula](https://github.com/akula-bft/akula) 下一代ETH实现 [![GitHub stars](https://img.shields.io/github/stars/akula-bft/akula.svg?style=social&label=Star&maxAge=2592000)](https://github.com/akula-bft/akula).
+
+* [evm](https://github.com/rust-blockchain/evm) evm的rust实现 [![GitHub stars](https://img.shields.io/github/stars/rust-blockchain/evm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rust-blockchain/evm).
 
 ### 开发
 
