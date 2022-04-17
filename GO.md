@@ -1,5 +1,17 @@
 [toc]
 
+### 日志
+
+* [logrus](https://github.com/sirupsen/logrus) GO语言的日志组件 [![GitHub stars](https://img.shields.io/github/stars/sirupsen/logrus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sirupsen/logrus).
+
+### 读取配置
+
+* [viper](https://github.com/spf13/viper) go获取配置，包括JSON，TOML，YAML，ENV [![GitHub stars](https://img.shields.io/github/stars/spf13/viper.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spf13/viper).
+
+### DEBUG
+
+* [delve](https://github.com/go-delve/delve) 主要用于DEBUG，包括VS之类的都支持 [![GitHub stars](https://img.shields.io/github/stars/go-delve/delve.svg?style=social&label=Star&maxAge=2592000)](https://github.com/go-delve/delve).
+
 ### web
 
 * [hugo](https://github.com/gohugoio/hugo)  静态网站生成器 [![GitHub stars](https://img.shields.io/github/stars/tsenart/vegeta.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gohugoio/hugo).
@@ -128,6 +140,10 @@
 
 * [goreplay](https://github.com/buger/goreplay) GO将HTTP请求重放到测试环境 [![GitHub stars](https://img.shields.io/github/stars/buger/goreplay.svg?style=social&label=Star&maxAge=2592000)](https://github.com/buger/goreplay).
 
+* [vegeta](https://github.com/tsenart/vegeta) HTTP压力测试 [![GitHub stars](https://img.shields.io/github/stars/tsenart/veget.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tsenart/vegeta).
+
+* [k6](https://github.com/grafana/k6) HTTP压力测试 [![GitHub stars](https://img.shields.io/github/stars/grafana/k6.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grafana/k6).
+
 ### 多线程
 
 * [ants](https://github.com/panjf2000/ants) 高性能且低损耗的 goroutine 池 [![GitHub stars](https://img.shields.io/github/stars/panjf2000/ants.svg?style=social&label=Star&maxAge=2592000)](https://github.com/panjf2000/ants).
@@ -135,6 +151,8 @@
 * [tunny](https://github.com/Jeffail/tunny) GO协程池 [![GitHub stars](https://img.shields.io/github/stars/Jeffail/tunny.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Jeffail/tunny).
 
 ### Docker/K8S
+
+* [helm](https://github.com/helm/helm) K8S的包管理 [![GitHub stars](https://img.shields.io/github/stars/helm/helm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/helm/helm).
 
 * [dive](https://github.com/wagoodman/dive) 探索docker image的每一层 [![GitHub stars](https://img.shields.io/github/stars/wagoodman/dive.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wagoodman/dive).
 
@@ -167,6 +185,8 @@
 * [dashboard](https://github.com/kubernetes/dashboard) K8S的WEB界面 [![GitHub stars](https://img.shields.io/github/stars/kubernetes/dashboard.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kubernetes/dashboard).
 
 * [kops](https://github.com/kubernetes/kops) 生产级别K8S安装，升级，管理 [![GitHub stars](https://img.shields.io/github/stars/kubernetes/kops.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kubernetes/kops).
+
+* [docker-slim](https://github.com/docker-slim/docker-slim) 减少DOCKER镜像的存储空间 [![GitHub stars](https://img.shields.io/github/stars/docker-slim/docker-slim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/docker-slim/docker-slim).
 
 ### 分布式链路追踪
 
@@ -216,8 +236,11 @@
 
 * [falcon-plus](https://github.com/open-falcon/falcon-plus) OpenFalcon是一款企业级、高可用、可扩展的开源监控解决方案。 [![GitHub stars](https://img.shields.io/github/stars/open-falcon/falcon-plus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/open-falcon/falcon-plus).
 
+* [restic](https://github.com/restic/restic) 备份工具，支持HTTP，SFTP，S3等方式进行备份  [![GitHub stars](https://img.shields.io/github/stars/restic/restic.svg?style=social&label=Star&maxAge=2592000)](https://github.com/restic/restic).
 
 ### 存储
+
+* [cayley](https://github.com/cayleygraph/cayley) 开源图数据库 [![GitHub stars](https://img.shields.io/github/starscayleygraph/cayley.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cayleygraph/cayley).
 
 * [seaweedfs](https://github.com/chrislusf/seaweedfs) SeaweedFS 是简单，高伸缩性的分布式文件系统 [![GitHub stars](https://img.shields.io/github/stars/go-kratos/kratos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chrislusf/seaweedfs).
 
@@ -290,13 +313,13 @@
 
 * [blackbox](https://github.com/StackExchange/blackbox) 在github上保存机密信息 [![GitHub stars](https://img.shields.io/github/stars/StackExchange/blackbox.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StackExchange/blackbox).
 
-### 资源
+### 资源/代码模板
 
 * [gitql](https://github.com/filhodanuvem/gitql) 在git仓库中做sql查询 [![GitHub stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=social&label=Star&maxAge=2592000)](https://github.com/filhodanuvem/gitql).
 
 * [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) 根据测试用例学习GO [![GitHub stars](https://img.shields.io/github/stars/quii/learn-go-with-tests.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quii/learn-go-with-tests).
 
-* [learngo](https://github.com/inancgumus/learngo) 好好学习go [![GitHub stars](https://img.shields.io/github/stars/inancgumus/learngo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/inancgumus/learngo).
+* [learngo](https://github.com/inancgumus/learngo) 代码模板 [![GitHub stars](https://img.shields.io/github/stars/inancgumus/learngo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/inancgumus/learngo).
 
 * [The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) GO标准库 [![GitHub stars](https://img.shields.io/github/stars/polaris1119/The-Golang-Standard-Library-by-Example.svg?style=social&label=Star&maxAge=2592000)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example).
 

@@ -1,5 +1,3 @@
-
-
 ### 实现
 
 * [go-ethereum](https://github.com/ethereum/go-ethereum) go的以太坊实现 [![GitHub stars](https://img.shields.io/github/stars/ethereum/go-ethereum.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ethereum/go-ethereum).
@@ -61,9 +59,6 @@
 * [tendermint](https://github.com/tendermint/tendermint) Tendermint是区块链范式中的一个安全的状态机复制算法。其算法形态为BFT-ABC,并且附加责任制,便于验证拜占庭节点的不诚实行为 [![GitHub stars](https://img.shields.io/github/stars/tendermint/tendermint.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tendermint/tendermint).
 
 * [quorum](https://github.com/ConsenSys/quorum) Quorum 是由 JPMorgan 推出的一种分布式账本协议，它为金融、供应链、零售、房地产等行业提供支持隐私交易和隐私合约的以太坊联盟链实现 [![GitHub stars](https://img.shields.io/github/stars/ConsenSys/quorum.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ConsenSys/quorum).
-
-
-
 
 ### 资源
 
